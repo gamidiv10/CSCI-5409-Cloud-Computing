@@ -1,0 +1,1946 @@
+﻿This is the file GUTINDEX.2000
+
+Last Updated on September 27, 2015
+
+See the file GUTINDEX.ALL for all Project Gutenberg eBooks.
+
+
+                         -=] INTRODUCTION [=-
+
+GUTINDEX.2000 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2000 and December 31, 2000
+beginning with eBook number 2378 and ending with eBook number 3105.
+
+It is not a database, but it is useful for identifying eBooks so that they
+can be downloaded or read online.
+
+
+HOW TO GET EBOOKS FROM PROJECT GUTENBERG
+
+The easiest and quickest way to obtain one specific eBook is via our search
+page at
+
+       http://www.gutenberg.org/catalog/world/search
+
+where you can search by the eBook number for the particular book you want.
+
+Other search engines at Project Gutenberg will provide you with more
+information on more books by the same author using the same ebook
+number, such as:
+
+          http://www.gutenberg.org/ebooks/
+
+or by author's name:
+
+      http://www.gutenberg.org/browse/authors/a
+
+
+ONLINE DATABASE
+
+The online database can be accessed at
+
+ http://www.gutenberg.org/catalog/
+
+
+HOW TO DOWNLOAD AN EBOOK TO YOUR MOBILE DEVICE
+
+If your device is Internet-enabled, just visit the catalog page for a book
+and download one of the available formats that your device can display. If
+your device is not Internet-enabled, then download to a computer and transfer
+the book's file to your device using a USB cable or similar method. If your
+device utilizes a different format from those available at Project Gutenberg
+you will have to obtain an app to convert your ebook to your device's format.
+
+
+SITE MAP
+
+If you're interested, here is the Site Map to Project Gutenberg:
+
+          http://www.gutenberg.org/
+
+
+MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the
+world and you can select one nearer to your location from the link on the
+search results page. However, if you have access to the world wide web
+(www) the direct links above are much simplier.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://www.gutenberg.org/MIRRORS.ALL
+
+Copy the URL of your choice and paste it in a new tab in your browser and
+tap the "Enter" key on your keyboard.
+
+
+DIRECT ACCESS
+
+To directly access the file directories:
+
+  http://www.gutenberg.org/dirs/
+    - or -
+  ftp://www.gutenberg.org/pub/docs/books/gutenberg/
+
+
+PLAIN TEXT
+
+Whenever possible, Project Gutenberg distributes a plain text version of an eBook
+(.txt) in addition to several other choices. We stress the inclusion of plain
+text because it is the "lowest common denominator" of formats and for its
+longevity. Since Project Gutenberg began, dozens of widely used file formats have
+come and gone, but the text format still remains. Text is accessible on all
+computers and is insurance against future obsolescence.
+
+The only times when Project Gutenberg distributes an eBook without a plain text
+version are when plain text is impossible or impractical -- for example, for our
+videos and MP3 audio files, and for some of our mathematical works.
+
+     (Please note that files ending in .tex are mainly technical writings
+      in TeX or LaTeX format, and should not be confused with text files.)
+
+
+ZIP FILES
+
+Files ending in .zip are compressed using the Zip method. This saves space
+and should result in faster downloads. Many include images or support files.
+Whenever practical, Project Gutenberg files are available as a zipped file.
+These files will be found under "More Files..." on the ebook download page.
+
+
+CORRECTIONS
+
+To report an error in the listings, please email to help2018@pglaf.org and
+include the word CORRECTION in the subject line.
+
+
+SUBMITTING NEW EBOOKS
+
+If you are considering adding a new eBook to the Project Gutenberg
+collection, Please make sure that any books you want to work on are _not_
+already in the collection.  To see what is already online, refer to the
+listing below.  Also, please be sure to check David Price's "In Progress"
+list at:
+
+  http://pglaf.org/~ccx074/gutip.html
+
+to ensure no one is currently working on your selection.
+
+
+COPYRIGHT CLEARANCE
+
+It would also be helpful if you obtain copyright clearance prior to submitting
+books. More information on this can be found at:
+
+  http://www.gutenberg.org/
+
+
+APPENDIX
+
+Please see the Appendix at the end of each eBook catalog for some
+general comments and clarification.
+
+
+                               <==LISTINGS==>
+
+**** A "C" Following a Project Gutenberg eBook Number Indicates Copyright ****
+
+   **** The Language of the eBooks is English, unless otherwise noted ****
+
+To view accent marks correctly set your browser view to Unicode Character Encoding:
+
+                     View > Character Encoding > Unicode
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Jan 2000 to 31 Dec 2000 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     ETEXT NO.
+
+That Fortune, by Charles Dudley Warner                                    3105
+
+The Golden House, by Charles Dudley Warner                                3104
+
+A Little Journey in the World, by Charles Dudley Warner                   3103
+
+Their Pilgrimage, by Charles Dudley Warner                                3102
+
+Washington Irving, by Charles Dudley Warner                               3101
+
+Legge Prolegomena, by James Legge                                         3100
+
+The Old Merchant Marine: A Chronicle of American Ships and Sailors,       3099
+ by Ralph D. Paine
+ [Subtitle: The Chronicles of America Series, Vol. 36 of 50]
+
+The Paths of Inland Commerce: A Chronicle of Trail, Road, and Waterway,   3098
+ by Archer B. Hulbert
+ [Subtitle: The Chronicles of America Series, Vol. 21 of 50]
+
+The Wanderer's Necklace, by H. Rider Haggard                              3097
+
+Beatrice, by H. Rider Haggard                                             3096
+
+The Lady of the Shroud, by Bram Stoker                                    3095
+
+Red Eve, by H. Rider Haggard                                              3094
+
+The Eve of the Revolution: A Chronicle of the Breach with England,        3093
+ by Carl Becker
+ [Subtitle: The Chronicles of America Series, Vol. 11 of 50]
+
+The Conquest of New France: A Chronicle of the Colonial Wars,             3092
+ by George M. Wrong
+ [Subtitle: The Chronicles of America Series, Vol. 10 of 50]
+
+Eight Hundred Leagues on the Amazon, by Jules Verne                       3091
+
+Original Short Stories, Complete, by Guy de Maupassant                    3090
+
+Original Short Stories, Vol. 13 of 13, by Guy de Maupassant               3089
+
+Original Short Stories, Vol. 12 of 13, by Guy de Maupassant               3088
+
+Original Short Stories, Vol. 11 of 13, by Guy de Maupassant               3087
+
+Original Short Stories, Vol. 10 of 13, by Guy de Maupassant               3086
+
+Original Short Stories, Vol. 9 of 13, by Guy de Maupassant                3085
+
+Original Short Stories, Vol. 8 of 13, by Guy de Maupassant                3084
+
+Original Short Stories, Vol. 7 of 13, by Guy de Maupassant                3083
+
+Original Short Stories, Vol. 6 of 13, by Guy de Maupassant                3082
+
+Original Short Stories, Vol. 5 of 13, by Guy de Maupassant                3081
+
+Original Short Stories, Vol. 4 of 13, by Guy de Maupassant                3080
+
+Original Short Stories, Vol. 3 of 13, by Guy de Maupassant                3079
+
+Original Short Stories, Vol. 2 of 13, by Guy de Maupassant                3078
+
+Original Short Stories, Vol. 1 of 13, by Guy de Maupassant                3077
+
+Ten Days That Shook the World, by John Reed                               3076
+
+The Return, by Walter de la Mare                                          3075
+
+The Burgess Bird Book for Children, by Thornton W. Burgess                3074
+
+Pioneers of the Old Southwest: A Chronicle of the Dark and Bloody         3073
+ Ground, by Constance Lindsay Skinner
+ [Subtitle: The Chronicles of America Series, Vol. 18 of 50]
+
+Andersonville, by John McElroy                                            3072
+
+The Golden Slipper, by Anna Katharine Green                               3071
+
+The Hound of the Baskervilles, by Arthur Conan Doyle                      3070
+
+The Great Boer War, by Arthur Conan Doyle                                 3069
+
+Washington Square Plays, by Various                                       3068
+ [Subtitle: Vol. 20, The Drama League Series of Plays]
+
+Hard Cash, by Charles Reade                                               3067
+
+The Red Man's Continent: A Chronicle of Aboriginal America,               3066
+ by Ellsworth Huntington
+ [Subtitle: The Chronicles of America Series, Vol. 1 of 50]
+
+Römische Geschichte, Band 8, durch Theodor Mommsen                        3065
+ [Language: German]
+
+Römische Geschichte, Band 5, durch Theodor Mommsen                        3064
+ [Language: German]
+
+Römische Geschichte, Band 4, durch Theodor Mommsen                        3063
+ [Language: German]
+
+Römische Geschichte, Band 3, durch Theodor Mommsen                        3062
+ [Language: German]
+
+Römische Geschichte, Band 2, durch Theodor Mommsen                        3061
+ [Language: German]
+
+Römische Geschichte, Band 1, durch Theodor Mommsen                        3060
+ [Language: German]
+
+The Iliad, by Homer                                                       3059
+
+A Changed Man and Other Tales, by Thomas Hardy                            3058
+
+The Common Edition of the New Testament                                   3057C
+
+Wessex Tales, by Thomas Hardy                                             3056
+
+The Wood Beyond the World, by William Morris                              3055
+
+Volcanic Islands, by Charles Darwin                                       3054
+
+Signs of Change, by William Morris                                        3053
+ [Subtitle: Seven Lectures]
+
+The Complete Works of Plutarch, Vol. 3, Essays and Miscellanies           3052
+
+An Open-Eyed Conspiracy, by W. D. Howells                                 3051
+ [Subtitle: An Idyl of Saratoga]
+
+Notes of a War Correspondent, by Richard Harding Davis                    3050
+ [Illustrator: F. C. Yohn]
+
+A Group of Noble Dames, by Thomas Hardy                                   3049
+
+The Little Duke, by Charlotte M. Yonge                                    3048
+ [Subtitle: Richard the Fearless]
+
+Life's Little Ironies, by Thomas Hardy                                    3047
+ [Subtitle: A set of tales with some colloquial sketches
+  entitled "A Few Crusted Characters"]
+
+The Land of the Changing Sun, by William N. Harben                        3046
+
+The Last Chronicle of Barset, by Anthony Trollope                         3045
+
+Desperate Remedies, by Thomas Hardy                                       3044
+
+The Quaker Colonies: A Chronicle of the Proprietors of the Delaware,      3043
+ by Sydney G. Fisher
+ [Subtitle: The Chronicles of America Series, Vol. 8 of 50]
+
+Hispanic Nations of the New World, by Wm. R. Shepherd                     3042
+
+The Cleveland Era, A Chronicle of the New Order in Politics,              3041
+ by Henry Jones Ford
+ [Subtitle: The Chronicles of America Series, Vol. 44 of 50]
+
+The Boss & the Machine: A Chronicle of the Politicians and Party          3040
+ Organization, by Samuel P. Orth
+ [Subtitle: The Chronicles of America Series, Vol. 43 of 50]
+
+Forty-Two Poems, by James Elroy Flecker                                   3039
+
+The Armies of Labor: A Chronicle of the Organized Wage-Earners,           3038
+ by Samuel P. Orth
+ [Subtitle: The Chronicles of America Series, Vol. 40 of 50]
+
+The Age of Big Business: A chronicle of the Captains of Industry,         3037
+ by Burton J. Hendrick
+ [Subtitle: The Chronicles of America Series, Vol. 39 of 50]
+
+The Railroad Builders: A Chronicle of the Welding of the States,          3036
+ by John Moody
+ [Subtitle: The Chronicles of America Series, Vol. 38 of 50]
+
+The Day of the Confederacy: A Chronicle of the Embattled South,           3035
+ by Nathaniel Stephenson
+ [Subtitle: The Chronicles of America Series, Vol. 30 of 50]
+
+The Anti-slavery Crusade: A Chronicle of the Gathering Storm,             3034
+ by Jesse Macy
+ [Subtitle: The Chronicles of America Series, Vol. 28 of 50]
+
+The Passing of the Frontier: A Chronicle of the Old West,                 3033
+ by Emerson Hough
+ [Subtitle: The Chronicles of America Series, Vol. 26 of 50]
+
+The Fathers of the Constitution: A Chronicle of the Establishment         3032
+ of the Union, by Max Farrand
+ [Subtitle: The Chronicles of America Series, Vol. 13 of 50]
+
+Wild Animals I Have Known, by E. T. Seton                                 3031
+
+The Tavern Knight, by Rafael Sabatini                                     3030
+
+Real Soldiers of Fortune, by Richard Harding Davis                        3029
+
+The Peterkin Papers, by Lucretia P. Hale                                  3028
+
+The Orange Fairy Book, by Unknown                                         3027
+
+North of Boston, by Robert Frost                                          3026
+
+A Mountain Europa, by John Fox, Jr.                                       3025
+
+The Last Stetson, by John Fox, Jr.                                        3024
+
+Faust, Part 1, by Johann W. Von Goethe                                    3023
+
+A Cumberland Vendetta, by John Fox, Jr                                    3022
+
+A Boy's Will, Robert Frost                                                3021
+
+Table-Talk, William Hazlitt                                               3020
+
+Pointed Roofs, by Dorothy Richardson                                      3019
+ [Subtitle: Pilgrimage, Volume 1]
+
+Not Used                                                                  3018
+
+The Forerunner, Vol. 1, by Charlotte P. Gilman                            3017
+
+What Diantha Did, by Charlotte Perkins Gilman                             3016
+
+Our Androcentric Culture, by Charlotte P. Gilman                          3015
+
+The Old Northwest: A Chronicle of the Ohio Valley and Beyond,             3014
+ by Frederic Austin Ogg
+ [Subtitle: The Chronicles of America Series, Vol. 19 of 50]
+
+The Birds, by Aristophanes                                                3013
+
+The Acharnians, by Aristophanes                                           3012
+
+The Lady of the Lake, by Sir Walter Scott                                 3011
+
+Project Gutenberg Dumas Commentary, by John Bursey                        3010
+
+Truth and the Myth, by A. R. Narayanan                                    3009C
+
+The New Hacker's Dictionary, Version 4.2.2, by various                    3008
+
+The Smoky God, by Willis George Emerson                                   3007
+
+Stalky & Co., by Rudyard Kipling                                          3006
+
+Tom Swift and his Airship, by Victor Appleton                             3005
+ [Subtitle: or, The Stirring Cruise of the Red Cloud]
+
+Jefferson and His Colleagues: A Chronicle of the Virginia Dynasty,        3004
+ by Allen Johnson
+ [Subtitle: The Chronicles of America Series, Vol. 15 of 50]
+
+Wild Flowers, by Neltje Blanchan                                          3003
+ [Title a.k.a. Nature's Garden]
+
+Society's Child (Audio), by Janis Ian                                     3002C
+
+Society's Child (Lyrics), by Janis Ian                                    3001C
+
+A l'ombre des jeune filles en fleurs, par Marcel Proust                   3000
+ [Subtitle: Volume 3]
+ [Language: French]
+
+A l'ombre des jeune filles en fleurs, par Marcel Proust                   2999
+ [Subtitle: Volume 2]
+ [Language: French]
+
+A l'ombre des jeune filles en fleurs, par Marcel Proust                   2998
+ [Subtitle: Volume 1]
+ [Language: French]
+
+Time's Laughingstocks, by Thomas Hardy                                    2997
+ [Subtitle: and Other Verses]
+
+The Romantic Adventures of a Milkmaid, by Thomas Hardy                    2996
+
+Tacitus on Germany, by Tacitus                                            2995
+
+A Spirit in Prison, by Robert Hichens                                     2994
+
+Samuel Butler: A Sketch, by Henry Festing Jones                           2993
+
+The Middle Class Gentleman, by Molière                                    2992
+ [Subtitle: Le Bourgeois Gentilhomme]
+
+Sir Francis Drake's Famous Voyage Round the World, by Francis Pretty      2991
+
+NEVER AGAIN! by Edward Carpenter                                          2990
+
+Garrison's Finish, by W. B. M. Ferguson                                   2989
+ [Subtitle: A Romance of the Race-Course]
+
+Mark Twain, A Biography, 1835-1910, Complete, by Albert Bigelow Paine     2988
+ [Subtitle: The Personal And Literary Life Of
+  Samuel Langhorne Clemens]
+
+Mark Twain, A Biography, Vol. 3, Part 2, 1907-1910,                       2987
+ by Albert Bigelow Paine
+ [Subtitle: The Personal And Literary Life
+  Of Samuel Langhorne Clemens]
+
+Mark Twain, A Biography, Vol. 3, Part 1, 1900-1907,                       2986
+ by Albert Bigelow Paine
+ [Subtitle: The Personal And Literary Life
+  Of Samuel Langhorne Clemens]
+
+Mark Twain, A Biography, Vol. 2, Part 2, 1886-1900,                       2985
+ by Albert Bigelow Paine
+ [Subtitle: The Personal And Literary Life
+  Of Samuel Langhorne Clemens]
+
+Mark Twain, A Biography, Vol. 2, Part 1, 1875-1886,                       2984
+ by Albert Bigelow Paine
+ [Subtitle: The Personal And Literary Life
+  Of Samuel Langhorne Clemens]
+
+Mark Twain, A Biography, Vol. 1, Part 2, 1866-1875,                       2983
+ [Subtitle: The Personal And Literary Life
+  Of Samuel Langhorne Clemens]
+
+Mark Twain, A Biography, Vol. 1, Part 1, 1835-1866,                       2982
+ by Albert Bigelow Paine
+ [Subtitle: The Personal And Literary Life
+  Of Samuel Langhorne Clemens]
+
+The Complete Memoires of Jacques Casanova de Seingalt,                    2981
+
+Old Age and Death, by Jacques Casanova de Seingalt                        2980
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 30 of 30]
+
+Florence to Trieste, by Jacques Casanova de Seingalt                      2979
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 29 of 30]
+
+Return to Rome, by Jacques Casanova de Seingalt                           2978
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 28 of 30]
+
+Expelled from Spain, by Jacques Casanova de Seingalt                      2977
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 27 of 30]
+
+Spain, by Jacques Casanova de Seingalt                                    2976
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 26 of 30]
+
+Russia and Poland, by Jacques Casanova de Seingalt                        2975
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 25 of 30]
+
+Flight from London to Berlin, by Jacques Casanova de Seingalt             2974
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 24 of 30]
+
+The English, by Jacques Casanova de Seingalt                              2973
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 23 of 30]
+
+To London, by Jacques Casanova de Seingalt                                2972
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 22 of 30]
+
+South Of France, by Jacques Casanova de Seingalt                          2971
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 21 of 30]
+
+Milan, by Jacques Casanova de Seingalt                                    2970
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 20 of 30]
+
+Back Again to Paris, by Jacques Casanova de Seingalt                      2969
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 19 of 30]
+
+Return to Naples, by Jacques Casanova de Seingalt                         2968
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 18 of 30]
+
+Return to Italy, by Jacques Casanova de Seingalt                          2967
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 18 of 30]
+
+Return to Italy, by Jacques Casanova de Seingalt                          2967
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 17 of 30]
+
+Depart Switzerland, by Jacques Casanova de Seingalt                       2966
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 16 of 30]
+
+With Voltaire, by Jacques Casanova de Seingalt                            2965
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 15 of 30]
+
+Switzerland, by Jacques Casanova de Seingalt                              2964
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 14 of 30]
+
+Holland and Germany, by Jacques Casanova de Seingalt                      2963
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 13 of 30]
+
+Return to Paris, by Jacques Casanova de Seingalt                          2962
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 12 of 30]
+
+Paris And Holland, by Jacques Casanova de Seingalt                        2961
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 11 of 30]
+
+Under the Leads, by Jacques Casanova de Seingalt                          2960
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 10 of 30]
+
+The False Nun, by Jacques Casanova de Seingalt                            2959
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 9 of 30]
+
+Convent Affairs, by Jacques Casanova de Seingalt                          2958
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 8 of 30]
+
+Venice, by Jacques Casanova de Seingalt                                   2957
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 7 of 30]
+
+Paris, by Jacques Casanova de Seingalt                                    2956
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 6 of 30]
+
+Milan and Mantua, by Jacques Casanova de Seingalt                         2955
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 5 of 30]
+
+Return to Venice, by Jacques Casanova de Seingalt                         2954
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 4 of 30]
+
+Military Career, by Jacques Casanova de Seingalt                          2953
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 3 of 30]
+
+A Cleric in Naples, by Jacques Casanova de Seingalt                       2952
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 2 of 30]
+
+Childhood And Adolescence, by Jacques Casanova de Seingalt                2951
+ [Subtitle: The Memoirs of Jacques Casanova de Seingalt,
+  1725-1798, Volume 1 of 30]
+
+The Midnight Queen, by May Agnes Fleming                                  2950
+
+Stories of a Western Town, by Octave Thanet                               2949
+
+Where Angels Fear to Tread, by E. M. Forster                              2948
+
+Die von denen Faunen gepeitschte Laster,                                  2947
+ durch Sidonia Hedwig Zaeunemann
+ [Language: German]
+
+Howards End, by E. M. Forster                                             2946
+
+Essays, Second Series, by Ralph Waldo Emerson                             2945
+
+Essays, First Series, by Ralph Waldo Emerson                              2944
+
+The Great Hunger, by Johan Bojer                                          2943
+
+Two Penniless Princesses, by Charlotte M. Yonge                           2942
+
+The Chinese Classics, by James Legge                                      2941
+ [Subtitle: Prolegomena]
+
+Evolution and Ethics and Other Essays, by Thomas H. Huxley                2940
+
+William Harvey And The Discovery Of The Circulation Of The Blood,         2939
+ by Thomas H. Huxley
+
+Yeast, by Thomas H. Huxley                                                2938
+
+Coral and Coral Reefs, by Thomas H. Huxley                                2937
+
+Geological Contemporaneity and Persistent Types of Life,                  2936
+ by Thomas H. Huxley
+
+On the Study of Zoology, by Thomas H. Huxley                              2935
+
+On the Advisableness of Improving Natural Knowledge, by Thomas H. Huxley  2934
+
+On Some Fossil Remains of Man, by Thomas H. Huxley                        2933
+
+On the Relations of Man to the Lower Animals, by Thomas H. Huxley         2932
+
+Evidence as to Man's Place in Nature, by Thomas H. Huxley                 2931
+
+Criticisms on "The Origin of Species", by Thomas H. Huxley                2930
+ [Subtitle: From 'The Natural History Review', 1864]
+
+The Origin of Species, by Thomas H. Huxley                                2929
+ [Subtitle: From 'The Westminster Review', April 1860]
+
+Time and Life, by Thomas Henry Huxley                                     2928
+
+The Darwinian Hypothesis, by Thomas H. Huxley                             2927
+
+A Critical Examination Of The Position Of Mr. Darwin's Work, "On          2926
+ The Origin Of Species," In Relation To The Complete Theory Of The
+ Causes Of The Phenomena Of Organic Nature, by Thomas H. Huxley
+ [Subtitle: Lecture 6 of 6, Lectures To Working Men, at the Museum
+  of Practical Geology, 1863, On Darwin's work: "Origin of Species"]
+
+The Conditions Of Existence As Affecting The Perpetuation of              2925
+ Living Beings, by Thomas H. Huxley
+ [Subtitle: Lecture 5 of 6, Lectures To Working Men, at the Museum
+  of Practical Geology, 1863, On Darwin's work: "Origin of Species"]
+
+The Perpetuation Of Living Beings, Hereditary Transmission And            2924
+ Variation, by Thomas H. Huxley
+ [Subtitle: Lecture 4 of 6, Lectures To Working Men, at the Museum
+  of Practical Geology, 1863, On Darwin's work: "Origin of Species"]
+
+The Method By Which The Causes Of The Present And Past Conditions         2923
+ Of Organic Nature Are To Be Discovered.--The Origination Of
+ Living Beings, by Thomas H. Huxley
+ [Subtitle: Lecture 3 of 6, Lectures To Working Men, at the Museum
+  of Practical Geology, 1863, On Darwin's work: "Origin of Species"]
+
+The Past Condition of Organic Nature, by Thomas H. Huxley                 2922
+ [Subtitle: Lecture 2 of 6, Lectures To Working Men, at the Museum
+  of Practical Geology, 1863, On Darwin's work: "Origin of Species"]
+
+The Present Condition of Organic Nature, by Thomas H. Huxley              2921
+ [Subtitle: Lecture 1 of 6, Lectures To Working Men, at the Museum
+  of Practical Geology, 1863, On Darwin's work: "Origin of Species"]
+
+Four Short Plays, by John Galsworthy                                      2920
+ [Subtitle: Sixth Series Plays #3]
+
+The Little Man, by John Galsworthy                                        2919
+ [Subtitle: Sixth Series Plays #2]
+
+The First and The Last, by John Galsworthy                                2918
+ [Subtitle: Sixth Series Plays #1]
+
+The Skin Game, by John Galsworthy                                         2917
+ [Subtitle: Fourth Series Plays #3]
+
+The Foundations, by John Galsworthy                                       2916
+ [Subtitle: Fourth Series Plays #2]
+
+A Bit O' Love by John Galsworthy                                          2915
+ [Subtitle: Fourth Series Plays #1]
+
+The Mob, by John Galsworthy                                               2914
+ [Subtitle: Third Series Plays #3]
+
+The Pigeon, by John Galsworthy                                            2913
+ [Subtitle: Third Series Plays #2]
+
+The Fugitive, by John Galsworthy                                          2912
+ [Subtitle: Third Series Plays #1]
+
+Justice, by John Galsworthy                                               2911
+ [Subtitle: Second Series Plays #3]
+
+The Little Dream, by John Galsworthy                                      2910
+ [Subtitle: Second Series Plays #2]
+
+The Eldest Son, by John Galsworthy                                        2909
+ [Subtitle: Second Series Plays #1]
+
+Strife, by John Galsworthy                                                2908
+ [Subtitle: First Series Plays #3]
+
+Joy, by John Galsworthy                                                   2907
+ [Subtitle: First Series Plays #2]
+
+The Silver Box, by John Galsworthy                                        2906
+ [Subtitle: First Series Plays #1]
+
+The Burning Spear, by John Galsworthy                                     2905
+
+Quality and Other Studies and Essays, by John Galsworthy                  2904
+
+Inn of Tranquility and Other Essays, by John Galsworthy                   2903
+
+Essays Concerning Letters, by John Galsworthy                             2902
+
+Essays on Censorship and Art, by John Galsworthy                          2901
+
+The Age of Invention: A Chronicle of Mechanical Conquest,                 2900
+ by Holland Thompson
+ [Subtitle: The Chronicles of America Series, Vol. 37 of 50]
+
+The Agrarian Crusade: A Chronicle of the Farmer in Politics,              2899
+ by Solon J. Buck
+ [Subtitle: The Chronicles of America Series, Vol. 45 of 50]
+
+Pioneers of the Old South: A Chronicle of English Colonial Beginnings,    2898
+ by Mary Johnston
+ [Subtitle: The Chronicles of America Series, Vol. 5 of 50]
+
+The Sequel of Appomattox: A Chronicle of the Reunion of the States,       2897
+ by Walter Lynwood Fleming
+ [Subtitle: The Chronicles of America Series, Vol. 32 of 50]
+
+Story of the Session of the California Legislature of 1909,               2896
+ by Franklin Hichborn
+
+Following the Equator, Complete, by Mark Twain                            2895
+
+Short Stories, by Hristo Botev                                            2894
+ [Language: Bulgarian]
+
+The Wizard, by H. Rider Haggard                                           2893
+
+Irish Fairy Tales, by James Stephens                                      2892
+
+Howards End, by E. M. Forster                                             2891
+
+Epopee to the Forgotten, by Ivan Vazov                                    2890
+ [Language: Bulgarian]
+
+Flametti, durch Hugo Ball                                                 2889
+ [Language: German]
+
+Yorkshire Dialect Poems, by F. W. Moorman                                 2888
+
+Herodes Und Mariamne, by Fredrick Hebbel                                  2887
+
+Tales of the Argonauts, by Bret Harte                                     2886
+
+The House of the Wolfings, by William Morris                              2885
+ [Subtitle: A Tale of the House of the Wolfings and All the
+  Kindreds of the Mark Written in Prose and in Verse]
+
+The Mason-bees, by J. Henri Fabre                                         2884
+
+The Gold Bag, by Carolyn Wells                                            2883
+
+The Legends of the Jews, Vol. 4, by Louis Ginzberg                        2882
+
+The Legends of the Jews, Vol. 3, by Louis Ginzberg                        2881
+
+A Blot In The 'Scutcheon, by Robert Browning                              2880
+
+Not used                                                                  2879
+
+The Disguising at Hertford, by John Lydgate                               2878
+ [Subtitle: A Verse Play Written circa 1427]
+
+Not used                                                                  2877
+
+The Light That Failed, by Rudyard Kipling                                 2876
+
+Personal Recollections of Joan of Arc, Vol. 2, by Mark Twain              2875
+
+Personal Recollections of Joan of Arc, Vol. 1, by Mark Twain              2874
+
+The Prehistoric World: or, Vanished Races, by E. A. Allen                 2873
+
+The Variation of Animals and Plants under Domestication, Vol. 2           2872
+ by Charles Darwin
+
+The Variation of Animals and Plants under Domestication, Vol. 1           2871
+ by Charles Darwin
+
+Washington Square, by Henry James                                         2870
+
+The Point of View, by Henry James                                         2869
+
+The Green Mummy, by Fergus Hume                                           2868
+
+A Sappho of Green Springs, by Bret Harte                                  2867
+
+Windsor Castle, by William Harrison Ainsworth                             2866
+
+Otto of the Silver Hand, by Howard Pyle                                   2865
+
+The Trumpet-Major, by Thomas Hardy                                        2864
+
+Satires of Circumstance, by Thomas Hardy                                  2863
+ [Subtitle: Lyrics and Reveries with Miscellaneous Pieces]
+
+The Twins of Table Mountain, by Bret Harte                                2862
+
+The Sleuth of St. James's Square, by Melville Davisson Post               2861
+
+Framley Parsonage, by Anthony Trollope                                    2860
+ [Illustrator: John Everett Millais]
+
+A Little Dinner at Timmins's, by William Makepeace Thackeray              2859
+
+Cressy, by Bret Harte                                                     2858
+
+The Yellow God, by H. Rider Haggard                                       2857
+ [Subtitle: An Idol of Africa]
+
+Moon of Israel, by H. Rider Haggard                                       2856
+
+Elissa, by H. Rider Haggard                                               2855
+
+Sir Francis Drake Revived, by Philip Nichols                              2854
+
+Quo Vadis, A Narrative of the Time of Nero, by Henryk Sienkiewicz         2853
+
+The Hound of the Baskervilles, by Arthur Conan Doyle                      2852
+
+Sixes and Sevens, by O. Henry                                             2851
+
+The Wars of The Jews or the History of the Destruction of Jerusalem,      2850
+ by Flavius Josephus
+
+Against Apion, by Flavius Josephus                                        2849
+
+The Antiquities of the Jews, by Flavius Josephus                          2848
+
+An Extract out of Josephus's Discourse to The Greeks Concerning Hades,    2847
+ by Flavius Josephus
+
+The Life of Flavius Josephus, by Flavius Josephus                         2846
+
+Sir Nigel, by Arthur Conan Doyle                                          2845
+
+The Fatal Boots, by William Makepeace Thackeray                           2844
+
+Little Travels and Roadside Sketches, by William Makepeace Thackeray      2843
+
+Black Heart and White Heart, by H. Rider Haggard                          2842
+
+The Ivory Child, by H. Rider Haggard                                      2841
+
+De Franse Pers, door Heinrich Heine                                       2840
+ [Language: Dutch]
+
+Franse Toestanden, door Heinrich Heine                                    2839
+ [Language: Dutch]
+
+De Beurs lacht, door Heinrich Heine                                       2838
+ [Language: Dutch]
+
+Lendas do Sul, por J. Somoes Lopes Netto                                  2837
+ [Language: Portuguese]
+
+Abraham Lincoln and the Union: A Chronicle of the Embattled North,        2836
+ by Nathaniel W. Stephenson
+ [Subtitle: The Chronicles of America Series, Vol. 29 of 50]
+
+The Canadian Dominion: A Chronicle of Our Northern Neighbor,              2835
+ by Oscar D. Skelton
+ [Subtitle: The Chronicles of America Series, Vol. 49 of 50]
+
+The Portrait of a Lady, Vol. 2 of 2, by Henry James                       2834
+
+The Portrait of a Lady, Vol. 1 of 2, by Henry James                       2833
+
+Myth, Ritual, and Religion,Vol. 1, by Andrew Lang                         2832
+
+A Bundle of Ballads, by Various                                           2831
+
+Reginald, by Saki                                                         2830
+ [Author a.k.a. H. H. Munro]
+
+Fanny and the Servant Problem, by Jerome K. Jerome                        2829
+ [Subtitle: A Quite Possible Play in Four Acts]
+
+Under the Deodars, by Rudyard Kipling                                     2828
+
+Aslauga's Knight, by Fredrich de la Motte-Fouque                          2827
+
+The Two Captains, by Friedrich de La Motte-Fouque                         2826
+
+Undine, by Friedrich de la Motte-Fouque                                   2825
+
+Sintram and His Companions, by Friedrich de la Motte-Fouque               2824
+ [Illustrator: Gordon Browne]
+
+The Fitz-Boodle Papers, by William Makepeace Thackeray                    2823
+
+London in 1731, by Don Manoel Gonzales                                    2822
+
+The Story of the Gadsby, by Rudyard Kipling                               2821
+
+The End of Books, by Octave Uzanne & Albert Robida                        2820
+
+Barrack-Room Ballads, by Rudyard Kipling                                  2819
+
+Beautiful Joe, by Marshall Saunders                                       2818
+
+Chamber Music, by James Joyce                                             2817
+
+The City of the Sun, by Tommaso Campanells                                2816
+
+Democracy, An American Novel, by Henry Adams                              2815
+
+Dubliners, by James Joyce                                                 2814
+
+The Grand Babylon Hotel, by Arnold Bennett                                2813
+
+Letters of Marcus Tullius Cicero                                          2812
+
+Letters of Pliny                                                          2811
+
+Plunkitt of Tammany Hall, by George Washington Plunkitt                   2810
+
+Main-Travelled Roads, by Hamlin Garland                                   2809
+
+Treatises on Friendship and Old Age, by Marcus Tullius Cicero             2808
+
+To Have and To Hold, by Mary Johnston                                     2807
+
+The Phantom 'Rickshaw and Other Ghost Stories, by Rudyard Kipling         2806
+  
+With Lee in Virginia, by G. A. Henty                                      2805
+ [Subtitle: A Story of the American Civil War]
+
+Rose in Bloom, by Louisa May Alcott                                       2804
+ [Note: An improved edition of this title may be viewed at ebook #41127]
+
+
+The Rise of David Levinsky, by Abraham Cahan                              2803
+
+Ramona, by Helen Hunt Jackson                                             2802
+
+The Commonwealth of Oceana, by James Harrington                           2801
+
+The Koran                                                                 2800
+ [Title a.k.a. Al-Qur'an; Q'uran; Quraan]
+
+Eben Holden, A Tale of the North Country, by Irving Bacheller             2799
+
+The Queen of the Pirate Isle, by Bret Harte                               2798
+
+The Wolves and the Lamb, by William Makepeace Thackeray                   2797
+
+Memoirs of Mr. Charles J. Yellowplush, by William Makepeace Thackeray     2796
+ [Title a.k.a. The Yellowplush Papers]
+
+Bob, Son of Battle, by Alfred Ollivant                                    2795
+
+Found At Blazing Star, by Bret Harte                                      2794
+
+Flip: A California Romance, by Bret Harte                                 2793
+
+My Ten Years Imprisonment, by Silvio Pellico                              2792
+
+Essays and Tales, by Joseph Addison                                       2791
+
+Poems, by Christo Botev                                                   2790
+ [Language: Bulgarian]
+
+The Motor Girls on a Tour, by Margaret Penrose                            2789
+
+Little Men, by Louisa May Alcott                                          2788
+ [Subtitle: Life at Plumfield With Jo's Boys]
+
+An Old-fashioned Girl, by Louisa May Alcott                               2787
+
+Jack and Jill, by Louisa May Alcott                                       2786
+
+The Elusive Pimpernel, by Baroness Emmuska Orczy                          2785
+
+Colonel Starbottle's Client and Other Stories, by Bret Harte              2784
+
+The Trampling of the Lilies, by Rafael Sabatini                           2783
+
+Wilhelm Tell, by Johann Christoph Friedrich von Schiller                  2782
+ [Title a.k.a. William Tell]
+
+Just So Stories, by Rudyard Kipling                                       2781
+
+My Life and My Efforts, by Karl May                                       2780C
+
+Mein Leben und Streben, durch Karl May                                    2779
+ [Language: German]
+
+Jewel, by Clara Louise Burnham                                            2778
+ [Subtitle: A Chapter In Her Life]
+
+Cabbages and Kings, by O. Henry                                           2777
+
+The Four Million, by O. Henry                                             2776
+
+The Good Soldier, by Ford Madox Ford                                      2775
+
+The Patrician, by John Galsworthy                                         2774
+
+Fraternity, by John Galsworthy                                            2773
+
+The Country House, by John Galsworthy                                     2772
+
+The Island Pharisees, by John Galsworthy                                  2771
+
+Five Little Peppers And How They Grew, by Margaret Sidney                 2770
+
+Cleopatra, by H. Rider Haggard                                            2769
+
+Paris Sketch Book Of Mr. M. A. Titmarsh, by William Makepeace Thackeray   2768
+
+The Devil's Paw, by E. Phillips Oppenheim                                 2767
+
+The Red Acorn, by John McElroy                                            2766
+
+The Lady From The Sea, by Henrik Ibsen                                    2765
+
+The Mahatma and the Hare, by H. Rider Haggard                             2764
+
+The World's Desire, by H. Rider Haggard and Andrew Lang                   2763
+
+The Brethren, by H. Rider Haggard                                         2762
+
+Benita, An African Romance, by H. Rider Haggard                           2761
+
+Celebrated Crimes, Complete, by Alexandre Dumas, Pere                     2760
+
+The Man in the Iron Mask, by Alexandre Dumas, Pere                        2759
+
+The Marquise de Ganges, by Alexandre Dumas, Pere                          2758
+
+Vaninka, by Alexandre Dumas, Pere                                         2757
+
+The Marquise de Brinvilliers, by Alexandre Dumas, Pere                    2756
+
+Murat, by Alexandre Dumas, Pere                                           2755
+
+The Countess of Saint-Geran, by Alexandre Dumas, Pere                     2754
+
+Ali Pacha, by Alexandre Dumas, Pere                                       2753
+
+Martin Guerre, by Alexandre Dumas, Pere                                   2752
+
+The Man in an Iron Mask (An Essay), by Alexandre Dumas, Pere              2751
+
+Joan of Naples, by Alexandre Dumas, Pere                                  2750
+
+La Constantin, by Alexandre Dumas, Pere                                   2749
+
+Derues, by Alexandre Dumas, Pere                                          2748
+
+Nisida, by Alexandre Dumas, Pere                                          2747
+
+Urbain Grandier, by Alexandre Dumas, Pere                                 2746
+
+Karl-Ludwig Sand, by Alexandre Dumas, Pere                                2745
+
+Mary Stuart, by Alexandre Dumas, Pere                                     2744
+
+Massacres of the South, by Alexandre Dumas, Pere                          2743
+
+The Cenci, by Alexandre Dumas, Pere                                       2742
+
+The Borgias, by Alexandre Dumas, Pere                                     2741
+
+More Letters of Charles Darwin, Vol. 2 of 2                               2740
+
+More Letters of Charles Darwin, Vol 1 of 2                                2739
+
+Not Used                                                                  2738
+
+A Grandpa's Notebook. by Meyer Moldeven                                   2737C
+
+The Champdoce Mystery, by Emile Gaboriau                                  2736
+
+The Golden Dog, by William Kirby                                          2735
+ [Subtitle: Le Chien d'Or]
+
+Gwaith Twm o'r Nant, Vol. 2, by Thomas Edwards                            2734
+ [Author a.k.a. Twm o'r Nant]
+ [Illustrator: Samuel Maurice Jones]
+ [Language: Welsh]
+
+Romano Lavo-Lil, by George Borrow                                         2733
+ [Alternate Titles:  Romany Dictionary; Gypsy Dictionary]
+
+Ballads, by William Makepeace Thackeray                                   2732
+
+The Christmas Books, by M. A. Titmarsh                                    2731
+ [Author a.k.a. William Makepeace Thackeray]
+
+Long Odds, by H. Rider Haggard                                            2730
+
+A Tale of Three Lions, by H. Rider Haggard                                2729
+
+Hunter Quatermain's Story, by H. Rider Haggard                            2728
+
+Allan's Wife, by H. Rider Haggard                                         2727
+
+Eight Cousins, by Louisa M. Alcott                                        2726
+ [Note: An improved edition of this title may be viewed at ebook #38567]
+
+Red Pepper Burns, by Grace S. Richmond                                    2725
+
+Theodore Roosevelt and His Times: A Chronicle of the Progressive          2724
+ Movement, by Harold Howland
+ [Subtitle: The Chronicles of America Series, Vol. 47 of 50]
+
+A First Family of Tasajara, by Bret Harte                                 2723
+
+Morning Star, by H. Rider Haggard                                         2722
+
+Eric Brighteyes, by H. Rider Haggard                                      2721
+
+The Pension Beaurepas, by Henry James                                     2720
+
+Greville Fane, by Henry James                                             2719
+
+The Chaperon, by Henry James                                              2718
+
+Nona Vincent, by Henry James                                              2717
+
+Sir Dominick Ferrand, by Henry James                                      2716
+
+The Real Thing and Other Tales, by Henry James                            2715
+
+Long Live the King, by Mary Roberts Rinehart                              2714
+
+Maiwa's Revenge, by H. Rider Haggard                                      2713
+ [Subtitle: The War of the Little Hand]
+
+A Drift from Redwood Camp, by Bret Harte                                  2712
+
+A Phyllis of the Sierras, by Bret Harte                                   2711
+
+Louise de la Valliere, by Alexandre Dumas, Pere                           2710
+
+Foma Gordyeff, by Maxim Gorky                                             2709
+ [Subtitle: The Man Who Was Afraid]
+
+Columba, by Prosper Merimee                                               2708
+
+The History Of Herodotus, Vol. 1 of 2, by Herodotus                       2707
+
+The Bravo of Venice, by Heinrich Zschokke                                 2706
+ [Subtitle: A Romance]
+
+Sally Dows and Other Stories, by Bret Harte                               2705
+
+Washington And His Comrades in Arms: A Chronicle of the War               2704
+ of Independence, by George Wrong
+ [Subtitle: The Chronicles of America Series, Vol. 12 of 50]
+
+The Argonauts of North Liberty, by Bret Harte                             2703
+
+The Lion's Skin, by Rafael Sabatini                                       2702
+
+Moby Dick; or The Whale, by Herman Melville                               2701
+
+Medical Essays, by Oliver Wendell Holmes, Sr.                             2700
+
+Pages From an Old Volume of Life, by Oliver Wendell Holmes, Sr.           2699
+ [Subtitle: A Collection Of Essays]
+
+A Mortal Antipathy, by Oliver Wendell Holmes, Sr.                         2698
+
+The Guardian Angel, by Oliver Wendell Holmes, Sr.                         2697
+
+Elsie Venner, by Oliver Wendell Holmes, Sr.                               2696
+
+Jeff Briggs's Love Story, by Bret Harte                                   2695
+
+I and My Chimney, by Herman Melville                                      2694
+
+Greyfriars Bobby, by Eleanor Atkinson                                     2693
+
+A Protegee of Jack Hamlin's and Other Stories, by Bret Harte              2692
+
+Nan Sherwood at Pine Camp, by Annie Roe Carr                              2691
+ [Subtitle: or, The Old Lumberman's Secret]
+
+Coral Reefs, by Charles Darwin                                            2690
+
+Over the Teacups, by Oliver Wendell Holmes, Sr.                           2689
+
+The Clue of the Twisted Candles, by Edgar Wallace                         2688
+
+The Snare, by Rafael Sabatini                                             2687
+
+The Book of Snobs, by William Makepeace Thackeray                         2686
+
+The Way to Peace, by Margaret Deland                                      2685
+
+Five Tales, by John Galsworthy                                            2684
+
+Saint's Progress, by John Galsworthy                                      2683
+
+Henri III et sa Cour, par Alexandre Dumas, Pere                           2682
+ [Language: French]
+
+Ten Years Later, by Alexandre Dumas, Pere                                 2681
+
+Meditations, by Marcus Aurelius                                           2680
+
+Poems of Emily Dickinson, Series Two                                      2679
+
+Poems of Emily Dickinson, Series One                                      2678
+
+Epistles from Pap, Letters from Andrew E. Durham                          2677C
+
+The Bell-Ringer of Angel's and Other Stories, by Bret Harte               2676
+
+Burlesques, by William Makepeace Thackeray                                2675
+
+The Complete Writings of Charles Dudley Warner, Vol. 4                    2674
+
+The Complete Writings of Charles Dudley Warner, Vol. 3                    2673
+
+The Complete Writings of Charles Dudley Warner, Vol. 2                    2672
+
+The Complete Writings of Charles Dudley Warner, Vol. 1                    2671
+
+Love-Songs of Childhood, by Eugene Field                                  2670
+
+The Life and Adventures of Baron Trenck, Vol. 2                           2669
+
+The Life and Adventures of Baron Trenck, Vol. 1                           2668
+
+The Vicar of Wakefield, by Oliver Goldsmith                               2667
+
+The Poet at the Breakfast Table, by Oliver Wendell Holmes, Sr.            2666
+
+The Professor at the Breakfast Table, by Oliver Wendell Holmes, Sr.       2665
+
+Zanoni, by Edward Bulwer Lytton                                           2664
+
+Minna von Barnhelm, by Gotthold Ephraim Lessing                           2663
+
+Under the Greenwood Tree, by Thomas Hardy                                 2662
+ [Subtitle: or The Mellstock Quire; A
+  rural painting of the Dutch School]
+
+The Story of a Mine, by Bret Harte                                        2661
+
+Early Australian Voyages, by John Pinkerton, Abel Tasman                  2660
+ Captain Francis Pelsart, and William Dampier
+
+The Writings of Abraham Lincoln, Vol. 7, 1863-1865                        2659
+
+The Writings of Abraham Lincoln, Vol. 6, 1862-1863                        2658
+
+The Writings of Abraham Lincoln, Vol. 5, 1858-1862                        2657
+
+The Writings of Abraham Lincoln, Vol. 4                                   2656
+ [Subtitle: The Lincoln-Douglas Debates II]
+
+The Writings of Abraham Lincoln, Vol. 3                                   2655
+ [Subtitle: Political Speeches & Debates Of Lincoln
+  in The Senatorial Campaign Of 1858 in Illinois]
+
+The Writings of Abraham Lincoln, Vol. 2, 1843-1858                        2654
+
+The Writings of Abraham Lincoln, Vol. 1, 1832-1843                        2653
+
+The Memoirs of General Philip Henry Sheridan, Vol. 2                      2652
+
+The Memoirs of General Philip Henry Sheridan, Vol. 1                      2651
+
+Du Côté de Chez Swann, par Marcel Proust                                  2650
+ [Note: A la recherche du temps perdu, Tome 1]
+ [Language: French]
+
+Captains of the Civil War: A Chronicle of the Blue and the Gray,          2649
+ by William Wood
+ [Subtitle: The Chronicles of America Series, Vol. 31 of 50]
+
+George Cruikshank, by William Makepeace Thackeray                         2648
+
+Life and Letters of Lord Macaulay, Vol. 1, by George Otto Trevelyan       2647
+
+John Leech's Pictures of Life and Character,                              2646
+ by William Makepeace Thackeray
+
+The Second Funeral of Napoleon, by William Makepeace Thackeray            2645
+ [Author a.k.a. Michael Angelo Titmarch]
+
+Isaac Bickerstaff, by Richard Steele                                      2644
+
+The History of John Bull, by John Arbuthnot                               2643
+
+Back Home, by Eugene Wood                                                 2642
+
+A Room With A View, by E. M. Forster                                      2641
+
+St. Martin's Summer, by Rafael Sabatini                                   2640
+
+Villa Rubein et al, by John Galsworthy                                    2639
+
+The Idiot, by Fyodor Dostoyevsky                                          2638
+
+Youth, by Leo Tolstoy                                                     2637
+
+The Historical Nights' Entertainment, First Series, by Rafael Sabatini    2636
+
+Clarence, by Bret Harte                                                   2635
+
+Evolution of Theology: An Anthropological Study, by Thomas Henry Huxley   2634
+ [Subtitle: Essay #8 from "Science and Hebrew Tradition"]
+
+Hasisadra's Adventure, by Thomas Henry Huxley                             2633
+ [Subtitle: Essay #7 from "Science and Hebrew Tradition"]
+
+Lights of the Church and the Light of Science, by Thomas Henry Huxley     2632
+ [Subtitle: Essay #6 from "Science and Hebrew Tradition"]
+
+Mr. Gladstone and Genesis, by Thomas Henry Huxley                         2631
+ [Subtitle: Essay #5 from "Science and Hebrew Tradition"]
+
+The Interpreters of Genesis and the Interpreters of Nature,               2630
+ by Thomas Henry Huxley
+
+Lectures on Evolution, by Thomas Henry Huxley                             2629
+ [Subtitle: Essay #3 from "Science and Hebrew Tradition"]
+
+The Rise and Progress of Palaeontology, by Thomas Henry Huxley            2628
+ [Subtitle: Essay #2 from "Science and Hebrew Tradition"]
+
+On the Method of Zadig, by Thomas Henry Huxley                            2627
+ [Subtitle: Essay #1 from "Science and Hebrew Tradition"]
+
+Reserved for The Home Book of Verse, Vol. 8, by Burton E. Stevenson       2626
+
+Reserved for The Home Book of Verse, Vol. 7, by Burton E. Stevenson       2625
+
+Reserved for The Home Book of Verse, Vol. 6, by Burton E. Stevenson       2624
+
+Reserved for The Home Book of Verse, Vol. 5, by Burton E. Stevenson       2623
+
+The Home Book of Verse, Vol. 4, by Burton Egbert Stevenson                2622
+
+The Home Book of Verse, Vol. 3, by Burton Egbert Stevenson                2621
+
+The Home Book of Verse, Vol. 2, by Burton Egbert Stevenson                2620
+
+The Home Book of Verse, Vol. 1, by Burton Egbert Stevenson                2619
+
+A House-Boat on the Styx, by John Kendrick Bangs                          2618
+
+The Memoirs of General W. T. Sherman, Vol. 2, by William T. Sherman       2617
+
+The Memoirs of General W. T. Sherman, Vol. 1, by William T. Sherman       2616
+
+Discourses on Satire and on Epic Poetry, by John Dryden                   2615
+
+The History of England from the Accession of James II, Vol. 5 of 5,       2614
+ by Thomas Babington Macaulay
+
+The History of England from the Accession of James II, Vol. 4 of 5,       2613
+ by Thomas Babington Macaulay
+
+The History of England from the Accession of James II, Vol. 3 of 5,       2612
+ by Thomas Babington Macaulay
+
+Confiscation, An Outline, by William Greenwood                            2611
+
+Notre-Dame de Paris, by Victor Hugo                                       2610
+ [Title a.k.a. The Hunchback of Notre Dame]
+
+The Vicomte de Bragelonne, by Alexandre Dumas, Pere                       2609
+
+Roundabout Papers, by William Makepeace Thackeray                         2608
+
+Psmith, Journalist, by P. G. Wodehouse                                    2607
+
+The Pigeon Pie, by Charlotte M. Yonge                                     2606
+
+Noto, An Unexplored Corner of Japan, by Percival Lowell                   2605
+
+The Longest Journey, by E. M. Forster                                     2604
+
+Questionable Amusements and Worthy Substitutes, by J. M. Judy             2603
+
+Queen Sheba's Ring, by H. Rider Haggard                                   2602
+
+Heartsease, by Charlotte M. Yonge                                         2601
+ [Subtitle: or Brother's Wife]
+
+War and Peace, by by Leo Tolstoy                                          2600
+
+Legends and Tales, by Bret Harte                                          2599
+
+Urban Sketches, by Bret Harte                                             2598
+
+Mrs. Skaggs's Husbands and Other Stories, by Bret Harte                   2597
+
+Awakening and To Let, by John Galsworthy                                  2596
+ [Subtitle: The Forsyte Saga, Part 3]
+
+Ramsey Milholland, by Booth Tarkington                                    2595
+
+Indian Summer of a Forsyte, and In Chancery, by John Galsworthy           2594
+ [Subtitle: The Forstye Saga, Part 2]
+
+The Life of Stephen A. Douglas, by William Gardner                        2593
+
+The Small Catechism of Martin Luther, by Martin Luther                    2592
+ [Language: Japanese]
+
+Grimms' Fairy Tales, by The Brothers Grimm                                2591
+
+Guy Mannering, by Walter Scott                                            2590
+
+The Experiences of a Bandmaster, by John Philip Sousa                     2589
+
+Stories by English Authors: Scotland, by Various                          2588
+
+Life Is A Dream, by Pedro Calderon de la Barca                            2587
+
+The first 498 Bernoulli Numbers                                           2586
+
+The first 1001 Fibonacci Numbers                                          2585
+
+The first 1000 Euler Numbers                                              2584
+
+The Value of Zeta(3) to 1,000,000 Places                                  2583
+
+Origins of Contemporary France, Vol. 6 of 6, by Hippolyte A. Taine        2582
+ [Subtitle: The Modern Regime, Vol. 2 of 2]
+
+Origins of Contemporary France, Vol. 5 of 6, by Hippolyte A. Taine        2581
+ [Subtitle: The Modern Regime, Vol. 1 of 2, Napoleon I]
+
+Origins of Contemporary France, Vol. 4 of 6, by Hippolyte A. Taine        2580
+ [Subtitle: The French Revolution, Vol. 3 of 3]
+
+Origins of Contemporary France, Vol. 3 of 6, by Hippolyte A. Taine        2579
+ [Subtitle: The French Revolution, Vol. 2 of 3]
+
+Origins of Contemporary France, Vol. 2 of 6, by Hippolyte A. Taine        2578
+ [Subtitle: The French Revolution, Vol. 1 of 3]
+
+Origins of Contemporary France, Vol. 1 of 6, by Hippolyte A. Taine        2577
+ [Subtitle: The Ancient Regime]
+
+Alps and Sanctuaries of Piedmont and the Canton Ticino, by Samuel Butler  2576
+
+Confessions of an Inquiring Spirit, by Samuel Taylor Coleridge            2575
+ [Subtitle: to which are added Miscellaneous
+  Essays from "The Friend"]
+
+On the Frontier, by Bret Harte                                            2574
+
+The Caged Lion, by Charlotte M. Yonge                                     2573
+
+On the Decay of the Art of Lying, by Mark Twain                           2572
+
+Peace, by Aristophanes                                                    2571
+
+Two Men of Sandy Bar, by Bret Harte                                       2570
+
+The Day's Work, Vol. 1, by Rudyard Kipling                                2569
+
+Trent's Last Case, by Edmund Clerihew Bentley                             2568
+ [Title a.k.a. The Woman in Black]
+
+A Plea for Captain John Brown, by Henry David Thoreau                     2567
+
+How to Fail in Literature, by Andrew Lang                                 2566
+
+The Story of the Glittering Plain, by William Morris                      2565
+ [Subtitle: or the Land of Living Men]
+
+Wanderings Among South Sea Savages & in Borneo and the Philippines,       2564
+ by H. Wilfrid Walker
+
+Memoirs of the Comtesse du Barry, by Baron Etienne Leon Lamothe-Langon    2563
+ [Subtitle: With Minute Details of Her Entire Career
+  as Favorite of Louis XV, "Written by Herself"]
+
+The Clouds, by Aristophanes                                               2562
+
+Robert Falconer, by George MacDonald                                      2561
+
+The Three Partners, by Bret Harte                                         2560
+
+The Man of Property, by John Galsworthy                                   2559
+ [Subtitle: The Forsyte Saga, Part 1]
+
+Poems, by George P. Morris                                                2558
+
+Old Mother West Wind, by Thornton W. Burgess                              2557
+
+Mr. Jack Hamlin's Mediation and Other Stories, by Bret Harte              2556
+
+Under the Redwoods, by Bret Harte                                         2555
+
+Crime and Punishment, by Fyodor Dostoevsky                                2554
+
+Jeanne d'Arc, by Mrs. Margaret Oliphant                                   2553
+ [Subtitle: Her Life And Death]
+
+Thankful's Inheritance, by Joseph C. Lincoln                              2552
+
+Droll Stories, Vol. 3, by Honore de Balzac                                2551
+
+Tales of Trail and Town, by Bret Harte                                    2550
+
+The Doom of the Griffiths, by Elizabeth Gaskell                           2549
+
+The Poor Clare, by Elizabeth Gaskell                                      2548
+
+Half a Life-time Ago, by Elizabeth Gaskell                                2547
+
+Hopalong Cassidy's Rustler Round-Up, by Clarence Edward Mulford           2546
+ [Subtitle: or, Bar-20]
+
+When God Laughs and Other Stories, by Jack London                         2545
+
+From Sand Hill to Pine, by Bret Harte                                     2544
+
+Polyuecte, by Pierre Corneille                                            2543
+
+A Doll's House, by Henrik Ibsen                                           2542
+
+Character, by Samuel Smiles                                               2541
+
+Father and Son, by Edmund Gosse                                           2540
+
+The Malay Archipelago, Vol. 2 of 2, by Alfred Russell Wallace             2539
+
+Poems and Tales from Romania, by Simona Sumanaru                          2538C
+ and Michael S. Hart
+
+The Pocket R.L.S., by Robert Louis Stevenson                              2537
+ [Subtitle: Being Favourite Passages from the Works of Stevenson]
+
+Amphitryon, by Molière                                                    2536
+
+Openings in the Old Trail, by Bret Harte                                  2535
+
+Eugene Pickering, by Henry James                                          2534
+
+Round the Sofa, by Elizabeth Gaskell                                      2533
+
+The Half-Brothers, by Elizabeth Gaskell                                   2532
+
+An Accursed Race, by Elizabeth Gaskell                                    2531
+
+The Malay Archipelago, Vol. 1 of 2, by Alfred Russell Wallace             2530
+
+The Analysis of Mind, by Bertrand Russell                                 2529
+
+The Women of the French Salons, by Amelia Gere Mason                      2528
+
+The Sorrows of Young Werther, by Johann Wolfgang von Goethe               2527
+
+The Yoga Sutras of Patanjali by Charles Johnston                          2526
+
+John Ingerfield and Other Stories, by Jerome K. Jerome                    2525
+
+My Lady Ludlow, by Elizabeth Gaskell                                      2524
+
+The Memoirs of Victor Hugo                                                2523
+
+A Dark Night's Work, by Elizabeth Gaskell                                 2522
+
+Lizzie Leigh, by Elizabeth Gaskell                                        2521
+
+The Man, by Bram Stoker                                                   2520
+
+A Popular Account of Dr. Livingstone's Expedition to the Zambesi          2519
+ and Its Tributaries, by David Livingstone
+ [Subtitle: And of the Discovery of the Lakes Shirwa
+  & Nyassa, 1858-1864]
+
+The Hungry Stones And Other Stories, by Rabindranath Tagore               2518
+
+Lincoln's Yarns and Stories, by Alexander K. McClure                      2517
+
+Redgauntlet, by Sir Walter Scott                                          2516
+ [Subtitle: A Tale Of The Eighteenth Century]
+
+Stepping Heavenward, by Mrs. E. Prentiss                                  2515
+
+T. Tembarom, by Frances Hodgson Burnett                                   2514
+
+God the Known and God the Unknown, by Samuel Butler                       2513
+
+The Cruise of the Snark, by Jack London                                   2512
+
+The History of Henry Esmond, Esq., by W. M. Thackeray                     2511
+
+The Invention of a New Religion, by Basil Hall Chamberlain                2510
+
+The Lani People, by J. F. Bone                                            2509
+
+Stories in Light and Shadow, by Bret Harte                                2508
+
+Complete Poetical Works, by Bret Harte                                    2507
+
+The Sleeping Car, by William D. Howells                                   2506
+ [Subtitle: A Farce]
+
+The Heir of Redclyffe, by Charlotte M. Yonge                              2505
+
+Some Cities and San Francisco and Resurgam, by Hubert Howe Bancroft       2504
+
+Myths and Legends of California and the Old Southwest,                    2503
+ by Katharine Berry Judson
+
+Chitra, a Play in One Act, by Rabindranath Tagore                         2502
+
+A Face Illumined, by E. P. Roe                                            2501
+
+Siddhartha, by Herman Hesse                                               2500
+
+Siddhartha, durch Hermann Hesse                                           2499
+ [Language: German]
+
+Addresses, by Henry Drummond                                              2498
+
+Put Yourself in His Place, by Charles Reade                               2497
+
+Our Village, by Mary Russell Mitford                                      2496
+
+Susy, A Story of the Plains, by Bret Harte                                2495
+
+The story of Saint Stanislaus Kostka, by W. T. Kane                       2494
+
+Adventures of Paddy the Beaver, by Thornton W.Burgess                     2493
+
+Orpheus in Mayfair and Other Stories and Sketches, by Maurice Baring      2492
+
+Love or Fame; et. al., by Fannie Isabelle Sherrick                        2491
+
+Lamia, by John Keats                                                      2490
+
+Moby Dick, by Herman Melville                                             2489
+
+20,000 Leagues Under the Seas, by Jules Verne                             2488
+
+Cross Roads, by Margaret E. Sangster                                      2487
+
+Queer Little Folks, by Harriet Beecher Stowe                              2486
+
+The Movement and Habits of Climbing Plants, by Charles Darwin             2485
+
+The Boys' and Girls' Plutarch, by Plutarch                                2484
+ [Subtitle: Being Parts of The "Lives" of Plutarch]
+
+Janice Day, Young Homemaker, by Helen Beecher Long                        2483
+
+New York, by James Fenimore Cooper                                        2482
+
+The Civilization of Illiteracy, by Mihai Nadin                            2481C
+
+Under Western Eyes, by Joseph Conrad                                      2480
+
+The Friendly Road, by David Grayson                                       2479
+ [Subtitle: New Adventures in Contentment]
+ [Author a.k.a. Ray Stannard Baker]
+
+The Circus Boys On The Plains, by Edgar B. P. Darlington                  2478
+
+The Circus Boys On The Mississippi, by Edgar B. P. Darlington             2477
+
+The Circus Boys in Dixie Land, by Edgar B. P. Darlington                  2476
+
+The Circus Boys Across The Continent, by Edgar B. P. Darlington           2475
+
+The Circus Boys On The Flying Rings, by Edgar B. P. Darlington            2474
+
+Mary-'Gusta, by Joseph C. Lincoln                                         2473
+
+White Lies, by Charles Reade                                              2472
+
+The Crusade of the Excelsior, by Bret Harte                               2471
+
+Samuel Brohl & Company, by Victor Cherbuliez                              2470
+
+Repertory Of The Comedie Humaine, Part 2, L-Z, by                         2469
+ Anatole Cerfberr and Jules François Christophe
+
+Repertory Of The Comedie Humaine, Part 1, A-K, by                         2468
+ Anatole Cerfberr and Jules François Christophe
+
+Ghosts, A Domestic Tragedy, by Henrik Ibsen                               2467
+
+Virgin Soil, by Ivan S. Turgenev                                          2466
+
+Carmen, by Prosper Merimee                                                2465
+
+History Of Florence And Of The Affairs Of Italy, by Niccolo Machiavelli   2464
+ [Subtitle: From The Earliest Times To The Death
+  Of Lorenzo The Magnificent]
+
+The Prophet of Berkeley Square, by Robert Hichens                         2463
+
+Dona Perecta, by B. Perez Galdos                                          2462
+
+The Lady of Lyons, by Edward Bulwer Lytton                                2461
+ [Subtitle: or Love and Pride]
+
+The Madonna of the Future, by Henry James                                 2460
+
+Trent's Trust and Other Stories, by Bret Harte                            2459
+
+Sermons on the Card and Other Discourses, by Hugh Latimer                 2458
+
+Stories By English Authors: Italy, by Various                             2457
+
+The History Of Herodotus, Vol. 2 of 2, by Herodotus                       2456
+
+History of the Catholic Church from the Renaissance to                    2455
+ the French Revolution, Vol. 2, by James MacCaffrey
+
+The Silent Bullet, by Arthur B. Reeve                                     2454
+
+Beyond, by John Galsworthy                                                2453
+
+Shavings, by Joseph C. Lincoln                                            2452
+
+Caught In The Net, by Emile Gaboriau                                      2451
+
+Boyhood, by Leo Tolstoy                                                   2450
+
+The Common Law, by Oliver Wendell Holmes, Jr.                             2449
+
+The Colored Cadet at West Point, by Henry Flipper                         2448
+
+Eminent Victorians, by Lytton Strachey                                    2447
+
+An Enemy of the People, by Henrik Ibsen                                   2446
+
+Letters on England, by Voltaire                                           2445
+ [Author a.k.a. Francois Marie Arouet]
+
+Oxford, by Andrew Lang                                                    2444
+ [Illustrated: George F. Carline]
+
+The Story of the Mormons, by William Alexander Linn                       2443
+ [Subtitle: From the Date of their Origin to the Year 1901]
+
+History of the Impeachment of Andrew Johnson, President                   2442
+ of The United States, by Edmund G. Ross
+ [Subtitle: By The House Of Representatives and His Trial
+  by The Senate for High Crimes and Misdemeanors in Office]
+
+The Burgess Animal Book for Children, by Thornton W. Burgess              2441
+
+The Naturalist on the River Amazons by Henry Bates                        2440
+
+The History of England from the Accession of James II, Vol. 2 of 5,       2439
+ by Thomas Babington Macaulay
+
+Daphne, An Autumn Pastoral, by Margaret Sherwood                          2438
+
+They and I, by Jerome K. Jerome                                           2437
+
+The Marriages, by Henry James                                             2436
+
+The Crimson Fairy Book, by Andrew Lang                                    2435
+
+The New Atlantis, by Frances Bacon                                        2434
+
+Donal Grant, by George MacDonald                                          2433
+
+Barchester Towers, by Anthony Trollope                                    2432
+
+Is Shakespeare Dead?, by Mark Twain                                       2431
+ [Subtitle: from my Autobiography]
+
+Romantic Ballads, by George Borrow                                        2430
+ [Subtitle: Translated from the Danish; and Miscellaneous Pieces]
+
+Lost Face, by Jack London                                                 2429
+
+Essay on Man, by Alexander Pope                                           2428
+ [Subtitle: Moral Essays and Satires]
+
+The Patagonia, by Henry James                                             2427
+
+The Diary of a Man of Fifty, by Henry James                               2426
+
+A Bundle of Letters, by Henry James                                       2425
+
+Black Bartlemy's Treasure, by Jeffrey Farnol                              2424
+
+Anecdotes of the late Samuel Johnson, LL.D., by Hesther Lynch Piozzi      2423
+ [Subtitle: during the last twenty years of his life]
+
+Andrew Lang's Introduction to The Compleat Angler                         2422
+
+The Beggar's Opera, by John Gay                                           2421
+
+Unterhaltungen deutscher Ausgewanderten,                                  2420
+ durch Johann Wolfgang von Goethe
+ [Language: German]
+
+La Dame aux Camelias, par Alexandre Dumas                                 2419
+ [Language: French]
+
+Oldport Days, by Thomas Wentworth Higginson                               2418
+
+Okewood of the Secret Service, by Valentine Williams                      2417
+
+The House of Pride, and Other Tales of Hawaii, by Jack London             2416
+
+The Mutiny of the Elsinore, by Jack London                                2415
+
+Cliges: A Romance, by Chretien de Troyes                                  2414
+
+Madame Bovary, by Gustave Flaubert                                        2413
+
+The Categories, by Aristotle                                              2412
+
+Wilhelm Meisters Wanderjahre, Vol. 3, durch Johann Wolfgang von Goethe    2411
+ [Language: German]
+
+Wilhelm Meisters Wanderjahre, Vol. 2, durch Johann Wolfgang von Goethe    2410
+ [Language: German]
+
+Wilhelm Meisters Wanderjahre, Vol. 1, durch Johann Wolfgang von Goethe    2409
+ [Language: German]
+
+Die Leiden des jungen Werther, Vol. 2, durch Johann Wolfgang von Goethe   2408
+ [Language: German]
+
+Die Leiden des jungen Werther, Vol. 1, durch Johann Wolfgang von Goethe   2407
+ [Language: German]
+
+Die Geschwister, durch Johann Wolfgang von Goethe                         2406
+ [Language: German]
+
+Italienische Reise, Vol. 2, durch Johann Wolfgang von Goethe              2405
+ [Language: German]
+
+Italienische Reise, Vol. 1, durch Johann Wolfgang von Goethe              2404
+ [Language: German]
+
+Die Wahlverwandtschaften, durch Johann Wolfgang von Goethe                2403
+ [Language: German]
+
+Briefe aus der Schweiz, durch Johann Wolfgang von Goethe                  2402
+ [Language: German]
+
+The Memoirs of General the Baron de Marbot                                2401
+
+Vikram and the Vampire, by Richard F. Burton                              2400
+
+Imaginary Portraits, by Walter Pater                                      2399
+
+The Renaissance, by Walter Pater                                          2398
+
+Story of My Life, by Helen Keller                                         2397
+
+History of the Catholic Church from the Renaissance                       2396
+ to the French Revolution, Vol. 1, by James MacCaffrey
+
+The Golden Fleece, by Padraic Colum                                       2395
+
+The Grand Canyon of Arizona, by George W. James                           2394
+
+His Dog, by Albert Payson Terhune                                         2393
+
+Further Adventures of Lad, Albert Payson Terhune                          2392
+
+Bruce, by Albert Payson Terhune                                           2391
+
+The Conquest of the Old Southwest, by Archibald Henderson                 2390
+
+Bardelys the Magnificent, by Rafael Sabatini                              2389
+
+The Bhagavad-Gita, by Anonymous                                           2388
+
+The Voice, by Margaret Deland                                             2387
+
+Theodore Roosevelt; An Intimate Biography, by William Roscoe Thayer       2386
+
+Gala-Days, by Abigail Dodge Hamilton                                      2385
+
+The Deliverance, by Ellen Glasgow                                         2384
+
+Canterbury Tales and Other Poems, by Geoffrey Chaucer                     2383
+
+Memoir of the Proposed Territory of Arizona, by Sylvester Mowry           2382
+
+Actions and Reactions, by Rudyard Kipling                                 2381
+
+Das Maerchen von dem Myrtenfraeulein, durch Clemens Brentano              2380
+ [Language: German]
+
+Chastelard, by Algernon Charles Swinburne                                 2379
+
+Select Epigrams from the Greek Anthology,                                 2378
+ by J. W. Mackail

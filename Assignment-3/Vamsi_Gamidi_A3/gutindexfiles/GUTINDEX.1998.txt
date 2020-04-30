@@ -1,0 +1,1765 @@
+﻿This is the file GUTINDEX.1998
+
+Last Updated on August 16, 2015
+
+See the file GUTINDEX.ALL for all Project Gutenberg eBooks.
+
+
+                         -=] INTRODUCTION [=-
+
+GUTINDEX.1998 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between  January 1, 1998 and December 31, 1998
+beginning with eBook number 1153 and ending with eBook number 1860.
+
+It is not a database, but it is useful for identifying eBooks so that they
+can be downloaded or read online.
+
+
+HOW TO GET EBOOKS FROM PROJECT GUTENBERG
+
+The easiest and quickest way to obtain one specific eBook is via our search
+page at
+
+       http://www.gutenberg.org/catalog/world/search
+
+where you can search by the eBook number for the particular book you want.
+
+Other search engines at Project Gutenberg will provide you with more
+information on more books by the same author using the same ebook
+number, such as:
+
+          http://www.gutenberg.org/ebooks/
+
+or by author's name:
+
+      http://www.gutenberg.org/browse/authors/a
+
+
+ONLINE DATABASE
+
+The online database can be accessed at
+
+ http://www.gutenberg.org/catalog/
+
+
+HOW TO DOWNLOAD AN EBOOK TO YOUR MOBILE DEVICE
+
+If your device is Internet-enabled, just visit the catalog page for a book
+and download one of the available formats that your device can display. If
+your device is not Internet-enabled, then download to a computer and transfer
+the book's file to your device using a USB cable or similar method. If your
+device utilizes a different format from those available at Project Gutenberg
+you will have to obtain an app to convert your ebook to your device's format.
+
+
+SITE MAP
+
+If you're interested, here is the Site Map to Project Gutenberg:
+
+          http://www.gutenberg.org/
+
+
+MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the
+world and you can select one nearer to your location from the link on the
+search results page. However, if you have access to the world wide web
+(www) the direct links above are much simplier.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://www.gutenberg.org/MIRRORS.ALL
+
+Copy the URL of your choice and paste it in a new tab in your browser and
+tap the "Enter" key on your keyboard.
+
+
+DIRECT ACCESS
+
+To directly access the file directories:
+
+  http://www.gutenberg.org/dirs/
+    - or -
+  ftp://www.gutenberg.org/pub/docs/books/gutenberg/
+
+
+PLAIN TEXT
+
+Whenever possible, Project Gutenberg distributes a plain text version of an eBook
+(.txt) in addition to several other choices. We stress the inclusion of plain
+text because it is the "lowest common denominator" of formats and for its
+longevity. Since Project Gutenberg began, dozens of widely used file formats have
+come and gone, but the text format still remains. Text is accessible on all
+computers and is insurance against future obsolescence.
+
+The only times when Project Gutenberg distributes an eBook without a plain text
+version are when plain text is impossible or impractical -- for example, for our
+videos and MP3 audio files, and for some of our mathematical works.
+
+     (Please note that files ending in .tex are mainly technical writings
+      in TeX or LaTeX format, and should not be confused with text files.)
+
+
+ZIP FILES
+
+Files ending in .zip are compressed using the Zip method. This saves space
+and should result in faster downloads. Many include images or support files.
+Whenever practical, Project Gutenberg files are available as a zipped file.
+These files will be found under "More Files..." on the ebook download page.
+
+
+CORRECTIONS
+
+To report an error in the listings, please email to help2018@pglaf.org and
+include the word CORRECTION in the subject line.
+
+
+SUBMITTING NEW EBOOKS
+
+If you are considering adding a new eBook to the Project Gutenberg
+collection, Please make sure that any books you want to work on are _not_
+already in the collection.  To see what is already online, refer to the
+listing below.  Also, please be sure to check David Price's "In Progress"
+list at:
+
+  http://pglaf.org/~ccx074/gutip.html
+
+to ensure no one is currently working on your selection.
+
+
+COPYRIGHT CLEARANCE
+
+It would also be helpful if you obtain copyright clearance prior to submitting
+books. More information on this can be found at:
+
+  http://www.gutenberg.org/
+
+
+APPENDIX
+
+Please see the Appendix at the end of each eBook catalog for some
+general comments and clarification.
+
+
+                               <==LISTINGS==>
+
+**** A "C" Following a Project Gutenberg eBook Number Indicates Copyright ****
+
+   **** The Language of the eBooks is English, unless otherwise noted ****
+
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Jan 1998 to 31 Dec 1998 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     ETEXT NO.
+
+Westward Ho!, by Charles Kingsley                                         1860
+
+The Works of Max Beerbohm                                                 1859
+
+Plain Tales from the Hills, by Rudyard Kipling                            1858
+
+Initials Only, by Anna Katharine Green                                    1857
+
+Cousin Pons, by Honore de Balzac                                          1856
+
+Ban and Arriere Ban, by Andrew Lang                                       1855
+ [Subtitle: A Rally of Fugitive Rhymes]
+ [Illustrator: Henry Justice Ford]
+
+Catherine de' Medici, by Honore de Balzac                                 1854
+
+The Ninth Vibration and Other Stories, by L. Adams Beck                   1853
+
+Lucile, by Owen Meredith                                                  1852
+ [Author a.k.a. Edward George Bulwer-Lytton]
+
+The Woman in the Alcove, by Anna Katharine Green                          1851
+
+Old Christmas, by Washington Irving                                       1850
+
+The Yellow Crayon, by E. Phillips Oppenheim                               1849
+
+Montezuma's Daughter, by H. Rider Haggard                                 1848
+
+Songs, Merry and Sad, by John Charles McNeill                             1847
+
+The Vision Spendid, by William MacLeod Raine                              1846
+
+Zuleika Dobson, by Max Beerbohm                                           1845
+ [Subtitle: or, An Oxford Love Story]
+
+The Scholemaster, by Roger Ascham                                         1844
+ [Title a.k.a. The Schoolmaster]
+
+Vera, by Richard Harding Davis                                            1843
+ [Subtitle: The Medium]
+
+Michael Strogoff, by Jules Verne                                          1842
+ [Subtitle: or, The Courier of the Czar]
+
+Z. Marcas, by Honore de Balzac                                            1841
+
+The Financier, by Theodore Dreiser                                        1840
+
+Other Things Being Equal, by Emma Wolf                                    1839
+
+A New Voyage to Carolina, by John Lawson                                  1838
+
+The Prince and The Pauper, by Mark Twain                                  1837
+
+The Case of the Golden Bullet, by Augusta Groner                          1836
+ [Subtitle: Being the Account of Some Adventures
+  in the Professional Experience of a Member of
+  the Imperial Austrian Police
+
+The Case of The Pool of Blood in the Pastor's Study, by Augusta Groner    1835
+ [Subtitle: Being the Account of Some Adventures
+  in the Professional Experience of a Member of
+  the Imperial Austrian Police
+
+The Case of The Pocket Diary Found in the Snow, by Augusta Groner         1834
+ [Subtitle: Being the Account of Some Adventures
+  in the Professional Experience of a Member of
+  the Imperial Austrian Police
+
+The Case of the Registered Letter, by Augusta Groner                      1833
+ [Subtitle: Being the Account of Some Adventures
+  in the Professional Experience of a Member of
+  the Imperial Austrian Police
+
+The Lamp That Went Out, by Augusta Groner                                 1832
+ [Subtitle: Being the Account of Some Adventures
+  in the Professional Experience of a Member of
+  the Imperial Austrian Police
+
+The Lock and Key Library, Classic Mystery and Detective Stories           1831
+ - Old Time English, by Various
+
+Wyndham Towers, by Thomas Bailey Aldrich                                  1830
+
+Mae Madden, by Mary Murdoch Mason                                         1829
+
+Chronicles of the Canongate, by Walter Scott                              1828
+ [Subtitle: The Chronicles of the Canongate, 1st Series]
+
+The Life of Charlotte Bronte, Vol. 1, by Elizabeth Gaskell                1827
+
+Sarrasine, by Honore de Balzac                                            1826
+
+The Adventures of Reddy Fox, by Thornton W. Burgess                       1825
+
+Peace Manoeuvres, by Richard Harding Davis                                1824
+
+The Make-Believe Man, by Richard Harding Davis                            1823
+
+The Amateur, by Richard Harding Davis                                     1822
+
+A Charmed Life, by Richard Harding Davis                                  1821
+
+A Wasted Day, by Richard Harding Davis                                    1820
+
+The Messengers, by Richard Harding Davis                                  1819
+
+The Spy, by Richard Harding Davis                                         1818
+
+A Question of Latitude, by Richard Harding Davis                          1817
+
+Tattine, by Ruth Ogden                                                    1816
+
+The Boys' Life of Abraham Lincoln, by Helen Nicolay                       1815
+
+The Agony Column, by Earl Derr Biggers                                    1814
+
+A Man of Business, by Honore de Balzac                                    1813
+
+A Prince of Bohemia, by Honore de Balzac                                  1812
+
+Massimilla Doni, by Honore de Balzac                                      1811
+
+A Second Home, by Honore de Balzac                                        1810
+
+Bucky O'Connor, by William MacLeod Raine                                  1809
+ [Subtitle: A Tale of the Unfenced Border]
+
+The Log of The "Jolly Polly", by Richard Harding Davis                    1808
+
+The Lost House, by Richard Harding Davis                                  1807
+
+The Frame Up, by Richard Harding Davis                                    1806
+
+The Gentle Grafter, by O. Henry                                           1805
+ [Illustrators: H. C. Greening and May Wilson Preston]
+
+War and the Future, by H. G. Wells                                        1804
+
+Wyoming, a Story of the Outdoor West, by William MacLeod Raine            1803
+
+King Henry VIII, by William Shakespeare                                   1802C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Tempest, by William Shakespeare                                       1801C
+ [Note: An improved edition of this title may be viewed at ebook #1540]
+
+The Winter's Tale, by William Shakespeare                                 1800C
+ [Note: An improved edition of this title may be viewed at ebook #1539]
+
+Cymbeline, by William Shakespeare                                         1799C
+ [Note: An improved edition of this title may be viewed at ebook #1538]
+
+Timon of Athens, by William Shakespeare                                   1798C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Coriolanus, by William Shakespeare                                        1797C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Antony and Cleopatra, by William Shakespeare                              1796C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Macbeth, by William Shakespeare                                           1795C
+ [Note: An improved edition of this title may be viewed at ebook #1533]
+
+King Lear, by William Shakespeare                                         1794C
+
+Othello, by William Shakespeare                                           1793C
+ [Note: An improved edition of this title may be viewed at ebook #1531]
+
+Measure for Measure, by William Shakespeare                               1792C
+ [Note: An improved edition of this title may be viewed at ebook #23045]
+
+All's Well That Ends Well, by William Shakespeare                         1791C
+ [Note: An improved edition of this title may be viewed at ebook #1529]
+
+Troilus and Cressida, by William Shakespeare                              1790C
+ [Note: An improved edition of this title may be viewed at ebook #1528]
+
+Not Used                                                                  1789
+
+Sir John Oldcastle, by William Shakespeare                                1788
+
+Hamlet, by William Shakespeare                                            1787C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+As You Like It, by William Shakespeare                                    1786C
+ [Note: An improved edition of this title may be viewed at ebook #1523]
+
+Julius Caesar, by William Shakespeare                                     1785C
+ [Note: An improved edition of this title may be viewed at ebook #1522]
+
+King Henry V, by William Shakespeare                                      1784C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Much Ado About Nothing, by William Shakespeare                            1783C
+ [Note: An improved edition of this title may be viewed at ebook #1519]
+
+King Henry IV, Part 2, by William Shakespeare                             1782C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Merry Wives of Windsor, by William Shakespeare                        1781C
+ [Note: An improved edition of this title may be viewed at ebook #1517]
+
+King Henry IV, Part 1, by William Shakespeare                             1780C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Merchant of Venice, by William Shakespeare                            1779C
+ [Note: An improved edition of this title may be viewed at ebook #1515]
+
+A Midsummer Night's Dream, by William Shakespeare                         1778C
+ [Note: An improved edition of this title may be viewed at ebook #1514]
+
+Romeo and Juliet, by William Shakespeare                                  1777C
+ [Note: An improved edition of this title may be viewed at ebook #1513]
+
+King Richard II, by William Shakespeare                                   1776C
+
+King John, by William Shakespeare                                         1775C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Love's Labour's Lost, by William Shakespeare                              1774C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Two Gentlemen of Verona, by William Shakespeare                           1773C
+ [Note: An improved edition of this title may be viewed at ebook #23043]
+
+The Taming of the Shrew, by William Shakespeare                           1772C
+ [Note: An improved edition of this title may be viewed at ebook #1508]
+
+Titus Andronicus, by William Shakespeare                                  1771C
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+King Edward the Third, by William Shakespeare                             1770
+
+The Comedy of Errors, by William Shakespeare                              1769C
+ [Note: An improved edition of this title may be viewed at ebook #23046]
+
+King Richard III, by William Shakespeare                                  1768C
+
+Not Used                                                                  1767
+
+Not Used                                                                  1766
+
+Henry the Sixth, Part One, by William Shakespeare                         1765C
+[Note: An improved edition of this title may be viewed at ebook #100]
+
+Billy and the Big Stick, by Richard Harding Davis                         1764
+
+The Nature Faker, by Richard Harding Davis                                1763
+
+The Consul, by Richard Harding Davis                                      1762
+
+My Buried Treasure, by Richard Harding Davis                              1761
+
+The Man Who Could Not Lose, by Richard Harding Davis                      1760
+
+The Black-Bearded Barbarian, by Marion Keith                              1759
+ [Subtitle: The Life of George Leslie Mackay of Formosa]
+ [Author a.k.a. Mary Esther Miller MacGregor]
+
+Marjorie Daw, by Thomas Bailey Aldrich                                    1758
+
+The Cruise of the Dolphin, by Thomas Bailey Aldrich                       1757
+
+Uncle Vanya, by Anton Checkov                                             1756
+
+Ivanoff, by Anton Checkov                                                 1755
+ [Subtitle: A Play]
+
+The Sea-Gull, by Anton Checkov                                            1754
+
+Swan Song, by Anton Checkov                                               1753
+
+El Dorado, by Baroness Orczy                                              1752
+
+Twilight Land, by Howard Pyle                                             1751
+
+Laws, by Plato                                                            1750
+
+Cousin Betty, by Honore de Balzac                                         1749
+
+Other People's Money, by Emile Gaboriau                                   1748
+
+The Red Seal, by Natalie Sumner Lincoln                                   1747
+
+New Collected Rhymes, by Andrew Lang                                      1746
+
+The Poetical Works of John Milton                                         1745
+
+Philebus, by Plato                                                        1744
+
+Twelve Stories and a Dream, by H. G. Wells                                1743
+
+Miss Civilization, by Richard Harding Davis                               1742
+ [Subtitle: A Comedy in One Act]
+
+The White Moll, by Frank L. Packard                                       1741
+
+The Flying U's Last Stand, by B. M. Bower                                 1740
+
+The Black Death; The Dancing Mania, by Justus Friedrich Karl Hecker       1739
+
+Statesman, by Plato                                                       1738
+
+Facino Cane, by Honore de Balzac                                          1737
+
+The Life and Death of the Lord Cromwell, by William Shakespeare           1736
+
+Sophist, by Plato                                                         1735
+
+The Secret Places of the Heart, by H. G. Wells                            1734
+
+The Red Cross Girl, by Richard Harding Davis                              1733
+
+The Schoolmistress and Other Stories, by Anton Chekhov                    1732
+
+Sister Songs, by Francis Thompson                                         1731
+ [Subtitle: An Offering to Two Sisters]
+
+Michael, Brother of Jerry, by Jack London                                 1730
+
+The Deserted Woman, by Honore de Balzac                                   1729
+
+The Odyssey, by Homer                                                     1728
+
+The Odyssey, by Homer                                                     1727
+
+Theaetetus, by Plato                                                      1726
+
+Heart of the West, by O. Henry                                            1725
+ [Author a.k.a. William Sidney Porter]
+
+Finished, by H. Rider Haggard                                             1724
+
+Cow-Country, by B. M. Bower                                               1723
+
+Martin Luther's Large Catechism                                           1722
+
+The Trees of Pride, by G. K. Chesterton                                   1721
+
+The Man Who Knew Too Much, by G. K. Chesterton                            1720
+
+The Ballad of the White Horse, by G. K. Chesterton                        1719
+
+Manalive, by G.K. Chesterton                                              1718
+
+What's Wrong With The World, by G. K. Chesterton                          1717
+
+Copy-Cat & Other Stories, by Mary Wilkins Freeman                         1716
+
+Eugenie Grandet, by Honore de Balzac                                      1715
+
+Another Study of Woman, by Honore de Balzac                               1714
+
+Lincoln, by Nathaniel Wright Stephenson                                   1713
+ [Subtitle: Lincoln; An Account of His Personal Life,
+  Especially of Its Springs of Action as Revealed
+  and Deepened by the Ordeal of War]
+
+The Rescue, by Joseph Conrad                                              1712
+
+Child of Storm, by H. Rider Haggard                                       1711
+
+La Grande Breteche, by Honore de Balzac                                   1710
+
+New Grub Street, by George Gissing                                        1709
+
+A History of Science, Vol. 4, by Henry Smith Williams                     1708
+
+A History of Science, Vol. 3, by Henry Smith Williams                     1707
+
+A History of Science, Vol. 2, by Henry Smith Williams                     1706
+
+A History of Science, Vol. 1, by Henry Smith Williams                     1705
+
+Pierrette, by Honore de Balzac                                            1704
+
+Dead Men Tell No Tales, by E. W. Hornung                                  1703
+
+19th Century Actor Autobiographies, by George Iles                        1702
+
+The Story Of Waitstill Baxter, by By Kate Douglas Wiggin                  1701
+
+Life of Charlotte Bronte, Vol. 2, by Elizabeth Cleghorn Gaskel            1700
+
+The Vanished Messenger, by E. Phillips Oppenheim                          1699
+
+The Survivors of the Chancellor, by Jules Verne                           1698
+
+Madam How and Lady Why, by Charles Kingsley                               1697
+ [Subtitle: or, First Lessons in Earth Lore for Children]
+
+The Club of Queer Trades, by G. K. Chesterton                             1696
+
+The Man Who Was Thursday, by G. K. Chesterton                             1695
+ [Subtitle: A Nightmare]
+
+Our Legal Heritage, by S. A. Reilly                                       1694C
+
+Dangerous Days, by Mary Roberts Rinehart                                  1693
+
+1492, by Mary Johnston                                                    1692
+
+Reserved: I Have A Dream, by Martin Luther King, Jr.                      1691
+ [This was originally released without a copyright notice,
+  so was posted as a public domain work.  At the request of
+  the estate of Dr. King, this item has been removed from
+  the collection until such time we can again include it.]
+
+Marie, by H. Rider Haggard                                                1690
+ [Subtitle: An Episode in The Life of the late Allan Quatermain]
+
+The Pivot of Civilization, by Margaret Sanger                             1689
+
+The People of the Abyss, by Jack London                                   1688
+
+Parmenides, by Plato                                                      1687
+
+The Secret of the Night, by Gaston Leroux                                 1686
+
+The Mystery of the Yellow Room, by Gaston Leroux                          1685
+
+The Egoist, by George Meredith                                            1684
+
+Honorine, by Honore de Balzac                                             1683
+
+Menexenus, by Plato                                                       1682
+
+Eryxias, by An Imitator of Plato                                          1681
+
+At the Sign of the Cat and Racket, by Honore de Balzac                    1680
+
+Hiram The Young Farmer, by Burbank L. Todd                                1679
+
+An Historical Mystery, by Honore de Balzac                                1678
+
+Alcibiades II, by an Imitator of Plato                                    1677
+
+Alcibiades I, by Plato (may be spurious)                                  1676
+
+New Forces in Old China, by Arthur Judson Brown                           1675
+
+The Narrative of Sojourner Truth                                          1674
+
+Lesser Hippias, (Apocrypha), by Plato                                     1673
+
+Gorgias, by Plato                                                         1672
+
+When a Man Marries, by Mary Roberts Rinehart                              1671
+
+Martin Luther's Small Catechism                                           1670
+
+The Human Drift, by Jack London                                           1669
+
+Tapestried Chamber, and Death of the Laird's Jock, by Sir Walter Scott    1668
+ [Note: two tales from The Keepsake Stories]
+
+My Aunt Margaret's Mirror, by Sir Walter Scott                            1667
+ [Subtitle: From Short Stories Published
+  in "The Keepsake Annual", 1828]
+
+The Golden Asse, by Lucius Apuleius                                       1666
+
+Derrick Vaughan--Novelist, by Edna Lyall                                  1665
+
+Songs for Parents, by John Farrar                                         1664
+
+Webster's Seventh of March Speech, and the Secession Movement,            1663
+ by Herbert Darling Foster
+
+The 1997 CIA World Factbook                                               1662
+
+The Adventures of Sherlock Holmes, by Arthur Conan Doyle                  1661
+ 
+Scenes From a Courtesan's Life, by Honore de Balzac                       1660
+
+The Girl with the Golden Eyes, by Honore de Balzac                        1659
+
+Phaedo, by Plato                                                          1658
+ [Subtitle: The Last Hours Of Socrates]
+
+Crito, by Plato                                                           1657
+
+Apology, by Plato                                                         1656
+ [Subtitle: Also known as "The Death of Socrates"]
+
+The God of His Fathers, by Jack London                                    1655
+ [Subtitle: Tales of the Klondyke]
+
+An Unsocial Socialist, by George Bernard Shaw                             1654
+
+The Imitation of Christ, by Thomas A Kempis                               1653
+
+The Survivors of the Chancellor, by Jules Verne                           1652
+
+The Mystery of Orcival, by Emile Gaboriau                                 1651
+
+The Light of Egypt, Vol. 2, by Henry O. Wagner,                           1650
+ Belle M. Wagner, and Thomas H. Burgoyne
+
+Ferragus, by Honore de Balzac                                             1649
+
+Not Used                                                                  1648
+
+Not Used                                                                  1647
+
+Roads of Destiny, by O. Henry                                             1646
+
+Rhymes a la Mode, by Andrew Lang                                          1645
+
+The Adventures of Gerard, by Arthur Conan Doyle                           1644
+
+Meno, by Plato                                                            1643
+
+Euthyphro, by Plato                                                       1642
+
+The Lesser Bourgeoisie, by Honore de Balzac                               1641
+
+Lilith, by George MacDonald                                               1640
+
+Eve and David, by Honore de Balzac                                        1639
+
+The New Revelation, by Arthur Conan Doyle                                 1638
+
+Sanitary and Social Lectures and Essays, by Charles Kingsley              1637
+
+Phaedrus, by Plato                                                        1636
+
+Ion, by Plato                                                             1635
+
+The Foolish Virgin, by Thomas Dixon                                       1634
+
+The Brick Moon, et. al., by Edward Everett Hale                           1633
+
+A Book of Scoundrels, by Charles Whibley                                  1632
+
+A Monk of Fife, by Andrew Lang                                            1631
+ [Subtitle: Being the chronicle written by Norman Leslie of Pitcullo,
+  concerning marvellous deeds that befell in the realm of France, in
+  the years of our redemption, MCCCCXXIX-XXXI.  Now first done into
+  English out of the French]
+
+Little Novels, by Wilkie Collins                                          1630
+
+I Say No, by Wilkie Collins                                               1629
+
+My Lady's Money, by Wilkie Collins                                        1628
+
+The Evil Genius, by Wilkie Collins                                        1627
+
+After Dark, by Wilkie Collins                                             1626
+
+The Frozen Deep, by Wilkie Collins                                        1625
+
+The Two Destinies, by Wilkie Collins                                      1624
+
+The New Magdalen, by Wilkie Collins                                       1623
+
+The Law and the Lady, by Wilkie Collins                                   1622
+
+Miss or Mrs.?, by Wilkie Collins                                          1621
+
+The Lion and the Unicorn and Other Stories, by Richard Harding Davis      1620
+
+La Celestina, por Fernando de Rojas, in Spanish                           1619C
+ Language: Spanish]
+
+In the Shadow of the Glen, by J. M. Synge                                 1618
+
+The Wind in the Rose-Bush, et al, by Mary Wilkins                         1617
+ [Subtitle: And Other Stories Of The Supernatural]
+
+Cratylus, by Plato                                                        1616
+
+Old English Libraries, by Ernest Savage                                   1615
+ [Subtitle: The Making, Collection, and Use
+  of Books during the Middle Ages]
+
+The Golden Fleece, by Julian Hawthorne                                    1614
+
+Count Bunker, by J. Storer Clouston                                       1613
+ [Subtitle: Being a Bald yet Veracious Chronicle
+  Containing some Further Particulars of Two Gentlemen
+  Whose Previous Careers Were Touched Upon in a Tome
+  Entitled "The Lunatic At Large"]
+
+Poems By a Little Girl, by Hilda Conkling                                 1612
+
+Seventeen, by Booth Tarkington                                            1611
+ [Subtitle: A Tale Of Youth And Summer Time
+  And The Baxter Family, Especially William]
+
+The Bible, Douay-Rheims, Old Testament, Part 2, by Anonymous              1610
+
+The Bible, Douay-Rheims, Old Testament, Part I, by Anonymous              1609
+
+Camille, by Alexandre Dumas, fils                                         1608
+ [Title a.k.a. La Dame aux Camilias]
+
+A Journey in Other Worlds, by John Jacob Astor                            1607
+ [Subtitle: A Romance of the Future]
+
+Kenilworth, by Sir Walter Scott                                           1606
+
+The Crock of Gold, by James Stephens                                      1605
+
+The Ebb-Tide, by Robert Louis Stevenson and Lloyde Osbourne               1604
+ [Subtitle: A Trio And Quartette]
+
+The Blue Flower, by Henry van Dyke                                        1603
+
+Dawn O'Hara, The Girl Who Laughed, by Edna Ferber                         1602
+
+The Breaking Point, by Mary Roberts Rinehart                              1601
+
+Symposium, by Plato                                                       1600
+
+Cinderella; or, The Little Glass Slipper and Other Stories, by Anonymous  1599
+
+Euthydemus, by Plato                                                      1598
+
+Andersen's Fairy Tales, by Hans Christian Andersen                        1597
+
+Smoke Bellew, by Jack London                                              1596
+
+Whirligigs, by O. Henry                                                   1595
+
+Essays in Little, by Andrew Lang                                          1594
+
+How to Tell the Birds from the Flowers, by Robert Williams Wood           1593
+ [Subtitle: A Manual of Flornithology for Beginners]
+
+The Greatest English Classic, by Cleland Boyd McAfee                      1592
+ [Subtitle: A Study Of The King James Version Of The
+  Bible And Its Influence On Life And Literature]
+
+Protagoras, by Plato                                                      1591
+
+The Amazing Interlude, by Mary Roberts Rinehart                           1590
+ [Illustrators: Troy Kinney and Margaret West Kinney]
+
+Tamburlaine the Great, Part 2, by Christopher Marlowe                     1589
+
+A Rogue's Life, by Wilkie Collins                                         1588
+
+The Black Robe, by Wilkie Collins                                         1587
+
+Man and Wife, by Wilkie Collins                                           1586
+
+The Wrong Box, by Robert Louis Stevenson and Lloyd Osbourne               1585
+
+Laches, by Plato                                                          1584
+
+Options, by O. Henry                                                      1583
+
+The Holy Bible, Douay-Rheims Version, New Testament, by Anonymous         1582
+
+The Holy Bible, Douay-Rheims Version, Both Testaments, by Anonymous       1581
+
+Charmides, by Plato                                                       1580
+
+Lysis, by Plato                                                           1579
+
+Aucassin and Nicolete, by Andrew Lang                                     1578
+
+The Grey Room, by Eden Phillpotts                                         1577
+
+The Life of Phineas T. Barnum, by Joel Benton                             1576
+
+The Foundations of Personality, by Abraham Myerson                        1575
+
+Historic Girls, by E. S. Brooks                                           1574
+
+Frank's Campaign, by Horatio Alger, Jr                                    1573
+
+Timaeus, by Plato                                                         1572
+
+Critias, by Plato                                                         1571
+
+The Power of Concentration, By Theron Q. Dumont                           1570
+
+The Lily of the Valley, by Honore de Balzac                               1569
+
+Poems, by William Ernest Henley                                           1568
+
+Poems, by T. S. Eliot                                                     1567
+
+The Evolution of Modern Medicine, by William Osler                        1566
+ [Subtitle: A Series Of Lectures Delivered At Yale University
+  On The Silliman Foundation In April, 1913]
+
+The Last Days of Pompeii, by Edward George Bulwer-Lytton                  1565
+
+Life of Johnson, by James Boswell                                         1564
+ [Subtitle: Abridged and Edited]
+
+The Crystal Stopper, by Maurice LeBlanc                                   1563
+
+Little Rivers, by Henry van Dyke                                          1562
+ [Subtitle: A Book Of Essays In Profitable Idleness]
+
+Pagan & Christian Creeds, by Edward Carpenter                             1561
+ [Subtitle: Their Origin and Meaning]
+
+The San Francisco Calamity by Earthquake and Fire,                        1560
+ as told by Eye Witnesses
+
+A Distinguished Provincial at Paris, by Honore de Balzac                  1559
+ [Subtitle: Lost Illusions Part 2]
+
+The Profits of Religion, by Upton Sinclair                                1558
+
+Men of Iron, by Ernie Howard Pyle                                         1557
+
+The Marriage Contract, by Honore de Balzac                                1556
+
+A Passion in the Desert, by Honore de Balzac                              1555
+
+Adieu, by Honore de Balzac                                                1554
+
+The Hidden Masterpiece, by Honore de Balzac                               1553
+
+The Most Interesting Stories of All Nations, by Various                   1552
+
+A Cathedral Courtship, by Kate Douglas Wiggin                             1551
+
+A Lady of Quality, by Frances Hodgson Burnett                             1550
+
+Commentary on the Epistle to the Galatians, by Martin Luther              1549
+
+The Lamentable Tragedy of Locrine; and Mucedorus, by William Shakespeare  1548
+
+Sir Thomas More, by William Shakespeare                                   1547
+
+Sonnets To Sundry Notes of Music, by William Shakespeare                  1546
+
+The Passionate Pilgrim, by William Shakespeare                            1545
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Passionate Pilgrim, by William Shakespeare                            1544
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+A Lover's Complaint, by William Shakespeare                               1543
+
+The Two Noble Kinsmen, by William Shakespeare and John Fletcher           1542
+
+King Henry VIII, by William Shakespeare                                   1541
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Tempest, by William Shakespeare                                       1540
+
+The Winter's Tale, by William Shakespeare                                 1539
+
+Cymbeline, by William Shakespeare                                         1538
+
+Pericles, by William Shakespeare                                          1537
+
+Timon of Athens, by William Shakespeare                                   1536
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Coriolanus, by William Shakespeare                                        1535
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Antony and Cleopatra, by William Shakespeare                              1534
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Macbeth, by William Shakespeare                                           1533
+
+King Lear, by William Shakespeare                                         1532
+
+Othello, the Moor of Venice, by William Shakespeare                       1531
+
+Measure for Measure, by William Shakespeare                               1530
+
+All's Well That Ends Well, by William Shakespeare                         1529
+
+Troilus and Cressida, by William Shakespeare                              1528
+
+Twelfth Night, by William Shakespeare                                     1527
+ [Note: An improved edition of this title may be viewed at ebook #38901]
+
+Twelfth Night, by William Shakespeare                                     1526
+
+The Phoenix and the Turtle, by William Shakespeare                        1525
+
+Hamlet, by William Shakespeare                                            1524
+
+As You Like It, by William Shakespeare                                    1523
+
+Julius Caesar, by William Shakespeare                                     1522
+
+King Henry V, by William Shakespeare                                      1521
+
+Much Ado About Nothing, by William Shakespeare                            1520
+ [Note: An improved edition of this title may be viewed at ebook #1519]
+
+Much Ado About Nothing, by William Shakespeare                            1519
+
+King Henry IV, Part 2, by William Shakespeare                             1518
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Merry Wives of Windsor, by William Shakespeare                        1517
+
+King Henry IV, Part 1, by William Shakespeare                             1516
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Merchant of Venice, by William Shakespeare                            1515
+
+A Midsummer Night's Dream, by William Shakespeare                         1514
+
+Romeo and Juliet, by William Shakespeare                                  1513
+
+King Richard II, by William Shakespeare                                   1512
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+King John, by William Shakespeare                                         1511
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Love's Labour's Lost, by William Shakespeare                              1510
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Two Gentlemen of Verona, by William Shakespeare                           1509
+ [Note: An improved edition of this title may be viewed at ebook #23043]
+
+The Taming of the Shrew, by William Shakespeare                           1508
+
+The Tragedy of Titus Andronicus, by William Shakespeare                   1507
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Rape of Lucrece, by William Shakespeare                               1506
+ [Subtitle: Clark Edition]
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Rape of Lucrece, by William Shakespeare                               1505
+ [Subtitle: Collins Edition]
+ [Note: An improved edition of this title may be viewed at ebook #100]
+ 
+The Comedy of Errors, by William Shakespeare                              1504
+ [Note: An improved edition of this title may be viewed at ebook #23046]
+
+King Richard III, by William Shakespeare                                  1503
+
+King Henry VI, Part 3, by William Shakespeare                             1502
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+King Henry VI, Part 2, by William Shakespeare                             1501
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+King Henry VI, Part 1, by William Shakespeare                             1500
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Beacon Lights of History, Vol. 3, Part 2, by John Lord                    1499
+ [Subtitle: Renaissance and Reformation]
+
+Beacon Lights of History, Vol. 3, Part 1, by John Lord                    1498
+ [Subtitle: The Middle Ages]
+
+The Republic, by Plato                                                    1497
+
+Massacre at Paris, by Christopher Marlowe                                 1496
+
+The Golf Course Mystery, by Chester K. Steele                             1495
+
+The Legends of the Jews, Vol. 2, by Louis Ginzberg                        1494
+
+The Legends of the Jews, Vol. 1, by Louis Ginzberg                        1493
+
+The Life of Christopher Columbus from his own Letters and Journals,       1492
+ by Edward Everett Hale
+
+Letters to Dead Authors, by Andrew Lang                                   1491
+
+The New McGuffey Fourth Reader, by William Holmes McGuffey                1490
+
+The New McGuffey First Reader, by William Holmes McGuffey                 1489
+
+The True Story of Christopher Columbus, by Elbridge S. Brooks             1488
+
+The Perfect Wagnerite, by George Bernard Shaw                             1487
+ [Subtitle: A Commentary on the Niblung's Ring]
+
+The Unseen World and Other Essays, by John Fiske                          1486
+
+The Use and Need of the Life of Carry A. Nation, by Carry Amelia Nation   1485
+
+The Four Horsemen of the Apocalypse, by Vicente Blasco Ibanez             1484
+
+Forty Centuries of Ink, by David N. Carvalho                              1483
+
+Modeste Mignon, by Honore de Balzac                                       1482
+
+A Daughter of Eve, by Honore de Balzac                                    1481
+
+Tom Brown's Schooldays, by Thomas Hughes                                  1480
+
+A Vanished Arcadia, by R. B. Cunninghame Graham                           1479
+
+A Parody Outline of History, by Donald Ogden Stewart                      1478
+
+The Toys of Peace, by Saki                                                1477
+ [Author a.k.a. H. H. Munro]
+
+Chance, by Joseph Conrad                                                  1476
+ [Subtitle: A Tale in Two Parts]
+
+Gaudissart II, by Honore de Balzac                                        1475
+
+The Illustrious Gaudissart, by Honore de Balzac                           1474
+
+The Absentee, by Maria Edgeworth                                          1473
+
+In a German Pension, by Katherine Mansfield                               1472
+
+New Poems, by Francis Thompson                                            1471
+
+Fall of the Moghul Empire of Hindustan, by H. G. Keene                    1470
+
+Poems, by Francis Thompson                                                1469
+
+The History of England from the Accession of James II, Vol. 1 of 5,       1468
+ by Thomas Babington Macaulay
+
+Some Christmas Stories, by Charles Dickens                                1467
+
+Creatures That Once Were Men, by Maxim Gorky                              1466
+
+The Wreck of the Golden Mary, by Charles Dickens                          1465
+
+Contributions to: All The Year Round, by Charles Dickens                  1464
+
+The Private Papers of Henry Ryecroft, by George Gissing                   1463
+
+Some Roundabout Papers, by William Makepeace Thackeray                    1462
+
+A Legend of Montrose, by Sir Walter Scott                                 1461
+
+The Black Dwarf, by Sir Walter Scott                                      1460
+
+Prufrock and Other Observations, by T. S. Eliot                           1459
+
+Dream Life and Real Life, by Olive Schreiner                              1458
+
+Mistress Wilding, by Rafael Sabatini                                      1457
+
+An Episode Under the Terror, by Honore de Balzac                          1456
+
+The Hated Son, by Honore de Balzac                                        1455
+
+Maitre Cornelius, by Honore de Balzac                                     1454
+
+The Alkahest, by Honore de Balzac                                         1453
+
+Native Life in South Africa, by Sol Plaatje                               1452
+
+The Art of Lawn Tennis, by William T. Tilden                              1451
+
+Pollyanna, by Eleanor H. Porter                                           1450
+
+The Valley of the Moon, by Jack London                                    1449
+
+Heidi, by Johanna Spyri                                                   1448
+
+The Illustrious Prince, by E. Phillips Oppenheim                          1447
+
+Perfect Behavior, by Donald Ogden Stewart                                 1446
+ [Subtitle: A Guide for Ladies and Gentlemen in all Social Crises]
+
+Aeroplanes, by J. S. Zerbe                                                1445
+
+The Voice of the City, by O. Henry                                        1444
+ [Subtitle: Further Stories of the Four Million ]
+
+Two Poets, by Honore De Balzac                                            1443
+ [Subtitle: Lost Illusions Part 1]
+
+The Kingdom of the Blind, by E. Phillips Oppenheim                        1442
+
+The Story of an African Farm, by Olive Schreiner                          1441
+ [Author a.k.a. Ralph Iron]
+
+Woman and Labour, by Olive Schreiner                                      1440
+
+Dreams, by Olive Schreiner                                                1439
+
+No Name, by Wilkie Collins                                                1438
+
+Juana, by Honore de Balzac                                                1437
+
+A Voyage to Abyssinia, by Jerome Lobo                                     1436
+
+Miscellaneous Papers, by Charles Dickens                                  1435
+
+Essays, by Alice Meynell                                                  1434
+
+The Red Inn, by Honore de Balzac                                          1433
+
+Seraphita, by Honore de Balzac                                            1432
+
+Trooper Peter Halket of Mashonaland, by Olive Schreiner                   1431
+
+Beautiful Stories from Shakespeare, by E. Nesbit                          1430
+
+The Garden Party, by Katherine Mansfield                                  1429
+
+La Grenadiere, by Honore de Balzac                                        1428
+
+A Drama on the Seashore, by Honore de Balzac                              1427
+
+The Recruit, by Honore de Balzac                                          1426
+
+El Verdugo, by Honore de Balzac                                           1425
+
+Castle Rackrent, by Maria Edgeworth                                       1424
+
+No Thoroughfare, by Charles Dickens and Wilkie Collins                    1423
+
+Going into Society, by Charles Dickens                                    1422
+
+Mrs. Lirriper's Legacy, by Charles Dickens                                1421
+
+London's Underworld, by Thomas Holmes                                     1420
+
+Mugby Junction, by Charles Dickens                                        1419
+
+Country Sentiment, by Robert Graves                                       1418
+
+Sons of the Soil, by Honore de Balzac                                     1417
+
+Mrs. Lirriper's Lodgings, by Charles Dickens                              1416
+
+Doctor Marigold, by Charles Dickens                                       1415
+
+Somebody's Luggage, by Charles Dickens                                    1414
+
+Tom Tiddler's Ground, by Charles Dickens                                  1413
+
+Masterman Ready, by Captain Marryat                                       1412
+
+Domestic Peace, by Honore de Balzac                                       1411
+
+The Commission in Lunacy, by Honore de Balzac                             1410
+
+The Soul of the Far East, by Percival Lowell                              1409
+
+The Natural History of Selborne, by Gilbert White                         1408
+
+A Message from the Sea, by Charles Dickens                                1407
+
+The Perils of Certain English Prisoners, by Charles Dickens               1406
+
+The Collection of Antiquities, by Honore de Balzac                        1405
+
+The Federalist Papers, by Alexander Hamilton, John Jay and James Madison  1404
+
+A Start in Life, by Honore de Balzac                                      1403
+
+Where the Blue Begins, by Christopher Morley                              1402
+
+Tarzan the Untamed, by Edgar Rice Burroughs                               1401
+
+Great Expectations, by Charles Dickens                                    1400
+
+Anna Karenina, by Leo Tolstoy                                             1399
+
+Dore Lectures on Mental Science, by Thomas Troward                        1398
+
+The Ruins, by Constantin Francois de Volney                               1397
+
+Rienzi, the Last of the Roman Tribunes, by Edward Bulwer Lytton           1396
+
+Letters on Literature, by Andrew Lang                                     1395
+
+The Holly-Tree, by Charles Dickens                                        1394
+
+Amours de Voyage, by Arthur Hugh Clough                                   1393
+
+The Seven Poor Travellers, by Charles Dickens                             1392
+
+Penelope's Irish Experiences, by Kate Douglas Wiggin                      1391
+
+The Jimmyjohn Boss and Other Stories, by Owen Wister                      1390
+
+Gobseck, by Honore de Balzac                                              1389
+
+Padre Ignacio, by Owen Wister                                             1388
+ [Subtitle: Or The Song of Temptation]
+
+Mother, by Owen Wister                                                    1387
+
+Lady Baltimore, by Owen Wister                                            1386
+
+Lin McLean, by Owen Wister                                                1385
+
+The Ayrshire Legatees, by John Galt                                       1384
+
+Poems, Vol. 3 of 3, by George Meredith                                    1383
+
+Poems, Vol. 2 of 3, by George Meredith                                    1382
+
+Poems, Vol. 1 of 3, by George Meredith                                    1381
+
+The Two Brothers, by Honore de Balzac                                     1380
+
+A Straight Deal, by Owen Wister                                           1379
+ [Subtitle: or The Ancient Grudge]
+
+The Land of Footprints, by Stewart Edward White                           1378
+
+The Talisman, by Walter Scott                                             1377
+ [Note: Vols. 3 and 4 of Tales of the Crusaders]
+
+The Little White Bird, by J. M. Barrie                                    1376
+ [Subtitle: or Adventures In Kensington Gardens]
+
+New Chronicles of Rebecca by Kate Douglas Wiggin                          1375
+
+Vendetta, by Honore de Balzac                                             1374
+
+Study of a Woman, by Honore de Balzac                                     1373
+
+The Adventures of Captain Bonneville, by Washington Irving                1372
+ [Subtitle: Digested From His Journal]
+
+Astoria, by Washington Irving                                             1371
+ [Subtitle: Or, Anecdotes Of An Enterprise
+  Beyond The Rocky Mountains]
+
+Autobiography of Andrew Dickson White, Vol. 2                             1370
+
+Paz, by Honore de Balzac                                                  1369
+
+When the World Shook, by H. Rider Haggard                                 1368
+ [Subtitle: Being an Account of the Great Adventure
+  of Bastin, Bickley and Arbuthnot]
+
+Findelkind, by Louise de la Ramee                                         1367
+ [Author a.k.a. Ouida]
+
+The Cloister and the Hearth, by Charles Reade                             1366
+
+The Complete Poetical Works of Henry Wadsworth Longfellow                 1365
+
+Tom Swift and his Electric Locomotive, by Victor Appleton                 1364
+ [Subtitle: or, Two Miles a Minute on the Rails]
+
+Tom Swift among the Fire Fighters, by Victor Appleton                     1363
+ [Subtitle: or, Battling with Flames from the Air]
+
+Tom Swift and his Undersea Search, by Victor Appleton                     1362
+ [Subtitle: or, The Treasure on the Floor of the Atlantic]
+
+Tom Swift and his Giant Cannon, by Victor Appleton                        1361
+ [Subtitle: or, The Longest Shots on Record]
+
+Historical Lectures and Essays, by Charles Kingsley                       1360
+
+Best Historical Novels and Tales, by Jonathan Nield                       1359
+
+Enoch Arden, &c. by Alfred Tennyson                                       1358
+
+Madame Firmiani, by Honore de Balzac                                      1357
+
+The Cruise of the Cachalot, by Frank T. Bullen                            1356
+
+The Underground City, by Jules Verne                                      1355
+
+Chronicles of Avonlea, by Lucy Maud Montgomery                            1354
+
+Off on a Comet, by Jules Verne                                            1353
+
+An Old Maid, by Honore de Balzac                                          1352
+
+The Chignecto Isthmus and Its First Settlers, by Howard Trueman           1351
+
+The Country Doctor, by Honore de Balzac                                   1350
+
+Russia, by Donald Mackenzie Wallace                                       1349
+
+A Master's Degree, by Margaret Hill McCarter                              1348
+
+A New Philosophy: Henri Bergson, by Edouard le Roy                        1347
+
+The Eighteenth Brumaire of Louis Bonaparte, by Karl Marx                  1346
+
+The Vicar of Tours, by Honore de Balzac                                   1345
+
+The Secrets of the Princesse de Cadignan, by Honore de Balzac             1344
+
+Bureaucracy, by Honore de Balzac                                          1343
+
+Pride and Prejudice, by Jane Austen                                       1342
+
+The Altruist in Politics, by Benjamin Cardozo                             1341
+
+The Autobiography of Andrew Dickson White, Vol. 1                         1340
+
+Salome, par Oscar Wilde                                                   1339
+ [Language: French]
+
+Selected Prose of Oscar Wilde, by Oscar Wilde                             1338
+
+Shelley, by Sydney Waterlow                                               1337
+
+Shelley, by Francis Thompson                                              1336
+ [Subtitle: An Essay]
+ [Note: Shelley is Percy Bysshe Shelley]
+
+The Ancien Regime, by Charles Kingsley                                    1335
+
+Paul Kelver, by Jerome Klapka (AKA Jerome K. Jerome)                      1334
+
+Robert F. Murray, His Poems, With Memoir                                  1333
+ [Subtitle: Author of the Scarlet Gown]
+
+Peter Pan in Kensington Gardens, by J. M. Barrie                          1332
+
+ABC's of Science, by Charles A. Oliver                                    1331
+
+The Story of Little Black Sambo, and The Story of                         1330
+ Little Black Mingo, by Helen Bannerman
+
+A Voyage to Arcturus, by David Lindsay                                    1329
+
+The Tinker's Wedding, by John Millington Synge                            1328
+
+Elizabeth and her German Garden, by "Elizabeth"                           1327
+ [Author a.k.a. Marie Annette Beauchamp]
+
+The Crisis in Russia, 1920, by Arthur Ransome                             1326
+
+Twenty Years at Hull House, by Jane Addams                                1325
+ [Subtitle: With Autobiographical Notes]
+
+Russia in 1919, by Arthur Ransome                                         1324
+
+The Conquest Of Peru, by William H. Prescott                              1323
+
+Leaves of Grass, by Walt Whitman                                          1322
+
+The Waste Land, by T. S. Eliot                                            1321
+
+Criminal Psychology, by Hans Gross                                        1320
+ [Subtitle: A Manual for Judges, Practioners, and Students]
+
+Increasing Human Efficiency in Business, by Walter Dill Scott             1319
+
+The Twin Hells, by John N. Reynolds                                       1318
+
+Saltbush Bill, J. P., and Other Verses, by A. B. Paterson                 1317
+
+Some Reminiscences, by Joseph Conrad                                      1316
+
+Autobiography and Selected Essays, by Thomas Henry Huxley                 1315
+
+The Malefactor, by E. Phillips Oppenheim                                  1314
+
+Over the Sliprails, by Henry Lawson                                       1313
+
+Selected Stories, by Bret Harte                                           1312
+
+If, by Lord Dunsany                                                       1311
+ [Author a.k.a. Dunsany, Edward John Moreton Drax Plunkett, Baron]
+ [Subtitle: A Play in Four Acts]
+
+Annals of the Parish, by John Galt                                        1310
+ [Illustrator: Henry W. Kerr]
+
+The Spirit of Place, and Other Essays, by Alice Meynell                   1309
+
+Oscar Wilde Miscellaneous, by Oscar Wilde                                 1308
+
+The Magic Skin, by Honore de Balzac                                       1307
+
+Seven Men, by Max Beerbohm                                                1306
+
+The Ball at Sceaux, by Honore de Balzac                                   1305
+
+Bulchevy's Book of English Verse, by Various                              1304
+
+The Scapegoat, by Hall Caine                                              1303
+
+Enemies of Books, by William Blades                                       1302
+
+The French Revolution, by Thomas Carlyle                                  1301
+
+Riders of the Purple Sage, by Zane Grey                                   1300
+
+The Heritage of the Sioux, by B.M. Bower                                  1299
+
+The Virginian, by Owen Wister                                             1298
+ [Subtitle: A Horseman Of The Plains]
+
+The Iron Puddler, by James J. Davis                                       1297
+
+The Provost, by John Galt                                                 1296
+
+Ceres' Runaway, and Other Essays, by Alice Meynell                        1295
+
+The Firm of Nucingen, by Honore de Balzac                                 1294
+
+Sesame and Lilies, by John Ruskin                                         1293
+
+The Way of the World, by William Congreve                                 1292
+ [Subtitle: A Comedy]
+
+Herodias, by Gustave Flaubert                                             1291
+
+Salammbo, by Gustave Flaubert                                             1290
+
+Three Ghost Stories, by Charles Dickens                                   1289
+
+Dream Days, by Kenneth Grahame                                            1288
+
+The Poems of Johann Wolfgang von Goethe                                   1287
+
+Tales from Shakespeare, by Charles and Mary Lamb                          1286
+
+The Water Goats and Other Troubles, by Ellis Parker Butler                1285
+
+Tom Swift and his Air Scout, by Victor Appleton                           1284
+ [Subtitle: or, Uncle Sam's Mastery of the Sky]
+
+Tom Swift and his Wizard Camera, by Victor Appleton                       1283
+ [Subtitle: or, Thrilling Adventures while taking Moving Pictures]
+
+Tom Swift among the Diamond Makers, by Victor Appleton                    1282
+ [Subtitle: or, The Secret of Phantom Mountain]
+
+Tom Swift and his Aerial Warship, by Victor Appleton                      1281
+ [Subtitle: or, The Naval Terror of the Seas]
+
+Spoon River Anthology, by Edgar Lee Masters                               1280
+
+Poems and Songs of Robert Burns, by Robert Burns                          1279
+
+Penelope's English Experiences, by Kate Douglas Wiggin                    1278
+
+Melmoth Reconciled, by Honore de Balzac                                   1277
+
+The Rhythm of Life, and Other Essays, by Alice Meynell                    1276
+
+Alexandria and her Schools, by Charles Kingsley                           1275
+
+Martin Hyde, The Duke's Messenger, by John Masefield                      1274
+
+The Autobiography of a Slander, by Edna Lyall                             1273
+
+The Riddle of the Rhine: Chemical Strategy in Peace and War,              1272
+ by Victor LeFebure
+
+Bygone Beliefs, by H. Stanley Redgrove                                    1271
+
+In Defense of Women, by H. L. Mencken                                     1270
+
+Soul of a Bishop, by H. G. Wells                                          1269
+
+The Mysterious Island, by Jules Verne                                     1268
+
+Kai Lung's Golden Hours, by Ernest Bramah                                 1267
+
+Lavender and Old Lace, by Myrtle Reed                                     1266
+
+Queen Victoria, by Lytton Strachey                                        1265
+
+Wheels of Chance and Bicycling Idyll by H.G. Wells                        1264
+
+The Glimpses of the Moon, by Edith Wharton                                1263
+
+The Heritage of the Desert, by Zane Grey                                  1262
+
+Betty Zane, by Zane Grey                                                  1261
+
+Jane Eyre, by Charlotte Bronte                                            1260
+ [Subtitle: an Autobiography]
+ [Illustrator: F. H. Townsend]
+
+Twenty Years After, by Alexandre Dumas, Pere                              1259
+
+Ten Years Later, by Alexandre Dumas, Pere                                 1258
+ [Subtitle: Chapters 1-104]
+
+The Three Musketeers, by Alexandre Dumas, Pere                            1257
+
+Cyrano de Bergerac, par Edmond Rostand                                    1256
+ [Language: French]
+
+Not Used                                                                  1255
+
+Cyrano de Bergerac by Edmond Rostand                                      1254
+
+A Simple Soul, by Gustave Flaubert                                        1253
+
+Le Mort d'Arthur, Vol. 2, by Thomas Malory                                1252
+
+Le Mort d'Arthur, Vol. 1, by Thomas Malory                                1251
+
+Anthem, by Ayn Rand                                                       1250
+
+Anthem, by Ayn Rand                                                       1249
+
+Last of the Great Scouts, by Helen Cody Wetmore                           1248
+ [Subtitle: The Life Story of William F. Cody ("Buffalo Bill")]
+
+Second April, by Edna St. Vincent Millay                                  1247
+
+The House of Dust, by Conrad Aiken                                        1246
+ [Subtitle: A Symphony]
+
+Night and Day, by Virginia Woolf                                          1245
+
+Love for Love, by William Congreve                                        1244
+ [Subtitle: A Comedy]
+
+Hearts of Controversy, by Alice Meynell                                   1243
+
+Unconscious Comedians, by Honore de Balzac                                1242
+
+The Well of the Saints, by J. M. Synge                                    1241
+
+The Playboy of the Western World, by J. M. Synge                          1240
+
+The Spirit of the Border, by Zane Grey                                    1239
+
+The City of Dreadful Night, by James Thomson                              1238
+
+Father Goriot, by Honore de Balzac                                        1237
+
+First Across the Continent, by Noah Brooks                                1236
+ [Subtitle: The Story of The Exploring Expedition
+  of Lewis and Clark in 1804-5-6]
+
+Captain Fracasse, by Theophile Gautier                                    1235
+
+Organic Syntheses, by Various                                             1234
+
+Origin and Nature of Emotions, by George W. Crile                         1233
+
+The Prince, by Nicolo Machiavelli                                         1232
+
+On the Track, by Henry Lawson                                             1231
+
+Pierre Grassou, by Honore de Balzac                                       1230
+
+Select Poems of Sidney Lanier                                             1229
+
+On the Origin of Species, by Charles Darwin                               1228
+
+The Expression of Emotion in Man and Animals, by Charles Darwin           1227
+
+The Journal of Abnormal Psychology, Vol. 10, by Various                   1226
+
+Faraday As A Discoverer, by John Tyndall                                  1225
+
+Sidney Lanier, by Edwin Mims                                              1224
+
+Ursula, by Honore de Balzac                                               1223
+
+Cobb's Anatomy, by Irvin S. Cobb                                          1222
+
+North American Species of Cactus, by John Coulter                         1221
+
+The Atheist's Mass, by Honore de Balzac                                   1220
+
+An Essay on Comedy, by George Meredith                                    1219
+ [Subtitle: And the Uses of the Comic Spirit]
+
+The Adventures of Jimmie Dale, by Frank L. Packard                        1218
+
+Penelope's Experiences in Scotland, by Kate Douglas Wiggin                1217
+
+Decline of Science in England, by Charles Babbage                         1216
+
+The Elixir of Life, by Honore de Balzac                                   1215
+
+The Street of Seven Stars, by Mary Roberts Rinehart                       1214
+
+The Man that Corrupted Hadleyburg, by Mark Twain                          1213
+
+Love And Friendship And Other Early Works, by Jane Austen                 1212
+ [Subtitle: A collection of juvenile writings]
+
+A Selection From The Lyrical Poems Of Robert Herrick, by Robert Herrick   1211
+
+Kwaidan, by Lafcadio Hearn                                                1210
+
+History of the Conquest of Peru, by William Hickling Prescott             1209
+
+South Sea Tales, by Jack London                                           1208
+
+Nada the Lily, by H. Rider Haggard                                        1207
+
+Flying U Ranch, by B. M. Bower                                            1206
+
+The Colour of Life, by Alice Meynell                                      1205
+ [Subtitle: And Other Essays on Things Seen and Heard]
+
+Cabin Fever, by B. M. Bower                                               1204
+
+Dolly Dialogues, by Anthony Hope                                          1203
+
+Tales of Unrest, by Joseph Conrad                                         1202
+
+Essay on the Trial By Jury, by Lysander Spooner                           1201
+
+Gargantua and Pantagruel, Complete, by Francois Rabelais                  1200
+ [Illustrator: Gustave Dore]
+
+An Anthology of Australian Verse, by Bertram Stevens                      1199
+
+Robbery Under Arms, by Thomas Alexander Browne                            1198
+ [Author a.k.a. Rolf Boldrewood]
+
+Taras Bulba and Other Tales, by Nikolai Vasilievich Gogol                 1197
+
+The Purse, by Honore de Balzac                                            1196
+
+Glasses, by Henry James                                                   1195
+
+The Adventures of Louis de Rougemont, by Louis de Rougemont               1194
+
+The Coxon Fund, by Henry James                                            1193
+
+The Old Bachelor, by William Congreve                                     1192
+
+The Double-Dealer, by William Congreve                                    1191
+
+The Jolly Corner, by Henry James                                          1190
+
+The Message, by Honore de Balzac                                          1189
+
+The Lair of the White Worm, by Bram Stoker                                1188
+
+War of the Classes, by Jack London                                        1187
+
+Poems, by Alice Meynell                                                   1186
+
+History of the Conflict Between Religion and Science,                     1185
+ by John William Draper
+
+The Count of Monte Cristo, by Alexandre Dumas, Pere                       1184
+
+The Return of Dr. Fu-Manchu, by Sax Rohmer                                1183
+
+Dope, by Sax Rohmer                                                       1182
+
+The Symposium, by Xenophon                                                1181
+
+The Sportsman, by Xenophon                                                1180
+ [Subtitle: On Hunting, A Sportsman's Manual,
+  Commonly Called Cynegeticus]
+
+On Revenues, by Xenophon                                                  1179
+
+The Polity of the Athenians and the Lacedaemonians, by Xenophon           1178
+
+The Memorabilia, Recollections of Socrates, by Xenophon                   1177
+
+On Horsemanship, by Xenophon                                              1176
+
+Hiero, by Xenophon                                                        1175
+
+Hellenica, by Xenophon                                                    1174
+
+The Economist, by Xenophon                                                1173
+
+The Cavalry General, by Xenophon                                          1172
+
+The Apology, by Xenophon                                                  1171
+
+Anabasis, by Xenophon                                                     1170
+
+Agesilaus, by Xenophon                                                    1169
+
+The Pool in the Desert, by Sara Jeanette Duncan                           1168
+
+A Strange Disappearance, by Anna Katharine Green                          1167
+
+The Second Book of Modern Verse, by Various                               1166
+
+The Little Book of Modern Verse, by Various                               1165
+
+The Iron Heel, by Jack London                                             1164
+
+Adventure, by Jack London                                                 1163
+
+The Jacket (The Star-Rover), by Jack London                               1162
+
+Jerry of the Islands, by Jack London                                      1161
+
+The Game, by Jack London                                                  1160
+
+Fire-Tongue, by Sax Rohmer                                                1159
+
+Penrod and Sam, by Booth Tarkington                                       1158
+
+Damaged Goods, The Great Play "Les Avaries" of Eugene Brieux,             1157
+ by Upton Sinclair
+ [Subtitle: Novelized with the approval of the author]
+
+The Great Play "Les Avaries" of Eugene Brieux
+
+Babbitt, by Sinclair Lewis                                                1156
+
+The Secret Adversary, by Agatha Christie                                  1155
+
+The Voyages of Doctor Dolittle, by Hugh Lofting                           1154
+
+The Chessman of Mars, by Edgar R. Burroughs                               1153

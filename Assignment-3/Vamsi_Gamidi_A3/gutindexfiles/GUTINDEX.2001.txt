@@ -1,0 +1,3030 @@
+﻿This is the file GUTINDEX.2001
+
+Last Updated on February 10, 2016
+
+See the file GUTINDEX.ALL for all Project Gutenberg eBooks.
+
+
+                         -=] INTRODUCTION [=-
+
+GUTINDEX.2001 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2001 and December 31, 2001
+beginning with eBook number 3106 and ending with eBook number 4300.
+
+It is not a database, but it is useful for identifying eBooks so that they
+can be downloaded or read online.
+
+
+HOW TO GET EBOOKS FROM PROJECT GUTENBERG
+
+The easiest and quickest way to obtain one specific eBook is via our search
+page at
+
+       http://www.gutenberg.org/catalog/world/search
+
+where you can search by the eBook number for the particular book you want.
+
+Other search engines at Project Gutenberg will provide you with more
+information on more books by the same author using the same ebook
+number, such as:
+
+          http://www.gutenberg.org/ebooks/
+
+or by author's name:
+
+      http://www.gutenberg.org/browse/authors/a
+
+
+ONLINE DATABASE
+
+The online database can be accessed at
+
+ http://www.gutenberg.org/catalog/
+
+
+HOW TO DOWNLOAD AN EBOOK TO YOUR MOBILE DEVICE
+
+If your device is Internet-enabled, just visit the catalog page for a book
+and download one of the available formats that your device can display. If
+your device is not Internet-enabled, then download to a computer and transfer
+the book's file to your device using a USB cable or similar method. If your
+device utilizes a different format from those available at Project Gutenberg
+you will have to obtain an app to convert your ebook to your device's format.
+
+
+SITE MAP
+
+If you're interested, here is the Site Map to Project Gutenberg:
+
+          http://www.gutenberg.org/
+
+
+MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the
+world and you can select one nearer to your location from the link on the
+search results page. However, if you have access to the world wide web
+(www) the direct links above are much simplier.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://www.gutenberg.org/MIRRORS.ALL
+
+Copy the URL of your choice and paste it in a new tab in your browser and
+tap the "Enter" key on your keyboard.
+
+
+DIRECT ACCESS
+
+To directly access the file directories:
+
+  http://www.gutenberg.org/dirs/
+    - or -
+  ftp://www.gutenberg.org/pub/docs/books/gutenberg/
+
+
+PLAIN TEXT
+
+Whenever possible, Project Gutenberg distributes a plain text version of an eBook
+(.txt) in addition to several other choices. We stress the inclusion of plain
+text because it is the "lowest common denominator" of formats and for its
+longevity. Since Project Gutenberg began, dozens of widely used file formats have
+come and gone, but the text format still remains. Text is accessible on all
+computers and is insurance against future obsolescence.
+
+The only times when Project Gutenberg distributes an eBook without a plain text
+version are when plain text is impossible or impractical -- for example, for our
+videos and MP3 audio files, and for some of our mathematical works.
+
+     (Please note that files ending in .tex are mainly technical writings
+      in TeX or LaTeX format, and should not be confused with text files.)
+
+
+ZIP FILES
+
+Files ending in .zip are compressed using the Zip method. This saves space
+and should result in faster downloads. Many include images or support files.
+Whenever practical, Project Gutenberg files are available as a zipped file.
+These files will be found under "More Files..." on the ebook download page.
+
+
+CORRECTIONS
+
+To report an error in the listings, please email to help2018@pglaf.org and
+include the word CORRECTION in the subject line.
+
+
+SUBMITTING NEW EBOOKS
+
+If you are considering adding a new eBook to the Project Gutenberg
+collection, Please make sure that any books you want to work on are _not_
+already in the collection.  To see what is already online, refer to the
+listing below.  Also, please be sure to check David Price's "In Progress"
+list at:
+
+  http://pglaf.org/~ccx074/gutip.html
+
+to ensure no one is currently working on your selection.
+
+
+COPYRIGHT CLEARANCE
+
+It would also be helpful if you obtain copyright clearance prior to submitting
+books. More information on this can be found at:
+
+  http://www.gutenberg.org/
+
+
+APPENDIX
+
+Please see the Appendix at the end of each eBook catalog for some
+general comments and clarification.
+
+
+                               <==LISTINGS==>
+
+**** A "C" Following a Project Gutenberg eBook Number Indicates Copyright ****
+
+   **** The Language of the eBooks is English, unless otherwise noted ****
+
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Jan 2001 to 31 Dec 2001 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     ETEXT NO.
+
+Ulysses, by James Joyce                                                   4300
+
+The Whirlpool, by George Gissing                                          4299
+
+The Paying Guest, by George Gissing                                       4298
+
+Eve's Ransom, by George Gissing                                           4297
+
+Friarswood Post-Office, by Charlotte M. Yonge                             4296
+
+Songs of Action, by Arthur Conan Doyle                                    4295
+
+Tales of Aztlan, The Romance of a Hero of our Late Spanish-               4294
+ American War, Incidents of Interest from the Life of a
+ western Pioneer and Other Tales, by George Hartmann 
+
+Neal, the Miller, by James Otis                                           4293
+
+Copyright Basics, by the U. S. Copyright Office                           4292
+
+Copyright Law of the United States of America and Related Laws            4291
+ Contained in Title 17 of the United States Code, Circular 92
+
+The Dominion in 1983, by Ralph Centennius                                 4290
+
+The Duchess of Berry and the Court of Charles X,                          4289
+ by Imbert de Saint-Amand
+
+The Rich Mrs. Burgoyne, by Kathleen Norris                                4288
+
+The Red Planet, by William J. Locke                                       4287
+
+Mastery of Self, by Frank Channing Haddock                                4286
+
+The Master-Christian, by Marie Corelli                                    4285
+
+The Window-Gazer, by Isabel Ecclestone Mackay                             4284
+
+Brazilian Sketches, by T. B. Ray                                          4283
+
+Don Rodriguez, by Lord Dunsany                                            4282
+ [Author a.k.a. Edward John Plunkett]
+
+Helen's Babies, John Habberton                                            4281
+
+The Critique of Pure Reason, by Immanuel Kant                             4280
+
+Winter Sunshine, by John Burroughs                                        4279
+
+An Introduction to Yoga, by Annie Besant                                  4278
+
+Two Years Before the Mast, by Richard Henry Dana                          4277
+
+North and South, by Elizabeth Cleghorn Gaskell                            4276
+
+Ruth, by Elizabeth Cleghorn Gaskell                                       4275
+
+Wives and Daughters, by Elizabeth Cleghorn Gaskell                        4274
+
+Nature Cure, by Henry Lindlahr                                            4273
+
+The Christian Year, by John Keble                                         4272
+
+A Modern Telemachus, by Charlotte M. Yonge                                4271
+ [Illustrator: W. J. Hennessy]
+
+Ragged Lady, Complete, by William Dean Howells                            4270
+
+Project Gutenberg Plays of John Galsworthy, Complete                      4269
+
+Cousin Phillis, by Elizabeth C. Gaskell                                   4268
+
+Abbeychurch, by Charlotte M. Yonge                                        4267
+
+A Woman's Way Through Unknown Labrador, by Mina Benson Hubbard            4266
+
+Heroes Every Child Should Know, by Hamilton Wright Mabie                  4265
+
+The Golden Bowl, Complete, by Henry James                                 4264
+
+The Golden Bowl, Vol. 2, by Henry James                                   4263
+
+The Golden Bowl, Vol. 1, by Henry James                                   4262
+
+The Complete Essays of John Galsworthy                                    4261
+
+Andersonville, Vol. 4, by John McElroy                                    4260
+
+Andersonville, Vol. 3, by John McElroy                                    4259
+
+Andersonville, Vol. 2, by John McElroy                                    4258
+
+Andersonville, Vol. 1, by John McElroy                                    4257
+
+Stammering, Its Cause and Cure, by Benjamin Nathaniel Bogue               4256
+
+A Yorkshire Tragedy, by William Shakespeare                               4255
+
+Miscellanies upon Various Subjects, by John Aubrey                        4254
+
+Dramatic Romances by Robert Browning                                      4253
+
+Theodore Roosevelt, by Edmund Lester Pearson                              4252
+
+The Life Everlasting:  A Reality of Romance, by Marie Corelli             4251
+
+Imperial Purple, by Edgar Saltus                                          4250
+
+In the Sweet Dry and Dry, by Christopher Morley and Bart Haley            4249
+
+The Problem of Ohio Mounds, by Cyrus Thomas                               4248
+
+A Briefe and True Report of the New Found Land Of Virginia,               4247
+ 1590, by Thomas Hariot
+
+Beulah, by Augusta J. Evans                                               4246
+
+A History of the Early Part of the Reign of James the Second,             4245
+ by Charles James Fox
+
+Among the Tibetans, by Isabella L. Bird                                   4244
+
+Colloquies on Society, by Robert Southey                                  4243
+
+Beautiful Europe: Belgium, by Joseph E. Morris                            4242
+
+Se-quo-yah, from Harper's New Monthly, Vol. 41, by William A. Phillips    4241
+
+Women in Love, by D. H. Lawrence                                          4240
+
+An Essay on the Principle of Population, by Thomas Malthus                4239
+
+On the Economy Of Machinery And Manufactures, by Charles Babbage          4238
+
+Australian Search Party, by Charles Henry Eden                            4237
+
+Dynevor Terrace, Vol. 2, by Charlotte M. Yonge                            4236
+
+Dynevor Terrace, Vol. 1, by Charlotte M. Yonge                            4235
+
+Correspondence of Wagner and Liszt, Vol. 2 of 2                           4234
+
+Jeanne Of The Marshes, by E. Phillips Oppenheim                           4233
+
+A Week on the Concord and Merrimack Rivers, by Henry David Thoreau        4232
+
+The Malady of the Century, by Max Nordau                                  4231
+
+Tom Swift and his Motor-cycle, by Victor Appleton                         4230
+ [Subtitle: Fun and Adventures on the Road]
+
+The South Pole, Vols. 1 and 2, by Roald Amundsen                          4229
+
+Giordano Bruno, by Walter Pater                                           4228
+
+Tom Swift and his Wireless Message, by Victor Appleton                    4227
+
+The Empress Josephine, by Louise Muhlbach                                 4226
+
+First and Last Things, by H. G. Wells                                     4225
+
+Mr. Hogarth's Will, by Catherine Helen Spence                             4224
+
+The Mystery of a Hansom Cab, by Fergus Hume                               4223
+
+Laperouse, by Ernest Scott                                                4222
+
+Shearing in the Riverina, by Rolf Boldrewood                              4221
+
+An Autobiography, by Catherine Helen Spence                               4220
+
+The Art of Living in Australia, by Philip E. Muskett                      4219
+
+Sisters, by Ada Cambridge                                                 4218
+
+A Portrait of the Artist as a Young Man, by James Joyce                   4217
+
+Touch and Go, by D. H. Lawrence                                           4216
+
+Oak Openings, by James Fenimore Cooper                                    4215
+
+The Puritain Widow, by William Shakespeare                                4214
+
+The Founder of New France, by Charles W.Colby                             4213
+ [Chronicles of Canada, Vol. 3 of 32]
+
+Culture and Anarchy, by Matthew Arnold                                    4212
+
+The Treasure, by Kathleen Norris                                          4211
+
+Our War with Spain for Cuba's Freedom, by Trumbull White                  4210
+
+At the Mercy of Tiberius, by Augusta Evans Wilson                         4209
+
+The Journal to Stella, by Jonathan Swift                                  4208
+
+Aesthetic Poetry, by Walter Pater                                         4207
+
+The Letters of Franklin K. Lane, Personal and Political                   4206
+
+Berlin and Sans-Souci, by Luise Muhlbach                                  4205
+
+The Elements of Geology, by W. H. Norton                                  4204
+
+Wake-Robin, by John Burroughs                                             4203
+
+Quotations From the Diary of Samuel Pepys, by David Widger                4202
+
+Literary Friends, by William Dean Howells                                 4201
+
+The Entire Diary of Samuel Pepys, From January 1660 to May 1669           4200
+
+The Final Diary of Samuel Pepys, January through May 1669                 4199
+
+The Diary of Samuel Pepys, April & May 1669                               4198
+
+The Diary of Samuel Pepys, February & March 1669                          4197
+
+The Diary of Samuel Pepys, January 1669                                   4196
+
+The Diary of Samuel Pepys, January through December 1668                  4195
+
+The Diary of Samuel Pepys, December 1668                                  4194
+
+The Diary of Samuel Pepys, November 1668                                  4193
+
+The Diary of Samuel Pepys, September & October 1668                       4192
+
+The Diary of Samuel Pepys, August 1668                                    4191
+
+The Diary of Samuel Pepys, June & July 1668                               4190
+
+The Diary of Samuel Pepys, May 1668                                       4189
+
+The Diary of Samuel Pepys, April 1668                                     4188
+
+The Diary of Samuel Pepys, March 1668                                     4187
+
+The Diary of Samuel Pepys, February 1668                                  4186
+
+The Diary of Samuel Pepys, January 1668                                   4185
+
+The Diary of Samuel Pepys, January through December 1667                  4184
+
+The Diary of Samuel Pepys, December 1667                                  4183
+
+The Diary of Samuel Pepys, November 1667                                  4182
+
+The Diary of Samuel Pepys, October 1667                                   4181
+
+The Diary of Samuel Pepys, September 1667                                 4180
+
+The Diary of Samuel Pepys, August 1667                                    4179
+
+The Diary of Samuel Pepys, July 1667                                      4178
+
+The Diary of Samuel Pepys, June 1667                                      4177
+
+The Diary of Samuel Pepys, May 1667                                       4176
+
+The Diary of Samuel Pepys, April 1667                                     4175
+
+The Diary of Samuel Pepys, March 1667                                     4174
+
+The Diary of Samuel Pepys, February 1667                                  4173
+
+The Diary of Samuel Pepys, January 1667                                   4172
+
+The Diary of Samuel Pepys, January through December 1666                  4171
+
+The Diary of Samuel Pepys, December 1666                                  4170
+
+The Diary of Samuel Pepys, November 1666                                  4169
+
+The Diary of Samuel Pepys, October 1666                                   4168
+
+The Diary of Samuel Pepys, August & September 1666                        4167
+
+The Diary of Samuel Pepys, July 1666                                      4166
+
+The Diary of Samuel Pepys, May & June 1666                                4165
+
+The Diary of Samuel Pepys, March & April 1666                             4164
+
+The Diary of Samuel Pepys, January & February 1666                        4163
+
+The Diary of Samuel Pepys, January through December 1665                  4162
+
+The Diary of Samuel Pepys, November & December 1665                       4161
+
+The Diary of Samuel Pepys, October 1665                                   4160
+
+The Diary of Samuel Pepys, September 1665                                 4159
+
+The Diary of Samuel Pepys, August 1665                                    4158
+
+The Diary of Samuel Pepys, July 1665                                      4157
+
+The Diary of Samuel Pepys, May & June 1665                                4156
+
+The Diary of Samuel Pepys, March & April 1665                             4155
+
+The Diary of Samuel Pepys, January & February 1665                        4154
+
+The Diary of Samuel Pepys, January through December 1664                  4153
+
+The Diary of Samuel Pepys, December 1664                                  4152
+
+The Diary of Samuel Pepys, October & November 1664                        4151
+
+The Diary of Samuel Pepys, August & September 1664                        4150
+
+The Diary of Samuel Pepys, June & July 1664                               4149
+
+The Diary of Samuel Pepys, April & May 1664                               4148
+
+The Diary of Samuel Pepys, March 1664                                     4147
+
+The Diary of Samuel Pepys, January & February 1664                        4146
+
+The Diary of Samuel Pepys, January through December 1663                  4145
+
+The Diary of Samuel Pepys, November & December 1663                       4144
+
+The Diary of Samuel Pepys, September & October 1663                       4143
+
+The Diary of Samuel Pepys, July & August 1663                             4142
+
+The Diary of Samuel Pepys, May & June 1663                                4141
+
+The Diary of Samuel Pepys, March & April 1663                             4140
+
+The Diary of Samuel Pepys, January & February 1663                        4139
+
+The Diary of Samuel Pepys, January through December 1662                  4138
+
+The Diary of Samuel Pepys, November & December 1662                       4137
+
+The Diary of Samuel Pepys, September & October 1662                       4136
+
+The Diary of Samuel Pepys, July & August 1662                             4135
+
+The Diary of Samuel Pepys, May & June 1662                                4134
+
+The Diary of Samuel Pepys, March & April 1662                             4133
+
+The Diary of Samuel Pepys, January & February 1662                        4132
+
+The Diary of Samuel Pepys, January through December, 1661                 4131
+
+The Diary of Samuel Pepys, November & December 1661                       4130
+
+The Diary of Samuel Pepys, September & October 1661                       4129
+
+The Diary of Samuel Pepys, June, July & August 1661                       4128
+
+The Diary of Samuel Pepys, April & May 1661                               4127
+
+The Diary of Samuel Pepys, January, February & March 1661                 4126
+
+The Diary of Samuel Pepys, January through December, 1660                 4125
+
+The Diary of Samuel Pepys, October, November & December 1660              4124
+
+The Diary of Samuel Pepys, August & September 1660                        4123
+
+The Diary of Samuel Pepys, June & July 1660                               4122
+
+The Diary of Samuel Pepys, May 1660                                       4121
+
+The Diary of Samuel Pepys, March & April 1660                             4120
+
+The Diary of Samuel Pepys, February 1660                                  4119
+
+The Diary of Samuel Pepys, January 1660                                   4118
+
+The Diary of Samuel Pepys, Preface and Life                               4117
+
+Christopher Columbus, Vols. 1 - 8, by Filson Young                        4116
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+Christopher Columbus, Vol. 8, by Filson Young                             4115
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+Christopher Columbus, Vol. 7, by Filson Young                             4114
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+Christopher Columbus, Vol. 6, by Filson Young                             4113
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+Christopher Columbus, Vol. 5, by Filson Young                             4112
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+Christopher Columbus, Vol. 4, by Filson Young                             4111
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+Christopher Columbus, Vol. 3, by Filson Young                             4110
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+Christopher Columbus, Vol. 2, by Filson Young                             4109
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+Christopher Columbus, Vol. 1, by Filson Young                             4108
+ [Subtitle: And The New World
+  Of His Discovery, A Narrative]
+
+The Mayflower and Her Log, Vols. 1 - 6, by Azel Ames                      4107
+
+The Mayflower and Her Log, Vol. 6, by Azel Ames                           4106
+
+The Mayflower and Her Log, Vol. 5, by Azel Ames                           4105
+
+The Mayflower and Her Log, Vol. 4, by Azel Ames                           4104
+
+The Mayflower and Her Log, Vol. 3, by Azel Ames                           4103
+
+The Mayflower and Her Log, Vol. 2, by Azel Ames                           4102
+
+The Mayflower and Her Log, Vol. 1, by Azel Ames                           4101
+
+Vision and Transformation, by Sangharakshita                              4100C
+ [Language: Greek]
+
+The Angel in the House, by Coventry Patmore                               4099
+
+On the Trail of Grant and Lee, by Frederick Trevor Hill                   4098
+
+Alice of Old Vincennes, by Maurice Thompson                               4097
+
+Verses and Translations, by C. S. Calverley                               4096
+
+Plato and Platonism, by Walter Pater                                      4095
+
+The Chinese Classics, Vol. 1, Confucian Analects, by James Legge          4094
+
+Hedda Gabler, by Henrik Ibsen                                             4093
+
+The Monikins, by J. Fenimore Cooper                                       4092
+
+The French Twins, by Lucy Fitch Perkins                                   4091
+
+From Ritual to Romance, by Jessie L. Weston                               4090
+
+The American Nation: A History, Vol. 1, European Background               4089  
+ Of American History, by Edward Potts Cheyney
+
+Sir Walter Scott and the Border Minstrelsy, by Andrew Lang                4088
+
+An Essay upon Projects, by Daniel Defoe                                   4087
+
+The Scotch Twins, by Lucy Fitch Perkins                                   4086
+
+The Adventures of Roderick Random, by Tobias Smollett                     4085
+
+The Adventures of Peregrine Pickle, by Tobias Smollett                    4084
+
+Mutter und Kind, durch Friedrich Hebbel                                   4083
+ [Language: German]
+
+The Barrier, by Rex Beach                                                 4082
+
+The Alchemist, by Ben Jonson                                              4081
+
+Gyges und sein Ring, durch Friedrich Hebbel                               4080
+ [Language: German]
+
+Agnes Bernauer, durch Friedrich Hebbel                                    4079
+ [Language: German]
+
+The Picture of Dorian Gray, by Oscar Wilde                                4078
+ [Subtitle: 13 chapter version]
+
+The Mariner of St Malo, by S. Leacock                                     4077
+ [Chronicles of Canada, Volume 2 of 32]
+
+The Discovery of Muscovy, by Richard Hakluyt                              4076
+ [Subtitle: with The Voyages of Ohthere and
+  Wulfstan from King Alfred's Orosius]
+
+The Intrusion of Jimmy, by P. G. Wodehouse                                4075
+
+Swallow, by H. Rider Haggard                                              4074
+
+Ex Voto, by Samuel Bulter                                                 4073
+ [Subtitle: An Account of The Sacro Monte
+  or New Jerusalem at Varallo-Sesia]
+
+Songs Before Sunrise, by Algernon Charles Swinburne                       4072
+
+Monsieur Lecoq, Vol. 1, The Investigator, by Emile Gaboriau               4071
+
+The Master Builder, by Henrik Ibsen                                       4070
+
+Chronicles of Canada, Vol. 1 of 32, The Dawn of Canadian History:         4069
+ A Chronicle of Aboriginal Canada, by Stephen Leacock 
+
+Froudacity, by J. J. Thomas                                               4068
+
+Frederick the Great and His Court, by Luise Muhlbach                      4067
+
+Wild Apples, by Henry David Thoreau                                       4066
+
+Sidelights On Astronomy, by Simon Newcomb                                 4065
+
+Moonbeams From the Larger Lunacy, by Stephen Leacock                      4064
+
+Peter Plymley's Letters, by Sydney Smith                                  4063
+ [Subtitle: and Selected Essays]
+
+Gaston de Latour, by Walter Pater                                         4062
+
+The Fifteen Decisive Battles of The World From Marathon                   4061
+ to Waterloo, by Edward Creasy	
+
+The Renaissance, by Walter Pater                                          4060
+
+Miscellaneous Studies, by Walter Pater                                    4059
+
+Marius the Epicurean, Vol. 2, by Walter Pater                             4058
+
+Marius the Epicurean, Vol. 1, by Walter Pater                             4057
+
+Two Festivals, Eliza Lee Cabot Follen                                     4056
+
+The Future of the Colored Race in America, by William Aikman              4055
+
+A Lady's Visit to the Gold Diggings of Australia in 1852-53,              4054
+
+Nuttie's Father, by Charlotte M. Yonge                                    4053
+
+Address to the Inhabitants, by Richard Johnson                            4052
+
+Lady Bridget in the Never-Never Land, by Rosa Praed                       4051
+
+Mates at Billabong, by Mary Grant Bruce                                   4050
+
+Piccolissima, by Eliza Lee Cabot Follen                                   4049
+
+The Talkative Wig, by Eliza Lee Cabot Follen                              4048
+
+The Leavenworth Case, by Anna Katharine Green                             4047
+
+The Garden of Survival, by Algernon Blackwood                             4046
+
+Omoo: Adventures in the South Seas, by Herman Melville                    4045
+
+What the Animals Do and Say, by Eliza Lee Cabot Follen                    4044
+
+The Dynasts, by Thomas Hardy                                              4043
+
+Mozart: The Man and the Artist, as revealed in his own words,             4042
+ by Friedrich Kerst
+
+Conscience, by Eliza Lee Cabot Follen                                     4041
+
+The Pedler of Dust Sticks, by Eliza Lee Cabot Follen                      4040
+
+Volpone, by Ben Jonson                                                    4039
+ [Subtitle: Or, The Fox]
+
+Imaginary Portraits, by Walter Horatio Pater                              4038
+
+Appreciations, With An Essay on Style, by Walter Horatio Pater            4037
+
+Essays From 'The Guardian', by Walter Horatio Pater                       4036
+
+Greek Studies: A Series of Essays, by Walter Horatio Pater                4035
+
+The Untilled Field, by George Moore                                       4034
+
+Who Spoke Next, by Eliza Lee Cabot Follen                                 4033
+
+Atlantis, The Antediluvian World, by Ignatius Donnelly                    4032
+
+The London Prodigal, by William Shakespeare                               4031
+
+Travellers' Stories, by Eliza Lee Cabot Follen                            4030
+
+True Stories About Dogs and Cats, by Eliza Lee Cabot Follen               4029
+
+The Autobiography of Benvenuto Cellini                                    4028
+
+Little Songs, by Eliza Lee Follen                                         4027
+
+The First Man, by Eugene O'Neill                                          4026
+
+Anna Christie, by Eugene O'Neill                                          4025
+
+The Man of Destiny, by George Bernard Shaw                                4024
+
+Candida, by George Bernard Shaw                                           4023
+
+Coral Reefs, by Charles Darwin                                            4022
+
+Dear Brutus, by J. M. Barrie                                              4021
+
+Arcadian Adventures With the Idle Rich, by Stephen Leacock                4020
+
+The Lure of the Labrador Wild, by Dillon Wallace                          4019
+
+Japanese Fairy Tales, by Yei Theodora Ozaki                               4018
+
+The Hollow Needle, by Maurice LeBlanc                                     4017
+
+Prince Eugene, by Louisa Muhlbach                                         4016
+
+The Hairy Ape, by Eugene O'Neill                                          4015
+
+Arsene Lupin, by Edgar Jepson & Maurice Leblanc                           4014
+
+Das Buch Henoch, durch Richard Laurence                                   4013
+ [Language: German]
+
+The Dutch Twins, by Lucy Fitch Perkins                                    4012
+
+Epicoene:  Or, The Silent Woman, by Ben Jonson                            4011
+
+Marmion, by Walter Scott                                                  4010
+ [Subtitle: A Tale of Flodden Field]
+
+The Victories of Love, and Other Poems, by Coventry Patmore               4009
+
+Count Julian, by Walter Savage Landor                                     4008
+
+Gebir, and Count Julian, by Walter Savage Landor                          4007
+
+Yesterdays, by Ella Wheeler Wilcox                                        4006
+
+Herb of Grace, by Rosa Nouchette Carey                                    4005
+
+Preface to Androcles and the Lion, by George Bernard Shaw                 4004
+
+Androcles and the Lion, by George Bernard Shaw                            4003
+
+Monsieur Lecoq, Vol. 2, The Honor of the Name, by Emile Gaboriau          4002
+
+Quotations From The Project Gutenberg Edition Of The Immortals            4001
+ Of The French Academy, by David Widger
+
+The Project Gutenberg Edition of "The French Immortals", by Various       4000
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+  
+An "Attic" Philosopher, Complete, by Emile Souvestre                      3999
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+An "Attic" Philosopher, Vol. 3, by Emile Souvestre                        3998
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+An "Attic" Philosopher, Vol. 2, by Emile Souvestre                        3997
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+An "Attic" Philosopher, Vol. 1, by Emile Souvestre                        3996
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Madame Chrysantheme, Complete, by Pierre Loti                             3995
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Madame Chrysantheme, Vol. 4, by Pierre Loti                               3994
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Madame Chrysantheme, Vol. 3, by Pierre Loti                               3993
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Madame Chrysantheme, Vol. 2, by Pierre Loti                               3992
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Madame Chrysantheme, Vol. 1, by Pierre Loti                               3991
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Conscience, Complete, by Hector Malot                                     3990
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Conscience, Vol. 4, by Hector Malot                                       3989
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Conscience, Vol. 3, by Hector Malot                                       3988
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Conscience, Vol. 2, by Hector Malot                                       3987
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Conscience, Vol. 1, by Hector Malot                                       3986
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Gerfaut, Complete, by Charles de Bernard                                  3985
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Gerfaut, Vol. 4, by Charles de Bernard                                    3984
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Gerfaut, Vol. 3, by Charles de Bernard                                    3983
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Gerfaut, Vol. 2, by Charles de Bernard                                    3982
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Gerfaut, Vol. 1, by Charles de Bernard                                    3981
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Fromont and Risler, Vols. 1-4, by Alphonse Daudet                         3980
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Fromont and Risler, Vol. 4, by Alphonse Daudet                            3979
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Fromont and Risler, Vol. 3, by Alphonse Daudet                            3978
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Fromont and Risler, Vol. 2, by Alphonse Daudet                            3977
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Fromont and Risler, Vol. 1, by Alphonse Daudet                            3976
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+The Ink-Stain, Vols. 1-3, by Rene Bazin                                   3975
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+The Ink-Stain, Vol. 3, by Rene Bazin                                      3974
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+The Ink-Stain, Vol. 2, by Rene Bazin                                      3973
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+The Ink-Stain, Vol. 1, by Rene Bazin                                      3972
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Jacqueline, Vols. 1-3, by Marie-Therese Blanc,                            3971
+ [Author a.k.a. Madame Bentzon]
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Jacqueline, Vol. 3, by Marie-Therese Blanc,                               3970
+ [Author a.k.a. Madame Bentzon]
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Jacqueline, Vol. 2, by Marie-Therese Blanc,                               3969
+ [Author a.k.a. Madame Bentzon]
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Jacqueline, Vol. 1, by Marie-Therese Blanc,                               3968
+ [Author a.k.a. Madame Bentzon]
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cosmopolis, Vols. 1-4, by Paul Bourget                                    3967
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cosmopolis, Vol. 4, by Paul Bourget                                       3966
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cosmopolis, Vol. 3, by Paul Bourget                                       3965
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cosmopolis, Vol. 2, by Paul Bourget                                       3964
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cosmopolis, Vol. 1, by Paul Bourget                                       3963
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Romance of Youth, Complete, by Francois Coppee                          3962
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Romance of Youth, Vol. 4, by Francois Coppee                            3961
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Romance of Youth, Vol. 3, by Francois Coppee                            3960
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Romance of Youth, Vol. 2, by Francois Coppee                            3959
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Romance of Youth, Vol. 1, by Francois Coppee                            3958
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+L'Abbe Constantin, Complete, by Ludovic Halevy                            3957
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+L'Abbe Constantin, Vol. 3, by Ludovic Halevy                              3956
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+L'Abbe Constantin, Vol. 2, by Ludovic Halevy                              3955
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+L'Abbe Constantin, Vol. 1, by Ludovic Halevy                              3954
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cinq Mars, Complete, by Alfred de Vigny                                   3953
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cinq Mars, Vol. 6, by Alfred de Vigny                                     3952
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cinq Mars, Vol. 5, by Alfred de Vigny                                     3951
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cinq Mars, Vol. 4, by Alfred de Vigny                                     3950
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cinq Mars, Vol. 3, by Alfred de Vigny                                     3949
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cinq Mars, Vol. 2, by Alfred de Vigny                                     3948
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Cinq Mars, Vol. 1, by Alfred de Vigny                                     3947
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Monsieur de Camors, Vols. 1-3, by Octave Feuillet                         3946
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Monsieur de Camors, Vol. 3, by Octave Feuillet                            3945
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Monsieur de Camors, Vol. 2, by Octave Feuillet                            3944
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Monsieur de Camors, Vol. 1, by Octave Feuillet                            3943
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Child of a Century, Complete, by Alfred de Musset                         3942
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Child of a Century, Vol. 3, by Alfred de Musset                           3941
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Child of a Century, Vol. 2, by Alfred de Musset                           3940
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Child of a Century, Vol. 1, by Alfred de Musset                           3939
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Woodland Queen, Vols. 1-3, by Andre Theuriet                            3938
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Woodland Queen, Vol. 3, by Andre Theuriet                               3937
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Woodland Queen, Vol. 2, by Andre Theuriet                               3936
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+A Woodland Queen, Vol. 1, by Andre Theuriet                               3935
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Zibeline, Vols. 1-3, by Phillipe de Massa                                 3934
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Zibeline, Vol. 3, by Phillipe de Massa                                    3933
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Zibeline, Vol. 2, by Phillipe de Massa                                    3932
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Zibeline, Vol. 1, by Phillipe de Massa                                    3931
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Prince Zilah, Vols. 1-3, by Jules Claretie                                3930
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Prince Zilah, Vol. 3, by Jules Claretie                                   3929
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Prince Zilah, Vol. 2, by Jules Claretie                                   3928
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Prince Zilah, Vol. 1, by Jules Claretie                                   3927
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Monsieur, Madame and Bebe, Vols. 1-3, by Gustave Droz                     3926
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Monsieur, Madame, and Bebe, Vol. 3, by Gustave Droz                       3925
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Monsieur, Madame, and Bebe, Vol. 2, by Gustave Droz                       3924
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+Monsieur, Madame, and Bebe, Vol. 1, by Gustave Droz                       3923
+ [Subtitle: The Immortals, Masterpieces of Fiction
+  Crowned by the French Academy]
+
+The Red Lily, Vols. 1-3, by Anatole France                                3922
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+The Red Lily, Vol. 3, by Anatole France                                   3921
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+The Red Lily, Vol. 2, by Anatole France                                   3920
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+The Red Lily, Vol. 1, by Anatole France                                   3919
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+Serge Panine, Vols. 1-4, by Georges Ohnet                                 3918
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+Serge Panine, Vol. 4, by Georges Ohnet                                    3917
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+Serge Panine, Vol. 3, by Georges Ohnet                                    3916
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+Serge Panine, Vol. 2, by Georges Ohnet                                    3915
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+Serge Panine, Vol. 1, by Georges Ohnet                                    3914
+ [Subtitle: The Immortals, Masterpieces of
+  Fiction Crowned by the French Academy]
+
+The Confessions of Jean Jacques Rousseau, Vols. 1-12,                     3913
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 12,                        3912
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 11,                        3911
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 10,                        3910
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 9,                         3909
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 8,                         3908
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 7,                         3907
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 6,                         3906
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 5,                         3905
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 4,                         3904
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 3,                         3903
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 2,                         3902
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Confessions of Jean Jacques Rousseau, Vol. 1,                         3901
+ [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+
+The Project Gutenberg Historic Court Memoirs                              3900
+ Contains:
+  Memoirs of Marguerite de Valois       
+  Memoirs of Cardinal de Retz           
+  Memoirs of Madame de Montespan        
+  Memoirs Louis XIV, by Duch d'Orleans  
+  Memoirs of Louis XIV, by Saint-Simon  
+  Memoirs Louis XV & XVI     
+  Memoirs Marie Antoinette   
+  Memoirs of Court of St. Cloud         
+  Memoirs of Count Grammont             
+
+Memoirs of the Court of St. Cloud, Vols. 1-7, by Lewis Goldsmith          3899
+ [Subtitle: Being Secret Letters from a Gentleman at Paris
+  to a Nobleman in London]
+
+Memoirs of the Court of St. Cloud, Vol. 7, by Lewis Goldsmith             3898
+ [Subtitle: Being Secret Letters from a Gentleman at Paris
+  to a Nobleman in London]
+
+Memoirs of the Court of St. Cloud, Vol. 6, by Lewis Goldsmith             3897
+ [Subtitle: Being Secret Letters from a Gentleman at Paris
+  to a Nobleman in London]
+
+Memoirs of the Court of St. Cloud, Vol. 5, by Lewis Goldsmith             3896
+ [Subtitle: Being Secret Letters from a Gentleman at Paris
+  to a Nobleman in London]
+
+Memoirs of the Court of St. Cloud, Vol. 4, by Lewis Goldsmith             3895
+ [Subtitle: Being Secret Letters from a Gentleman at Paris
+  to a Nobleman in London]
+
+Memoirs of the Court of St. Cloud, Vol. 3, by Lewis Goldsmith             3894
+ [Subtitle: Being Secret Letters from a Gentleman at Paris
+  to a Nobleman in London]
+
+Memoirs of the Court of St. Cloud, Vol. 2, by Lewis Goldsmith             3893
+ [Subtitle: Being Secret Letters from a Gentleman at Paris
+  to a Nobleman in London]
+
+Memoirs of the Court of St. Cloud, Vol. 1, by Lewis Goldsmith             3892
+ [Subtitle: Being Secret Letters from a Gentleman at Paris
+  to a Nobleman in London]
+
+Memoirs of Marie Antoinette, Queen Of France, Vols. 1-7,                  3891
+ [Subtitle: Being the Historic Memoirs of Madam
+  Campan, First Lady in Waiting to the Queen]
+
+Memoirs of Marie Antoinette, Queen Of France, Vol. 7,                     3890
+ [Subtitle: Being the Historic Memoirs of Madam
+  Campan, First Lady in Waiting to the Queen]
+
+Memoirs of Marie Antoinette, Queen Of France, Vol. 6,                     3889
+ [Subtitle: Being the Historic Memoirs of Madam
+  Campan, First Lady in Waiting to the Queen]
+
+Memoirs of Marie Antoinette, Queen Of France, Vol. 5,                     3888
+ [Subtitle: Being the Historic Memoirs of Madam
+  Campan, First Lady in Waiting to the Queen]
+
+Memoirs of Marie Antoinette, Queen Of France, Vol. 4,                     3887
+ [Subtitle: Being the Historic Memoirs of Madam
+  Campan, First Lady in Waiting to the Queen]
+
+Memoirs of Marie Antoinette, Queen Of France, Vol. 3,                     3886
+ [Subtitle: Being the Historic Memoirs of Madam
+  Campan, First Lady in Waiting to the Queen]
+
+Memoirs of Marie Antoinette, Queen Of France, Vol. 2,                     3885
+ [Subtitle: Being the Historic Memoirs of Madam
+  Campan, First Lady in Waiting to the Queen]
+
+Memoirs of Marie Antoinette, Queen Of France, Vol. 1,                     3884
+ [Subtitle: Being the Historic Memoirs of Madam
+  Campan, First Lady in Waiting to the Queen]
+
+The Memoirs of Louis XV and XVI, Vols. 1-7,                               3883
+ [Subtitle: Being Secret Memoirs of Madame du Hausset,
+  Lady's Maid to Madame de Pompadour, and of an
+  Unknown English Girl and The Princess Lamballe]
+
+The Memoirs of Louis XV and XVI, Vol. 7,                                  3882
+ [Subtitle: Being Secret Memoirs of Madame du Hausset,
+  Lady's Maid to Madame de Pompadour, and of an
+  Unknown English Girl and The Princess Lamballe]
+
+The Memoirs of Louis XV and XVI, Vol. 6,                                  3881
+ [Subtitle: Being Secret Memoirs of Madame du Hausset,
+  Lady's Maid to Madame de Pompadour, and of an
+  Unknown English Girl and The Princess Lamballe]
+
+The Memoirs of Louis XV and XVI, Vol. 5,                                  3880
+ [Subtitle: Being Secret Memoirs of Madame du Hausset,
+  Lady's Maid to Madame de Pompadour, and of an
+  Unknown English Girl and The Princess Lamballe]
+
+The Memoirs of Louis XV and XVI, Vol. 4,                                  3879
+ [Subtitle: Being Secret Memoirs of Madame du Hausset,
+  Lady's Maid to Madame de Pompadour, and of an
+  Unknown English Girl and The Princess Lamballe]
+
+The Memoirs of Louis XV and XVI, Vol. 3,                                  3878
+ [Subtitle: Being Secret Memoirs of Madame du Hausset,
+  Lady's Maid to Madame de Pompadour, and of an
+  Unknown English Girl and The Princess Lamballe]
+
+The Memoirs of Louis XV and XVI, Vol. 2,                                  3877
+ [Subtitle: Being Secret Memoirs of Madame du Hausset,
+  Lady's Maid to Madame de Pompadour, and of an
+  Unknown English Girl and The Princess Lamballe]
+
+The Memoirs of Louis XV and XVI, Vol. 1,                                  3876
+ [Subtitle: Being Secret Memoirs of Madame du Hausset,
+  Lady's Maid to Madame de Pompadour, and of an
+  Unknown English Girl and The Princess Lamballe]
+
+The Memoirs of Louis XIV, His Court and The Regency, Vols. 1-15,          3875
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 15,             3874
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 14,             3873
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 13,             3872
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 12,             3871
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 11,             3870
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 10,             3869
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 9,              3868
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 8,              3867
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 7,              3866
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 6,              3865
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 5,              3864
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 4,              3863
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 3,              3862
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 2,              3861
+ by Duc de Saint-Simon
+
+The Memoirs of Louis XIV, His Court and The Regency, Vol. 1,              3860
+ by Duc de Saint-Simon
+
+Memoirs of Louis XIV, and the Regency, Books 1-4,                         3859
+ by Elizabeth-Charlotte, Duchesse d'Orleans
+
+Memoirs of Louis XIV, and the Regency, Book 4,                            3858
+ by Elizabeth-Charlotte, Duchesse d'Orleans
+
+Memoirs of Louis XIV, and the Regency, Book 3,                            3857
+ by Elizabeth-Charlotte, Duchesse d'Orleans
+
+Memoirs of Louis XIV, and the Regency, Book 2,                            3856
+ by Elizabeth-Charlotte, Duchesse d'Orleans
+
+Memoirs of Louis XIV, and the Regency, Book 1,                            3855
+ by Elizabeth-Charlotte, Duchesse d'Orleans
+
+Memoirs of Madame La Marquise De Montespan, Vols. 1-7,                    3854
+ [Subtitle: Being the Historic Memoirs of the Court of Louis XIV]
+
+Memoirs of Madame La Marquise De Montespan, Vol. 7,                       3853
+ [Subtitle: Being the Historic Memoirs of the Court of Louis XIV]
+
+Memoirs of Madame La Marquise De Montespan, Vol. 6,                       3852
+ [Subtitle: Being the Historic Memoirs of the Court of Louis XIV]
+
+Memoirs of Madame La Marquise De Montespan, Vol. 5,                       3851
+ [Subtitle: Being the Historic Memoirs of the Court of Louis XIV]
+
+Memoirs of Madame La Marquise De Montespan, Vol. 4,                       3850
+ [Subtitle: Being the Historic Memoirs of the Court of Louis XIV]
+
+Memoirs of Madame La Marquise De Montespan, Vol. 3,                       3849
+ [Subtitle: Being the Historic Memoirs of the Court of Louis XIV]
+
+Memoirs of Madame La Marquise De Montespan, Vol. 2,                       3848
+ [Subtitle: Being the Historic Memoirs of the Court of Louis XIV]
+
+Memoirs of Madame La Marquise De Montespan, Vol. 1,                       3847
+ [Subtitle: Being the Historic Memoirs of the Court of Louis XIV]
+
+Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vols. 1-4,      3846
+
+Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vol. 4,         3845
+
+Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vol. 3,         3844
+
+Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vol. 2,         3843
+
+Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vol. 1,         3842
+
+Memoirs of Marguerite de Valois, Queen of Navarre, Vols. 1-3              3841
+
+The Memoirs of Marguerite de Valois, Queen of Navarre, Vol. 3,            3840
+
+The Memoirs of Marguerite de Valois, Queen of Navarre, Vol. 2,            3839
+
+The Memoirs of Marguerite de Valois, Queen of Navarre, Vol. 1,            3838
+
+Hospital Sketches, by Louisa May Alcott                                   3837
+
+Swiss Family Robinson, by Johann David Wyss                               3836C
+
+Correspondence of Wagner and Liszt, Vol. 1                                3835
+
+Hassan, by James Elroy Flecker                                            3834
+ [Subtitle: The Story of Hassan of Baghdad and How He
+  Came to Make the Golden Journey to Samarkand]
+
+Australian Legendary Tales, Folk-lore of the Noongahburrahs
+ as told to the piccaninnies, by Katie Langloh Parker                     3833
+
+Australia Felix, by Henry Handel Richardson                               3832
+
+The Secret Power, by Marie Corelli                                        3831
+
+Overruled, by George Bernard Shaw                                         3830
+
+Love Among the Chickens, by P. G. Wodehouse                               3829
+
+Simon the Jester, by William J. Locke                                     3828
+
+The Days Before Yesterday, by Lord Frederic Hamilton                      3827
+
+Rise of the New West, 1819-1829, by F. J. Turner                          3826
+
+Pygmalion, by George Bernard Shaw                                         3825
+
+The Lamp of Fate, by Margaret Pedler                                      3824
+
+Thelma, by Marie Corelli                                                  3823
+
+Balzac, by Frederick Lawton                                               3822
+
+The Roman and the Teuton, by Charles Kingsley                             3821
+ [Subtitle: A Series of Lectures delivered
+  before the University of Cambridge]
+
+Nathan the Wise, by Gotthold Ephraim Lessing                              3820
+
+The Euahlayi Tribe, A Study of Aboriginal Life in Australia,              3819
+ by Langloh Parker
+
+By Reef and Palm, Louis Becke                                             3818
+
+To Let, by John Galsworthy                                                3817
+
+The Witch of Prague, by F. Marion Crawford                                3816
+
+Rolling Stones, by O.Henry                                                3815
+
+Robert Louis Stevenson, by E. Blantyre Simpson                            3814
+
+The Lady Of Blossholme, by H. Rider Haggard                               3813
+
+The Mirrors of Washington, by Clinton W. Gilbert                          3812
+
+The Star of Gettysburg, by Joseph A. Altsheler                            3811
+
+The Man-Eaters of Tsavo and Other East African Adventures,                3810
+ by J. H. Patterson
+
+The Master of the World, by Jules Verne                                   3809
+
+Robur the Conqueror, by Jules Verne                                       3808
+
+The Different Forms Of Flowers On Plants Of The Same Species,             3807
+ by Charles Darwin
+
+A Modern Cinderella, by Louisa May Alcott                                 3806
+
+The Vultures, by Henry Seton Merriman                                     3805
+
+Pierre and Jean, by Guy de Maupassant                                     3804
+
+File No. 113, by Emile Gaboriau                                           3803
+
+The Widow Lerouge, by Emile Gaboriau                                      3802
+ [Subtitle: The Lerouge Case]
+
+Napoleon And Blucher, by Louise Muhlbach                                  3801
+
+The Ethics, by Benedict de Spinoza                                        3800
+
+Landholding In England, by Joseph Fisher                                  3799
+
+Reminiscences of Captain Gronow, by Captain Rees Howell Gronow            3798
+
+In the Days of the Comet, by H. G. Wells                                  3797
+
+Rilla of Ingleside, by Lucy Maud Montgomery                               3796
+
+Under the Lilacs, by Louisa May Alcott                                    3795
+
+L. Annaeus Seneca On Benefits, by Aubrey Stewart                          3794
+
+Joseph II and His Court, by L. Muhlbach                                   3793
+
+Capitola The Madcap, by Emma D. E. N. Southworth                          3792
+
+The Reign Of Law, by James Lane Allen                                     3791
+
+Major Barbara, by George Bernard Shaw                                     3790
+
+Preface to Major Barbara, by George Bernard Shaw                          3789
+
+Haydn, by J. Cuthbert Hadden                                              3788
+
+Nature and Art, by Elizabeth Inchbald                                     3787
+
+Recollections of Geoffrey Hamlyn, by Henry Kingsley                       3786
+
+In The Reign Of Terror, by G. A. Henty                                    3785
+
+The Sheridan Road Mystery, by Paul and Mabel Thorne                       3784
+
+Mother, by Maksim Gorky                                                   3783
+
+Huntingtower, by John Buchan                                              3782
+
+The Jewel of Seven Stars, by Bram Stoker                                  3781
+
+The King's Highway, by G. P. R. James                                     3780
+
+A History of The Nations and Empires Involved and a Study of the          3779
+ Events Culminating in The Great Conflict, by Logan Marshall
+
+The Interdependence of Literature, by Georgina Pell Curtis                3778
+
+Tom Swift and his Electric Rifle, by Victor Appleton                      3777
+
+The Valley of Fear, by Arthur Conan Doyle                                 3776
+
+Napoleon Bonaparte, by John S. C. Abbott                                  3775
+
+The Eskimo Twins, by Lucy Fitch Perkins                                   3774
+
+Hopes and Fears for Art, by William Morris                                3773
+ [Subtitle: Five Lectures]
+
+The Student's Elements of Geology, by Charles Lyell                       3772
+
+Cynthia's Revels, by Ben Jonson                                           3771
+
+A Second Book Of Operas, by Henry Edward Krehbiel                         3770
+
+Rejected Addresses, by James Smith and Horace Smith                       3769
+ [Subtitle: The New Theatrum Poetarum]
+
+The Lamp and the Bell, by Edna St. Vincent Millay                         3768
+
+The Man who kept his Money in a Box, by Anthony Trollope                  3767
+
+Coniston, Books 1-4, by the American Novelist and Historian,              3766
+ Winston Churchill
+
+Coniston, Book 4, by the American Novelist and Historian,                 3765
+ Winston Churchill
+
+Coniston, Book 3, by the American Novelist and Historian,                 3764
+ Winston Churchill
+
+Coniston, Book 2, by the American Novelist and Historian,                 3763
+ Winston Churchill
+
+Coniston, Book 1, by the American Novelist and Historian,                 3762
+ Winston Churchill
+
+This Country Of Ours, by Henrietta Elizabeth Marshall                     3761
+
+Sybil, or the Two Nations, by Benjamin Disraeli                           3760
+
+Fridthjof's Saga, by Esaias Tegne'r                                       3759
+
+The Gates of Chance, Van Tassel Sutphen                                   3758
+
+The White Bees, Henry Van Dyke                                            3757
+
+Indiscretions of Archie, by P. G. Wodehouse                               3756
+
+Common Sense, by Thomas Paine                                             3755
+
+The Wonders Of Instinct, by J. H. Fabre                                   3754
+
+Peacock Pie, A Book of Rhymes, by Walter de la Mare                       3753
+
+Voyager's Tales, by Richard Hakluyt                                       3752
+
+The Psychology of Beauty, by Ethel D. Puffer                              3751
+
+Letters of Franz Liszt, Vol. 2, From Rome to the End                      3750
+
+Quotations from Rousseau's Confessions, by David Widger                   3749
+
+A Journey to the Interior of the Earth, by Jules Verne                    3748
+
+Orlando Furioso, di Ludovico Ariosto in Italian                           3747
+ [Language: Italian]
+
+The Judgment House, by Sir Gilbert Parker                                 3746
+
+The Road To Providence, by Maria Thompson Davies                          3745
+
+The Trial, by Charlotte M. Yonge                                          3744
+
+The Age Of Reason, by Thomas Paine                                        3743
+
+The Rights Of Man, by Thomas Paine                                        3742
+
+The American Crisis, by Thomas Paine                                      3741
+
+The Project Gutenberg Memoirs of Napoleon Bonaparte, Complete,            3740
+ by Bourrienne, Constant, and Stewarton
+
+A Far Country, Books 1-3, by the American Novelist and Historian,         3739
+ Winston Churchill
+
+A Far Country, Book 3, by the American Novelist and Historian,            3738
+ Winston Churchill
+
+A Far Country, Book 2, by the American Novelist and Historian,            3737
+ Winston Churchill
+
+A Far Country, Book 1, by the American Novelist and Historian,            3736
+ Winston Churchill
+
+The Inspector-General, by Nicolay Gogol                                   3735
+
+Tom Swift in the Caves of Ice, by Victor Appleton                         3734
+
+Bel Ami, by Henri Rene Guy De Maupassant                                  3733
+
+Wolfville, by Alfred Henry Lewis                                          3732
+ [Author a.k.a. Dan Quin]
+
+Disturbances of the Heart, by Oliver T. Osborne                           3731
+
+Quotations from The Court Memoirs of France, by David Widger              3730
+
+Quotations from Memoirs of Napoleon, by David Widger                      3729
+
+The Getting of Wisdom, by Henry Handel Richardson                         3728
+
+Maurice Guest, by Henry Handel Richardson                                 3727
+ [Author a.k.a. Ethel Florence Lindesay Richardson]
+
+The Decameron, Vol. 1, by Giovanni Boccaccio                              3726
+
+Famous Men of the Middle Ages, by John H. Haaren and Addison B. Poland    3725
+
+The House of Heine Brothers, in Munich, by Anthony Trollope               3724
+
+A Ride across Palestine, by Anthony Trollope                              3723
+
+A Daughter Of The Land, by Gene Stratton-Porter                           3722
+
+Pioneers Of France In The New World, by Francis Parkman, Jr.              3721
+
+Returning Home, by Anthony Trollope                                       3720
+
+The Mistletoe Bough, by Anthony Trollope                                  3719
+
+George Walker at Suez, by Anthony Trollope                                3718
+
+The Parson's Daughter of Oxney Colne, by Anthony Trollope                 3717
+
+Mrs. General Talboys, by Anthony Trollope                                 3716
+
+The Parenticide Club, by Ambrose Bierce                                   3715
+
+Undine, by Friedrich de la Motte Fouque                                   3714
+
+Aaron Trow, by Anthony Trollope                                           3713
+
+The Chateau of Prince Polignac, by Anthony Trollope                       3712
+
+Relics of General Chasse, by Anthony Trollope                             3711
+ [Subtitle: a Tale of Antwerp]
+
+An Unprotected Female at the Pyramids, by Anthony Trollope                3710
+
+Love Eternal, by H. Rider Haggard                                         3709
+
+An Introduction to Chemical Science, by R. P. Williams                    3708
+
+The Trimmed Lamp, etc., by O. Henry                                       3707
+
+The Valiant Runaways, by Gertrude Atherton                                3706
+
+Happy Hawkins, by Robert Alexander Wason                                  3705
+
+A Naturalist's Voyage Round the World, by Charles Darwin                  3704
+ [Subtitle: The Voyage Of The Beagle]
+
+Dot And The Kangaroo, by Ethel Pedley                                     3703
+
+Foul Play, by Charles Reade and Dion Boucicault                           3702
+
+Letters From High Latitudes, by The Marquess of Dufferin                  3701
+
+The Courtship of Susan Bell, by Anthony Trollope                          3700
+ [Illustrator: Marcus Stone]
+
+Miss Sarah Jack, of Spanish Town, Jamaica, by Anthony Trollope            3699
+
+The Task and Other Poems, by William Cowper                               3698
+
+A Century of Roundels, by Algernon Charles Swinburne                      3697
+
+The Prince and the Page, by Charlotte M. Yonge                            3696
+
+Every Man Out Of His Humour, by Ben Jonson                                3695
+
+Every Man In His Humour, by Ben Jonson                                    3694
+
+Louisa Of Prussia and Her Times, by Louise Muhlbach                       3693
+
+The House of Life, by Dante Gabriel Rossetti                              3692
+
+Little Wars; a game for boys from twelve years of age to                  3691
+ one hundred and fifty and for that more intelligent sort
+ of girl who likes boys' games and books, by H. G. Wells
+
+Floor Games, by H. G. Wells                                               3690
+
+Letters of Franz Liszt, Vol. 1, From Paris to Rome:                       3689
+ Years of Travel as a Virtuoso
+
+The Chronicles of Clovis, by Saki                                         3688
+ [Author a.k.a. H. H. Munro]
+
+The Ruby of Kishmoor, by Howard Pyle                                      3687
+
+The Army of the Cumberland, Henry M. Cist                                 3686
+
+Egypt (La Mort De Philae), by Pierre Loti                                 3685
+
+Mr. Crewe's Career, Books 1-4, by the American Novelist                   3684
+ and Historian, Winston Churchill                         
+
+Mr. Crewe's Career, Book 3, by the American Novelist                      3683
+ and Historian, Winston Churchill                         
+
+Mr. Crewe's Career, Book 2, by the American Novelist                      3682
+ and Historian, Winston Churchill                         
+
+Mr. Crewe's Career, Book 1, by the American Novelist                      3681
+ and Historian, Winston Churchill                         
+
+Cartrefi Cymru, by Owen M. Edwards                                        3680
+ [Language: Welsh]
+
+Getting Gold, by J. C. F. Johnson                                         3679
+
+Jonah, by Louis Stone                                                     3678
+
+On Our Selection, by Steele Rudd                                          3677
+ [Author a.k.a. Arthur Hoey Davis]
+
+The Firefly Of France, by Marion Polk Angellotti                          3676
+
+Die Versuchung des Pescara, durch Conrad Ferdinand Meyer                  3675
+ [Language: German]
+
+The Dragon and the Raven, by G. A. Henty                                  3674
+
+Essays Before a Sonata, by Charles Ives                                   3673
+
+The 2000 CIA World Factbook                                               3672
+
+Christie Johnstone, by Charles Reade                                      3671
+
+Peg Woffington, by Charles Reade                                          3670
+
+The Woman-Hater, by Charles Reade                                         3669
+
+The Albert N'Yanza, Great Basin of the Nile, by Samuel White Baker        3668
+
+Wolfville Days, by Alfred Henry Lewis                                     3667
+
+Andreas Hofer, by Lousia Muhlbach                                         3666
+
+Maurine, by Ella Wheeler Wilcox                                           3665
+ [Subtitle: and Other Poems]
+
+Yvette, by Henri Rene Guy de Maupassant                                   3664
+
+The Girl From Keller's, by Harold Bindloss                                3663
+ [Subtitle: Sadie's Conquest]
+
+Oscar Wilde, His Life & Confessions, Vol. 1, by Frank Harris              3662
+
+Quotations from The Essays of Montaigne, by David Widger                  3661
+
+Out Of The Triangle, by Mary E. Bamford                                   3660
+
+The Rosary, by Florence L. Barclay                                        3659
+
+The Prospector, by Ralph Connor                                           3658
+
+Wild Beasts and their Ways, Vol. 1, by Samuel W. Baker                    3657
+
+Cyprus, as I Saw it in 1879, by Samuel W. Baker                           3656
+
+The Parent's Assistant, by Maria Edgeworth                                3655
+ [Illustrator: F. A. Fraser]
+
+Alfred Tennyson, by Andrew Lang                                           3654
+
+The Guns of Bull Run, by Joseph A. Altsheler                              3653
+
+History Of The Mackenzies, by Alexander Mackenzie                         3652
+
+The Square Root of 4 To A Million Places                                  3651
+
+Selections From American Poetry, by Margeret Sprague Carhart              3650
+
+The Dwelling Place of Light, Complete, by American Novelist               3649
+ and Historian, Winston Churchill
+
+The Dwelling Place of Light, Vol. 3, by American Novelist                 3648
+ and Historian, Winston Churchill
+
+The Dwelling Place of Light, Vol. 2, by American Novelist                 3647
+ and Historian, Winston Churchill
+
+The Dwelling Place of Light, Vol. 1, by American Novelist                 3646
+ and Historian, Winston Churchill
+
+L'Etourdi, by Molière                                                     3645
+ [Language: French]
+
+Vie de Molière, by Voltaire                                               3644
+ [Language: French]
+
+Quotations from Albert Paine's Writings, by David Widger                  3643
+
+The Belgian Twins, by Lucy Fitch Perkins                                  3642
+
+Who Cares?, by Cosmo Hamilton                                             3641
+
+Literary Taste, by Arnold Bennett                                         3640
+
+Diary Of A Pedestrian In Cashmere and Thibet, by William Henry Knight     3639
+
+The Devil's Disciple, by George Bernard Shaw                              3638
+
+The Garden Of Allah, by Robert Hichens                                    3637
+
+The Fall of the Niebelungs, by Unknown                                    3636
+
+Mother, by Kathleen Norris                                                3635
+
+The Guilty River, by Wilkie Collins                                       3634
+
+Jezebel's Daughter, by Wilkie Collins                                     3633
+
+Poor Miss Finch, by Wilkie Collins                                        3632
+
+On the Significance of Science and Art, by Leo Tolstoy                    3631
+ [Subtitle: from What to Do?]
+ [Author a.k.a. Count Lyof N. Tolstoi]
+
+What To Do?, by Leo Tolstoy                                               3630
+ [Subtitle: thoughts evoked by the census of Moscow]
+ [Author a.k.a. Count Lyof N. Tolstoi]
+
+The Titan, by Theodore Dreiser                                            3629
+
+The Kingdom of Love, and Other Poems, by Ella Wheeler Wilcox              3628
+
+Life of Bunyan, by James Hamilton                                         3627
+
+Quotations from Abraham Lincoln's Writings, by David Widger               3626
+
+Honore de Balzac, by Albert Keim and Louis Lumet                          3625
+
+Chaucer, by Adolphus William Ward                                         3624
+
+The Golden Bough, abridged, in one volume, by James George Frazer         3623
+
+The Duke's Children, by Anthony Trollope                                  3622
+
+Peg O' My Heart, by J. Hartley Manners                                    3621
+
+Geological Observations On South America, by Charles Darwin               3620
+
+Cousin Maude, by Mary J. Holmes                                           3619
+
+Arms and the Man, by George Bernard Shaw                                  3618
+
+Quotations From Dumas Celebrated Crimes, by Widger                        3617
+
+The O'Conors of Castle Conor, by Anthony Trollope                         3616
+
+John Bull on the Guadalquivir, by Anthony Trollope                        3615
+
+An Exhortation to Peace and Unity, by John Bunyan                         3614
+
+Miscellanous Pieces, by John Bunyan                                       3613
+
+John Bull's Other Island, by George Bernard Shaw                          3612
+
+Second Shetland Truck System Report, by William Guthrie                   3611
+
+The Daisy Chain, or Aspirations by Charlotte Yonge                        3610
+
+To-morrow? by Victoria Cross                                              3609
+
+The Ragged Trousered Philanthropists, by Robert Tressell                  3608
+
+Ismailia, by Samuel White Baker                                           3607
+
+Antonina, by Wilkie Collins                                               3606
+
+On The Firing Line, by Anna Chapin Ray and Hamilton Brock Fuller          3605
+
+Jailed for Freedom, by Doris Stevens                                      3604
+
+Quotations From Guy de Maupassant, by David Widger                        3603
+
+Cupid's Understudy, by Edward Salisbury Field                             3602
+
+The Captives, by Hugh Walpole                                             3601
+
+The Essays of Montaigne, Complete, by Michel de Montaigne                 3600
+
+Essays, Vol. 19 of 19, by Michel de Montaigne                             3599
+
+Essays, Vol. 18 of 19, by Michel de Montaigne                             3598
+
+Essays, Vol. 17 of 19, by Michel de Montaigne                             3597
+
+Essays, Vol. 16 of 19, by Michel de Montaigne                             3596
+
+Essays, Vol. 15 of 19, by Michel de Montaigne                             3595
+
+Essays, Vol. 14 of 19, by Michel de Montaigne                             3594
+
+Essays, Vol. 13 of 19, by Michel de Montaigne                             3593
+
+Essays, Vol. 12 of 19, by Michel de Montaigne                             3592
+
+Essays, Vol. 11 of 19, by Michel de Montaigne                             3591
+
+Essays, Vol. 10 of 19, by Michel de Montaigne                             3590
+
+Essays, Vol. 9 of 19, by Michel de Montaigne                              3589
+
+Essays, Vol. 8 of 19, by Michel de Montaigne                              3588
+
+Essays, Vol. 7 of 19, by Michel de Montaigne                              3587
+
+Essays, Vol. 6 of 19, by Michel de Montaigne                              3586
+
+Essays, Vol. 5 of 19, by Michel de Montaigne                              3585
+
+Essays, Vol. 4 of 19, by Michel de Montaigne                              3584
+
+Essays, Vol. 3 of 19, by Michel de Montaigne                              3583
+
+Essays, Vol. 2 of 19, by Michel de Montaigne                              3582
+
+Essays, Vol. 1 of 19, by Michel de Montaigne                              3581
+
+The Private Life of Napoleon Bonaparte, Complete,                         3580
+ by Constant, Premier Valet De Chambre
+
+Private Life of Napoleon, Vol. 12, by Constant, Premier Valet De Chambre  3579
+
+Private Life of Napoleon, Vol. 11, by Constant, Premier Valet De Chambre  3578
+
+Private Life of Napoleon, Vol. 10, by Constant, Premier Valet De Chambre  3577
+
+Private Life of Napoleon, Vol. 9, by Constant, Premier Valet De Chambre   3576
+
+Private Life of Napoleon, Vol. 8, by Constant, Premier Valet De Chambre   3575
+
+Private Life of Napoleon, Vol. 7, by Constant, Premier Valet De Chambre   3574
+
+Private Life of Napoleon, Vol. 6, by Constant, Premier Valet De Chambre   3573
+
+Private Life of Napoleon, Vol. 5, by Constant, Premier Valet De Chambre   3572
+
+Private Life of Napoleon, Vol. 4, by Constant, Premier Valet De Chambre   3571
+
+Private Life of Napoleon, Vol. 3, by Constant, Premier Valet De Chambre   3570
+
+Private Life of Napoleon, Vol. 2, by Constant, Premier Valet De Chambre   3569
+
+Private Life of Napoleon, Vol. 1, by Constant, Premier Valet De Chambre   3568
+
+Memoirs of Napoleon Bonaparte, Complete,                                  3567
+ by Louis Antoine Fauvelet de Bourrienne]
+ [Illustrated]
+
+Memoirs of Napoleon, Vol. 16, by Louis Antoine Fauvelet                   3566
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 15, by Louis Antoine Fauvelet                   3565
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 14, by Louis Antoine Fauvelet                   3564
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 13, by Louis Antoine Fauvelet                   3563
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 12, by Louis Antoine Fauvelet                   3562
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 11, by Louis Antoine Fauvelet                   3561
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 10, by Louis Antoine Fauvelet                   3560
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 9, by Louis Antoine Fauvelet                    3559
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 8, by Louis Antoine Fauvelet                    3558
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 7, by Louis Antoine Fauvelet                    3557
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 6, by Louis Antoine Fauvelet                    3556
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 5, by Louis Antoine Fauvelet                    3555
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 4, by Louis Antoine Fauvelet                    3554
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 3, by Louis Antoine Fauvelet                    3553
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 2, by Louis Antoine Fauvelet                    3552
+ de Bourrienne
+
+Memoirs of Napoleon, Vol. 1, by Louis Antoine Fauvelet                    3551
+ de Bourrienne
+
+La Mere Bauche, by Anthony Trollope                                       3550
+
+Essays, by Abraham Cowley                                                 3549
+
+The Pharisee and the Publican, by John Bunyan                             3548
+
+See America First, by Orville O. Hiestand                                 3547
+
+The Eureka Stockade, by Carboni Raffaello                                 3546
+ [Author a.k.a. Raffaello Carboni]
+
+The Complete Poetical Works of Oliver Goldsmith                           3545
+
+How He Lied to Her Husband, by George Bernard Shaw                        3544
+
+Heartbreak House, by George Bernard Shaw                                  3543
+
+Quotations of Jacques Casanova, by David Widger                           3542
+
+Thoughts Evoked By The Census Of Moscow, by Leo Tolstoy                   3541
+
+Article on the Census in Moscow, by Leo Tolstoy                           3540
+ [Author a.k.a. Count Lyof N. Tolstoi]
+
+The Love-Chase, by James Sheridan Knowles                                 3539
+
+The Americanization of Edward Bok, by Edward William Bok                  3538
+ [Subtitle: The Autobiography of a Dutch Boy Fifty Years After]
+
+Frederick The Great And His Family, by Louise Muhlbach                    3537
+
+The Enchanted Castle, by E. Nesbit                                        3536
+
+A Narrative of the Expedition to Botany Bay, by Watkin Tench              3535
+
+A Complete Account of the Settlement at Port Jackson, by Watkin Tench     3534
+
+Sunshine Sketches of a Little Town, by Stephen Leacock                    3533
+
+My Discovery of England, by Stephen Leacock                               3532
+
+Quotations of Lord Chesterfield, by David Widger                          3531
+
+Love-at-Arms, by Rafael Sabatini                                          3530
+
+Letters written during a short residence in Sweden, Norway,               3529
+ and Denmark, by Mary Wollstonecraft
+
+Beethoven: the Man and the Artist, as Revealed in his own Words           3528
+
+The Blue Moon, by Laurence Housman                                        3527
+
+Five Weeks in a Balloon, by Jules Verne                                   3526
+ [Subtitle: Journeys and Discoveries in Africa by Three Englishmen]
+
+Music and Other Poems, by Henry van Dyke                                  3525
+
+Human Genome Project, Chromosome Number 24, Y                             3524
+
+Human Genome Project, Chromosome Number 23, X                             3523
+
+Human Genome Project, Chromosome Number 22                                3522
+
+Human Genome Project, Chromosome Number 21                                3521
+
+Human Genome Project, Chromosome Number 20                                3520
+
+Human Genome Project, Chromosome Number 19                                3519
+
+Human Genome Project, Chromosome Number 18                                3518
+
+Human Genome Project, Chromosome Number 17                                3517
+
+Human Genome Project, Chromosome Number 16                                3516
+
+Human Genome Project, Chromosome Number 15                                3515
+
+Human Genome Project, Chromosome Number 14                                3514
+
+Human Genome Project, Chromosome Number 13                                3513
+
+Human Genome Project, Chromosome Number 12                                3512
+
+Human Genome Project, Chromosome Number 11                                3511
+
+Human Genome Project, Chromosome Number 10                                3510
+
+Human Genome Project, Chromosome Number 09                                3509
+
+Human Genome Project, Chromosome Number 08                                3508
+
+Human Genome Project, Chromosome Number 07                                3507
+
+Human Genome Project, Chromosome Number 06                                3506
+
+Human Genome Project, Chromosome Number 05                                3505
+
+Human Genome Project, Chromosome Number 04                                3504
+
+Human Genome Project, Chromosome Number 03                                3503
+
+Human Genome Project, Chromosome Number 02                                3502
+
+Human Genome Project, Chromosome Number 01                                3501
+
+Ceiriog, by John Ceiriog Hughes                                           3500
+ [Language: Welsh]
+
+Jo's Boys, by Louisa May Alcott                                           3499
+
+Buch Der Lieder, durch Heinrich Heine                                     3498
+ [Language: German]
+
+The Swiss Twins, by Lucy Fitch Perkins                                    3497
+
+The Japanese Twins, by Lucy Fitch Perkins                                 3496
+
+The King of Ireland's Son, by Padraic Colum                               3495
+
+Bluebeard, by Kate Douglas Wiggin                                         3494
+
+Quotations from the Works of Oliver W. Holmes, Sr.,                       3493
+ by David Widger
+
+Homespun Tales, by Kate Douglas Wiggin                                    3492
+
+Missy, by Dana Gatlin                                                     3491
+
+The Admirable Crichton, by J. M. Barrie                                   3490
+
+Fabre, Poet of Science, by C. V. Legros                                   3489
+
+Great Catherine, by George Bernard Shaw                                   3488
+
+Augustus Does His Bit, by George Bernard Shaw                             3487
+
+The Inca of Perusalem, by George Bernard Shaw                             3486
+
+Annajanska, the Bolshevik Empress, by George Bernard Shaw                 3485
+
+O'Flaherty V. C., by George Bernard Shaw                                  3484
+
+Quotations of William Dean Howells, by David Widger                       3483
+
+Voyages in Search of the North-West Passage, by Richard Hakluyt           3482
+
+The Life of George Borrow, by Herbert Jenkins                             3481
+ [Subtitle: Compiled from Unpublished Official
+  Documents, his Works, Correspondence, etc.]
+
+The Hunchback, by James Sheridan Knowles                                  3480
+
+The Metal Monster, by A. Merritt                                          3479
+
+Legends of Vancouver, by E. Pauline Johnson                               3478
+
+Verse-Book Of A Homely Woman, by Fay Inchfawn                             3477
+ [Author a.k.a. Elizabeth Rebecca Ward]
+
+Henry VIII And His Court, by Louise Muhlbach                              3476
+
+The Efficiency Expert, by Edgar Rice Burroughs                            3475
+
+Jeremy, by Hugh Walpole                                                   3474
+
+The Poems of Emma Lazarus, Vol. 2                                         3473
+
+Merton of the Movies, by Harry Leon Wilson                                3472
+
+Quotations of Charles D. Warner, by David Widger                          3471
+
+Such is Life, by Tom Collins                                              3470 
+ [Author a.k.a. Joseph Furphy]
+
+The Hand of Ethelberta, by Thomas Hardy                                   3469
+ [Subtitle: A Comedy in Chapters]
+
+Poems by the Way, by William Morris                                       3468
+
+The Life of Cesare Borgia, by Rafael Sabatini                             3467
+
+The Foreigner, A Tale of Saskatchewan, by Ralph Connor                    3466
+
+Under Two Flags, by Ouida                                                 3465
+ [Author a.k.a. Louise de la Ramee]
+
+Tish, The Chronicle of Her Escapades and Excursions,                      3464
+ by Mary Roberts Rinehart
+ [Illustrated by May Wilson Preston]
+
+The Boys' Life of Mark Twain, by Albert Bigelow Paine                     3463
+
+More Hunting Wasps, by J. Henri Fabre                                     3462
+
+Essays on Life, Art and Science, by Samuel Butler                         3461
+
+Old Fritz and the New Era, by Louise Muhlbach                             3460
+
+Quotations of John Galsworthy, by David Widger                            3459
+
+Science and Health With Key to The Scriptures, by Mary Baker Eddy         3458
+
+The Man of the Forest, by Zane Grey                                       3457
+
+Tour Du Mond 80 Jours, par Jules Verne                                    3456
+ [Language: French]
+
+Nederlandsche Sagen en Legenden, door Josef Cohen                         3455
+ [Language: Dutch]
+
+The Lilac Fairy Book, by Various                                          3454
+
+The Royal Road to Health, by C. A. Tyrrell                                3453
+
+Tea Leaves, by Francis Leggett & Co.                                      3452
+
+Marie Antoinette And Her Son, by Louise Muhlbach                          3451
+
+The Book of The Thousand Nights And A Night, Vol. 16 of 16, by Unknown    3450
+
+The Book of The Thousand Nights And A Night, Vol. 15 of 16, by Unknown    3449
+
+The Book of The Thousand Nights And A Night, Vol. 14 of 16, by Unknown    3448
+
+The Book of The Thousand Nights And A Night, Vol. 13 of 16, by Unknown    3447
+
+The Book of The Thousand Nights And A Night, Vol. 12 of 16, by Unknown    3446
+
+The Book of The Thousand Nights And A Night, Vol. 11 of 16, by Unknown    3445
+
+The Book of The Thousand Nights And A Night, Vol. 10 of 16, by Unknown    3444
+
+The Book of The Thousand Nights And A Night, Vol. 9 of 16, by Unknown     3443
+
+The Book of The Thousand Nights And A Night, Vol. 8 of 16, by Unknown     3442
+
+The Book of The Thousand Nights And A Night, Vol. 7 of 16, by Unknown     3441
+
+The Book of The Thousand Nights And A Night, Vol. 6 of 16, by Unknown     3440
+
+The Book of The Thousand Nights And A Night, Vol. 5 of 16, by Unknown     3439
+
+The Book of The Thousand Nights And A Night, Vol. 4 of 16, by Unknown     3438
+
+The Book of The Thousand Nights And A Night, Vol. 3 of 16, by Unknown     3437
+
+The Book of The Thousand Nights And A Night, Vol. 2 of 16, by Unknown     3436
+
+The Book of The Thousand Nights And A Night, Vol. 1 of 16, by Unknown     3435
+
+The Koran                                                                 3434
+
+Epical Songs, by Pencho Slaveykov                                         3433
+ [Language: Bulgarian]
+
+Quotations From the Works of Mark Twain, by David Widger                  3432
+
+The Gadfly, by E. L. Voynich                                              3431
+
+The Suitors of Yvonne, by Raphael Sabatini                                3430
+
+Saint George for England, by G. A. Henty                                  3429
+
+The Two Vanrevels, by Booth Tarkington                                    3428
+
+Kilo, by Ellis Parker Butler                                              3427
+
+On Books, and the Housing of Them, by William Ewart Gladstone             3426
+
+Samantha at Saratoga, by Josiah Allen's Wife                              3425
+ [Author a.k.a.: Marietta Holley]
+
+For the Term of His Natural Life, by Marcus Clarke                        3424
+
+The Strolling Saint, by Raphael Sabatini                                  3423
+
+The Life of the Fly, by J. Henri Fabre                                    3422
+ [Subtitle: With Which are Interspersed
+  Some Chapters of Autobiography]
+
+Bramble-Bees and Others, by J. Henri Fabre                                3421
+
+A Vindication of Rights of Woman, by Mary Wollstonecraft                  3420
+ [Author a.k.a. Mary Wollstonecraft Godwin]
+
+Rebecca Mary, by Annie Hamilton Donnell                                   3419
+
+Captain Brassbound's Conversion by George Bernard Shaw                    3418
+
+The Fortunes of Oliver Horn, by F. Hopkinson Smith                        3417
+
+William Ewart Gladstone, by James Bryce                                   3416
+ [Subtitle: His Characteristics as Man and Statesman]
+
+The South Pole, Vol. 2, by Roald Amundsen                                 3415
+
+The South Pole, Vol. 1, by Roald Amundsen                                 3414
+
+The Blazed Trail, by Stewart Edward White                                 3413
+
+The Golden Chersonese and The Way Thither, by Isabella L. Bird            3412
+
+The Stokesley Secret, by Charlotte M. Yonge                               3411
+
+The American Spirit in Literature: A Chronicle of Great Interpreters,     3410
+ by Bliss Perry
+ [Subtitle: The Chronicles of America Series, Vol. 34 of 50]
+
+Barchester Towers, by Anthony Trollope                                    3409
+
+The Shame of Motley, by Raphael Sabatini                                  3408
+
+The Spell of Egypt, by Robert Hichens                                     3407
+
+Ragged Lady, Part 2, by William Dean Howells                              3406
+
+Ragged Lady, Part 1, by William Dean Howells                              3405
+
+April Hopes, by William Dean Howells                                      3404
+
+The Register, by William Dean Howells                                     3403
+
+The Parlor-Car, by William Dean Howells                                   3402
+
+The Elevator, by William Dean Howells                                     3401
+
+Entire PG Edition of the works of William Dean Howells                    3400
+
+Of Literature Entire, by William Dean Howells                             3399
+
+First Visit to New England and Others, by William Dean Howells            3398
+
+Roundabout to Boston, by William Dean Howells                             3397
+
+Literary Boston, by William Dean Howells                                  3396
+
+Oliver Wendell Holmes, by William Dean Howells                            3395
+
+The White Mr. Longfellow, by William Dean Howells                         3394
+
+Studies of Lowell, by William Dean Howells                                3393
+
+Cambridge Neighbors, by William Dean Howells                              3392
+
+A Belated Guest, by William Dean Howells                                  3391
+
+My Mark Twain, by William Dean Howells                                    3390
+
+Literature and Life, Entire, by William Dean Howells                      3389
+
+The Man of Letters as a Man of Business, by William Dean Howells          3388
+
+The Confessions of a Summer Colonist, by William Dean Howells             3387
+
+Editor's Relations With The Young Contributor, by William Dean Howells    3386
+
+Last Days in a Dutch Hotel, by William Dean Howells                       3385
+
+Some Anomalies of the Short Story, by William Dean Howells                3384
+
+Spanish Prisoners of War, by William Dean Howells                         3383
+
+American Literary Centers, by William Dean Howells                        3382
+
+The Standard Household-Effect Company, by William Dean Howells            3381
+
+Staccato Notes of a Vanished Summer, by William Dean Howells              3380
+
+Short Stories and Essays, by William Dean Howells                         3379
+
+My Literary Passions, by William Dean Howells                             3378
+
+Criticism And Fiction, by William Dean Howells                            3377
+
+The Landlord at Lion's Head, Vol. 2, by William Dean Howells              3376
+
+The Landlord at Lion's Head, Vol. 1, by William Dean Howells              3375
+
+The March Family Trilogy, Complete, by William Dean Howells               3374
+
+Their Silver Wedding Journey, Part 3, by William Dean Howells             3373
+
+Their Silver Wedding Journey, Part 2, by William Dean Howells             3372
+
+Their Silver Wedding Journey, Part 1, by William Dean Howells             3371
+
+A Hazard of New Fortunes, Part 5, by William Dean Howells                 3370
+
+A Hazard of New Fortunes, Part 4, by William Dean Howells                 3369
+
+A Hazard of New Fortunes, Part 3, by William Dean Howells                 3368
+
+A Hazard of New Fortunes, Part 2, by William Dean Howells                 3367
+
+A Hazard of New Fortunes, Part 1, by William Dean Howells                 3366
+
+Their Wedding Journey, by William Dean Howells                            3365
+
+Dr. Breen's Practice, by William Dean Howells                             3364
+
+Fennel and Rue, by William Dean Howells                                   3363
+
+The Kentons, by William Dean Howells                                      3362
+
+The PG Edition of Chesterfield's Letters to His Son,                      3361
+ by The Earl of Chesterfield
+
+Letters to His Son, 1766-1771, by The Earl of Chesterfield                3360
+
+Letters to His Son, 1759-1765, by The Earl of Chesterfield                3359
+
+Letters to His Son, 1756-1758, by The Earl of Chesterfield                3358
+
+Letters to His Son, 1753-1754, by The Earl of Chesterfield                3357
+
+Letters to His Son, 1752, by The Earl of Chesterfield                     3356
+
+Letters to His Son, 1751, by The Earl of Chesterfield                     3355
+
+Letters to His Son, 1750, by The Earl of Chesterfield                     3354
+
+Letters to His Son, 1749, by The Earl of Chesterfield                     3353
+
+Letters to His Son, 1748, by The Earl of Chesterfield                     3352
+
+Letters to His Son, 1746-1747, by The Earl of Chesterfield                3351
+
+The Wandering Jew, Complete, by Eugene Sue                                3350
+
+The Wandering Jew, Book 11, by Eugene Sue                                 3349
+
+The Wandering Jew, Book 10, by Eugene Sue                                 3348
+
+The Wandering Jew, Book 9, by Eugene Sue                                  3347
+
+The Wandering Jew, Book 8, by Eugene Sue                                  3346
+
+The Wandering Jew, Book 7, by Eugene Sue                                  3345
+
+The Wandering Jew, Book 6, by Eugene Sue                                  3344
+
+The Wandering Jew, Book 5, by Eugene Sue                                  3343
+
+The Wandering Jew, Book 4, by Eugene Sue                                  3342
+
+The Wandering Jew, Book 3, by Eugene Sue                                  3341
+
+The Wandering Jew, Book 2, by Eugene Sue                                  3340
+
+The Wandering Jew, Book 1, by Eugene Sue                                  3339
+
+Sir Humphrey Gilbert's Voyage to Newfoundland, by Edward Hayes            3338
+
+Hunting the Grisly and Other Sketches, by Theodore Roosevelt              3337
+
+Within an Inch of His Life, by Emile Gaboriau                             3336
+
+Theodore Roosevelt                                                        3335
+ [Subtitle: An Autobiography]
+
+Drake's Great Armada, by Walter Biggs                                     3334
+
+Os Lusiadas, by Luis Vaz de Camoes                                        3333
+ [Language: Portuguese]
+
+Variation of Animals and Plants, by Charles Darwin                        3332
+
+The Diary of Samuel Pepys                                                 3331
+
+The Analects of Confucius                                                 3330
+
+Caesar and Cleopatra, by George Bernard Shaw                              3329
+
+Man And Superman, by George Bernard Shaw                                  3328
+
+Bulfinch's Mythology: The Age of Fable, by Thomas Bulfinch                3327
+
+The Well-Beloved, by Thomas Hardy                                         3326
+
+Locrine, by Algernon Charles Swinburne                                    3325
+ [Subtitle: A Tragedy]
+
+A Rebellious Heroine, by John Kendrick Bangs                              3324
+ [Illustrator: W. T. Smedley]
+
+The Ward of King Canute, by Ottilie A. Liljencrantz                       3323
+
+East Lynne, by Mrs. Henry Wood                                            3322
+
+Children of the Whirlwind, by Leroy Scott                                 3321
+
+Mohammed Ali and His House, by Louise Muhlbach                            3320
+
+Letters to Dead Authors, by Andrew Lang                                   3319
+
+Days with Sir Roger de Coverley, by Joseph Addison and Richard Steele     3318
+
+Now It Can Be Told, by Philip Gibbs                                       3317
+
+How Members of Congress Are Bribed, by Joseph Moore                       3316
+
+Down the Mother Lode, by Vivia Hemphill                                   3315
+
+The City That Was, by Will Irwin                                          3314
+
+A Bit of Old China, by Charles Warren Stoddard                            3313
+
+The Native Son, by Inez Haynes Irwin                                      3312
+
+The Californiacs, by Inez Haynes Irwin                                    3311
+
+A Forgotten Empire: Vijayanagar; A Contribution to the History            3310
+ of India, by Robert Sewell
+
+Manners and Monuments of Prehistoric Peoples, by The Marquis              3309
+ de Nadaillac
+
+The Bontoc Igorot, by Albert Ernest Jenks                                 3308
+ [Subtitle: Ethnological Survey for the Philippine Islands]
+
+The Pagan Tribes of Borneo, by Charles Hose and William McDougall         3307
+
+At Suvla Bay, by John Hargrave                                            3306
+
+Ballads of Peace in War, by Michael Earls                                 3305
+
+The Machine, by Upton Sinclair                                            3304
+
+Prince Hagen, by Upton Sinclair                                           3303
+
+The Second-Story Man, by Upton Sinclair                                   3302
+
+The Naturewoman, by Upton Sinclair                                        3301
+
+An Inquiry into the Nature and Causes of the Wealth of Nations,           3300
+ by Adam Smith
+
+Mr Honey's Banking Dictionary, English to German, by Winfried Honig       3299C
+
+Mr Honey's Banking Dictionary, German to English, by Winfried Honig       3298C
+
+Schnock, durch Friedrich Hebbel                                           3297
+ [Language: German]
+
+The Confessions of Saint Augustine, by Saint Augustine                    3296
+
+The Poems of Emma Lazarus, Vol. 1                                         3295
+
+The Sea-Hawk, by Raphael Sabatini                                         3294
+
+Chronicle of the Conquest of Granada, by Washington Irving                3293
+
+The Clever Woman of the Family, by Charlotte Yonge                        3292
+
+John Marshall and the Constitution: A Chronicle of the Supreme Court,     3291
+ by Edward S. Corwin
+ [Subtitle: The Chronicles of America Series, Vol. 16 of 50]
+
+Valerius Terminus: of the Interpretation of Nature, by Francis Bacon      3290
+
+The Valley of Fear, by Sir Arthur Conan Doyle                             3289
+
+The Sky Pilot in No Man's Land, by Ralph Connor                           3288
+
+The Man From Glengarry, A Tale of the Ottowa, by Ralph Connor             3287
+
+Selections from the Speeches and Writings of Edmund Burke,                3286
+ by Edmund Burke
+
+The Deerslayer, by James Fenimore Cooper                                  3285
+
+The Discovery of the Source of the Nile, by John Hanning Speke            3284
+
+The Upanishads, by Swami Paramananda                                      3283
+
+The Brown Fairy Book, by Various                                          3282
+
+Cy Whittaker's Place, by J. C. Lincoln                                    3281
+
+Cap'n Warren's Wards, by Joseph C. Lincoln                                3280
+
+Canterbury Pieces, by Samuel Butler                                       3279
+
+Cambridge Pieces, by Samuel Butler                                        3278
+
+The Complete Works of Artemus Ward, Part 7                                3277
+
+The Complete Works of Artemus Ward, Part 6                                3276
+
+The Complete Works of Artemus Ward, Part 5                                3275
+
+The Complete Works of Artemus Ward, Part 4                                3274
+
+The Complete Works of Artemus Ward, Part 3                                3273
+
+The Complete Works of Artemus Ward, Part 2                                3272
+
+The Complete Works of Artemus Ward, Part 1                                3271
+
+The Jerusalem Sinner Saved; or Good News for the Vilest Men,              3270
+ by John Bunyan
+
+The Autobiography of Mark Rutherford                                      3269
+
+The Mysteries of Udolpho, by Ann Radcliffe                                3268
+
+Old Love Stories Retold, by Richard Le Gallienne                          3267
+ (Contains only the story of Heinrich Heine and his Mathilda)
+
+Miss Billy, by Eleanor H. Porter                                          3266
+
+The Re-Creation of Brian Kent, by Harold Bell Wright                      3265
+
+Dennison Grant: A Novel of To-day, by Robert Stead                        3264
+
+The Portygee, by Joseph Crosby Lincoln                                    3263
+
+The Pilgrims of Hope and Chants for Socialists, by William Morris         3262
+
+News from Nowhere, by William Morris                                      3261
+
+A Short History of Wales, by Owen M. Edwards                              3260
+
+Countess Kate, by Charlotte M. Yonge                                      3259
+
+A Laodicean, A Story of Today, by Thomas Hardy                            3258
+
+New Thought Pastels, by Ella Wheeler Wilcox                               3257
+
+Books and Bookmen, by Ian Maclaren                                        3256
+ [Author a.k.a. John Watson]
+
+Moments of Vision, by Thomas Hardy                                        3255
+ [Subtitle: and Miscellaneous Verses]
+
+The Complete PG Works of John Galsworthy                                  3254
+
+The Writings of Abraham Lincoln, Complete                                 3253
+
+The Complete PG Works of Oliver Wendell Holmes, Sr.                       3252
+ [Note: this is the Physician and Poet, not the Jurist]
+
+The Man That Corrupted Hadleyburg and Other Stories, by Mark Twain        3251
+
+How to Tell a Story and Others, by Mark Twain                             3250
+
+The Major, by Ralph Connor                                                3249
+
+The Sky Pilot, by Ralph Connor                                            3248
+ [Subtitle: A Tale of the Foothills]
+
+The Patrol of the Sun Dance Trail, by Ralph Connor                        3247
+
+The Mirror of Literature, Amusement, & Instruction, Vol. 13,              3246
+ No. 365, April 11, 1829
+
+Black Rock, by Ralph Connor                                               3245
+ [Subtitle: A Tale of the Selkirks]
+
+To Him That Hath: A Tale of the West of Today, by Ralph Connor            3244
+
+Glengarry Schooldays, by Ralph Connor                                     3243
+
+The Doctor; A Tale of the Rockies, by Ralph Connor                        3242
+
+Corporal Cameron of the Northwest Mounted Police, by Ralph Connor         3241
+ [Subtitle: A Tale of the Macleod Trail]
+
+Cap'n Eri, by Joseph Crosby Lincoln                                       3240
+
+The Puppet Crown, by Harold MacGrath                                      3239
+
+Poems of Cheer, by Ella Wheeler Wilcox                                    3238
+
+The Garotters, by William D. Howells                                      3237
+
+Mr. Bonaparte of Corsica, by John Kendrick Bangs                          3236
+
+A First Year in Canterbury Settlement, by Samuel Butler                   3235
+
+The Letters of the Younger Pliny, First Series, Vol. 1                    3234
+ [Title a.k.a. The Letters of Pliny the Younger]
+
+In the Heart of Africa, by Samuel White Baker                             3233
+
+Songs of the Ridings, by F. W. Moorman                                    3232
+
+The Rifle and The Hound in Ceylon, by Samuel White Baker                  3231
+
+The Counterpane Fairy, by Katharine Pyle                                  3230
+
+Helen of Troy, by Andrew Lang                                             3229
+
+Poems of Progress and New Thought Pastels, by Ella Wheeler Wilcox         3228
+
+Defenders of Democracy, by Various                                        3227
+ [Subtitle: Contributions from representative men and women of
+  letters and other arts from our allies and our own country] 
+
+Albrect Durer's Memoirs of Journeys to Venice and the Low Countries       3226
+
+Mr Honey's Work Study Dictionary, English to German, by Winfried Honig    3225C
+
+Mr Honey's Work Study Dictionary, German to English, by Winfried Honig    3224C
+
+Mr Honey's Correspondence Dictionary, English to German,                  3223C
+ by Winfried Honig
+
+Mr Honey's Correspondence Dictionary, German to English,                  3222C
+ by Winfried Honig
+
+Mr Honey's Large Business Dictionary, English to German,                  3221C
+ by Winfried Honig
+
+Mr Honey's Large Business Dictionary, German to English,                  3220C
+ by Winfried Honig
+
+Mr Honey's First Touristic Dictionary, English to German,                 3219C
+ by Winfried Honig
+
+Mr Honey's First Touristic Dictionary, German to English,                 3218C
+ By Winfried Honig
+
+Mr Honey's Small Business Dictionary, English to German,                  3217C
+ by Winfried Honig
+
+Mr Honey's Small Business Dictionary, German to English,                  3216C
+ by Winfried Honig
+
+Mr Honey's Insurance Dictionary, English to German, by Winfried Honig     3215C
+
+Mr Honey's Insurance Dictionary, German to English, by Winfried Honig     3214C
+
+Mr Honey's Beginner Dictionary, English to German, by Winfried Honig      3213C
+
+Mr Honey's Beginner Dictionary, German to English, by Winfried Honig      3212C
+
+Mr Honey's First Banking Dictionary, English to German,                   3211C
+ by Winfried Honig
+
+Mr Honey's First Banking Dictionary, German to English,                   3210C
+ by Winfried Honig
+
+Mr Honey's Medium Business Dictionary, English to German,                 3209C
+ by Winfried Honig
+
+Mr Honey's Medium Business Dictionary, German to English,                 3208C
+ by Winfried Honig
+
+Leviathan, by Thomas Hobbes                                               3207
+
+Moby Multiple Language Lists of Common Words                              3206
+
+Moby Pronunciation List                                                   3205
+
+Moby Hyphenation List                                                     3204
+
+Moby Part of Speech List                                                  3203
+
+Moby Thesaurus List                                                       3202
+
+Moby Word Lists                                                           3201
+
+Entire Project Gutenberg Works of Mark Twain                              3200
+
+The Letters Of Mark Twain, Vol. 1-6, Complete 1853-1910                   3199
+
+The Letters Of Mark Twain, Vol. 6, 1907-1910                              3198
+
+The Letters Of Mark Twain, Vol. 5, 1901-1906                              3197
+
+The Letters Of Mark Twain, Vol. 4, 1886-1900                              3196
+
+The Letters Of Mark Twain, Vol. 3, 1876-1885                              3195
+
+The Letters Of Mark Twain, Vol. 2, 1867-1875                              3194
+
+The Letters Of Mark Twain, Vol. 1, 1853-1866                              3193
+
+The Curious Republic of Gondour and Other Whimsical Sketches,             3192
+ by Mark Twain
+
+Goldsmith's Friend Abroad Again, by Mark Twain                            3191
+
+1601, by Mark Twain                                                       3190
+ [Subtitle: Conversation as it was by the Social Fireside
+  in the Time of the Tudors
+
+Sketches New and Old, Complete, by Mark Twain                             3189
+
+Mark Twain's Speeches                                                     3188
+
+Christian Science, by Mark Twain                                          3187
+
+The Mysterious Stranger and Other Stories, by Mark Twain                  3186
+
+Those Extraordinary Twins, by Mark Twain                                  3185
+
+Alonzo Fitz and Other Stories, by Mark Twain                              3184
+
+The Facts Concerning The Recent Carnival Of Crime                         3183
+ In Connecticut, by Mark Twain
+
+Some Rambling Notes of an Idle Excursion, by Mark Twain                   3182
+
+The Stolen White Elephant, by Mark Twain                                  3181
+
+A Double Barrelled Detective Story, by Mark Twain                         3180
+
+The American Claimant, by Mark Twain                                      3179
+
+The Gilded Age, Complete, by Mark Twain and Charles Dudley Warner         3178
+
+Roughing It, Complete, by Mark Twain                                      3177
+
+The Innocents Abroad, Complete, by Mark Twain                             3176
+
+A Burlesque Autobiography, by Mark Twain                                  3175
+ [Subtitle: and, First Romance]
+
+A Dog's Tale, by Mark Twain                                               3174
+
+Essays on Paul Bourget, by Mark Twain                                     3173
+
+Fenimore Cooper's Literary Offences, by Mark Twain                        3172
+
+In Defense of Harriet Shelley, by Mark Twain                              3171
+
+Chants for Socialists, by William Morris                                  3170
+
+The Pursuit of the House-Boat, by John Kendrick Bangs                     3169
+
+Poems of the Past and the Present, by Thomas Hardy                        3168
+
+Wessex Poems and Other Verses, by Thomas Hardy                            3167
+ [Illustrator: Thomas Hardy]
+
+Doctor Thorne, by Anthony Trollope                                        3166
+
+Rashi, by Maurice Liber                                                   3165
+
+Women in the Life of Balzac, by Juanita Helm Floyd                        3164
+
+Birds and Bees, Sharp Eyes, and Other Papers, by John Burroughs           3163
+
+The Enchanted Typewriter, by John Kendrick Bangs                          3162
+
+Narratives of New Netherland, 1609-1664, by Various                       3161
+
+The Odyssey, by Homer                                                     3160
+
+The Hermit of Far End, by Margaret Pedler                                 3159
+
+Our American Cousin, by Tom Taylor                                        3158
+ (Note: This is the play American President Abraham Lincoln
+  was watching when he was assassinated on Apr 14, 1865)
+
+The Path of Empire: A Chronicle of the United States as a World Power,    3157
+ by Carl Russell Fish
+ [Subtitle: The Chronicles of America Series, Vol. 46 of 50]
+
+Andrea Delfin, by Paul Heyse  3156C
+
+She, by H. Rider Haggard                                                  3155
+
+The Surprising Adventures of Baron Munchausen, by Rudolph Erich Raspe     3154
+
+The Virgin of the Sun, by H. R. Haggard                                   3153
+
+The Junior Classics, Vol. 1, by Various                                   3152
+
+The City of Domes, by John D. Barry                                       3151
+ [Subtitle:  A walk with an architect about the courts and palaces
+  of the Panama Pacific International Exposition, with a discussion
+  of its architecture, sculptures, mural decorations, coloring, and
+  its lighting, preceded by a history of its growth]
+
+Human Nature and Other Sermons, by Joseph Butler                          3150
+
+Marm Lisa, by Kate Douglas Wiggin                                         3149
+
+A Village Stradivarius, by Kate Douglas Wiggin                            3148
+
+A Summer in a Canyon, by Kate Douglas Wiggin                              3147
+ [Subtitle: A California Story]
+
+Two on a Tower, by Thomas Hardy                                           3146
+
+The Author of Beltraffio, by Henry James                                  3145
+
+Froude's History of England, by Charles Kingsley                          3144
+
+Sir Walter Raleigh and his Time, by Charles Kingsley                      3143
+
+Plays and Puritans, by Charles Kingsley                                   3142
+
+The Irish Race in the Past and the Present, by Augustus J. Thébaud        3141
+
+Idle Ideas in 1905, by Jerome K. Jerome                                   3140
+
+The Dove in the Eagle's Nest, by Charlotte M. Yonge                       3139
+ [Illustrator: W. J. Hennessy]
+
+Ballades & Rhymes, by Andrew Lang                                         3138
+ [Subtitle: from Ballades in Blue China and Rhymes a la Mode]
+
+The Rise of Roscoe Paine, by Joseph C. Lincoln                            3137
+
+The Entire Project Gutenberg Works of Charles Dudley Warner               3136
+
+Summer in a Garden, and Calvin, A Study Of Character,                     3135
+ by Charles Dudley Warner
+
+Backlog Studies, by Charles Dudley Warner                                 3134
+
+Baddeck and That Sort of Thing, by Charles Dudley Warner                  3133
+
+In the Wilderness, by Charles Dudley Warner                               3132
+
+How Spring Came in New England, by Charles Dudley Warner                  3131
+
+Captain John Smith, by Charles Dudley Warner                              3130
+
+The Story of Pocahantas, by Charles Dudley Warner                         3129
+
+Saunterings, by Charles Dudley Warner                                     3128
+
+Being a Boy, by Charles Dudley Warner                                     3127
+
+On Horseback, by Charles Dudley Warner                                    3126
+
+The Complete Essays of Charles Dudley Warner                              3125
+
+The People For Whom Shakespeare Wrote, by Charles Dudley Warner           3124
+
+The Novel and the Common School, by Charles Dudley Warner                 3123
+
+England, by Charles Dudley Warner                                         3122
+
+Thoughts Suggested By Mr. Froude's "Progress", by Charles Dudley Warner   3121
+
+Modern Fiction, by Charles Dudley Warner                                  3120
+
+What is Your Culture to Me, by Charles Dudley Warner                      3119
+
+Equality, by Charles Dudley Warner                                        3118
+
+Relation of Literature to Life, by Charles Dudley Warner                  3117
+
+Literary Copyright, by Charles Dudley Warner                              3116
+
+The Indeterminate Sentence, by Charles Dudley Warner                      3115
+ [Subtitle: What Shall Be Done With The Criminal Class?]
+
+The Education of the Negro, by Charles Dudley Warner                      3114
+
+Some Causes Of The Prevailing Discontent, by Charles Dudley Warner        3113
+
+Pilgrim, And The American Of Today, 1892, by Charles Dudley Warner        3112
+
+Certain Diversities of American Life, by Charles Dudley Warner            3111
+
+American Newspaper, by Charles Dudley Warner                              3110
+
+Fashions in Literature, by Charles Dudley Warner                          3109
+
+Nine Short Essays, by Charles Dudley Warner                               3108
+
+As We Go, by Charles Dudley Warner                                        3107
+
+As We Were Saying, by Charles Dudley Warner                               3106

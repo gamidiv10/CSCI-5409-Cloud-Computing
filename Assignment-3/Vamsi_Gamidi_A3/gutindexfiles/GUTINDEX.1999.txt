@@ -1,0 +1,1418 @@
+﻿This is the file GUTINDEX.1999
+
+Last Updated on September 3, 2015
+
+See the file GUTINDEX.ALL for all Project Gutenberg eBooks.
+
+                           -=] INTRODUCTION [=-                           
+
+GUTINDEX.1999 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 1999 and December 31, 1999
+beginning with eBook number 1861 and ending with eBook number 2377.
+
+It is not a database, but it is useful for identifying eBooks so that they
+can be downloaded or read online.
+
+
+HOW TO GET EBOOKS FROM PROJECT GUTENBERG
+
+The easiest and quickest way to obtain one specific eBook is via our search
+page at
+
+       http://www.gutenberg.org/catalog/world/search
+
+where you can search by the eBook number for the particular book you want.
+
+Other search engines at Project Gutenberg will provide you with more
+information on more books by the same author using the same ebook
+number, such as:
+
+          http://www.gutenberg.org/ebooks/
+
+or by author's name:
+
+      http://www.gutenberg.org/browse/authors/a
+
+
+ONLINE DATABASE
+
+The online database can be accessed at
+
+ http://www.gutenberg.org/catalog/
+
+
+HOW TO DOWNLOAD AN EBOOK TO YOUR MOBILE DEVICE
+
+If your device is Internet-enabled, just visit the catalog page for a book
+and download one of the available formats that your device can display. If
+your device is not Internet-enabled, then download to a computer and transfer
+the book's file to your device using a USB cable or similar method. If your
+device utilizes a different format from those available at Project Gutenberg
+you will have to obtain an app to convert your ebook to your device's format.
+
+
+SITE MAP
+
+If you're interested, here is the Site Map to Project Gutenberg:
+
+          http://www.gutenberg.org/
+
+
+MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the
+world and you can select one nearer to your location from the link on the
+search results page. However, if you have access to the world wide web
+(www) the direct links above are much simplier.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://www.gutenberg.org/MIRRORS.ALL
+
+Copy the URL of your choice and paste it in a new tab in your browser and
+tap the "Enter" key on your keyboard.
+
+
+DIRECT ACCESS
+
+To directly access the file directories:
+
+  http://www.gutenberg.org/dirs/
+    - or -
+  ftp://www.gutenberg.org/pub/docs/books/gutenberg/
+
+
+PLAIN TEXT
+
+Whenever possible, Project Gutenberg distributes a plain text version of an eBook
+(.txt) in addition to several other choices. We stress the inclusion of plain
+text because it is the "lowest common denominator" of formats and for its
+longevity. Since Project Gutenberg began, dozens of widely used file formats have
+come and gone, but the text format still remains. Text is accessible on all
+computers and is insurance against future obsolescence.
+
+The only times when Project Gutenberg distributes an eBook without a plain text
+version are when plain text is impossible or impractical -- for example, for our
+videos and MP3 audio files, and for some of our mathematical works.
+
+     (Please note that files ending in .tex are mainly technical writings
+      in TeX or LaTeX format, and should not be confused with text files.)
+
+
+ZIP FILES
+
+Files ending in .zip are compressed using the Zip method. This saves space
+and should result in faster downloads. Many include images or support files.
+Whenever practical, Project Gutenberg files are available as a zipped file.
+These files will be found under "More Files..." on the ebook download page.
+
+
+CORRECTIONS
+
+To report an error in the listings, please email to help2018@pglaf.org and
+include the word CORRECTION in the subject line.
+
+
+SUBMITTING NEW EBOOKS
+
+If you are considering adding a new eBook to the Project Gutenberg
+collection, Please make sure that any books you want to work on are _not_
+already in the collection.  To see what is already online, refer to the
+listing below.  Also, please be sure to check David Price's "In Progress"
+list at:
+
+  http://pglaf.org/~ccx074/gutip.html
+
+to ensure no one is currently working on your selection.
+
+
+COPYRIGHT CLEARANCE
+
+It would also be helpful if you obtain copyright clearance prior to submitting
+books. More information on this can be found at:
+
+  http://www.gutenberg.org/
+
+
+APPENDIX
+
+Please see the Appendix at the end of each eBook catalog for some
+general comments and clarification.
+
+
+                               <==LISTINGS==>
+
+**** A "C" Following a Project Gutenberg eBook Number Indicates Copyright ****
+
+   **** The Language of the eBooks is English, unless otherwise noted ****
+
+To view accent marks correctly set your browser view to Unicode Character Encoding:
+
+                     View > Character Encoding > Unicode
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Jan 1999 to 31 Dec 1999 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     ETEXT NO.
+
+The Son of the Wolf, by Jack London                                       2377
+
+Up From Slavery: An Autobiography, by Booker T. Washington                2376
+
+Tartarin de Tarascon, by Alphonse Daudet                                  2375
+
+Dora Thorne, by Charlotte M. Braeme                                       2374
+
+The Path of the Law, by Oliver Wendell Holmes, Jr.                        2373
+
+The Woman-Haters, by Joseph C. Lincoln                                    2372
+
+The Filigree Ball, by Anna Katharine Green                                2371
+
+Sir Gibbie, by George MacDonald                                           2370
+
+One of Ours, by Willa Cather                                              2369
+
+The Angel and the Author - and Others, by Jerome K. Jerome                2368
+
+Los Bombardeos Atomicos de Hiroshima y Nagasaki                           2367
+ [Language: Spanish]
+
+The Beldonald Holbein, by Henry James                                     2366
+
+The Princess of Montpensier, by Madame de La Fayette                      2365
+
+Active Service, by Stephen Crane                                          2364
+
+Incognita, by William Congreve                                            2363
+ [Subtitle: or, Love & Duty Reconcil'd. A Novel]
+
+The Story of Wellesley, by Florence Converse                              2362
+
+Why go to College? an Address, by Alice Freeman Palmer                    2361
+
+The Riddle of the Sands, by Erskine Childers                              2360
+
+Stories By English Authors: France, by Various                            2359
+
+The After House, by Mary Roberts Rinehart                                 2358
+
+Great Jehoshaphat & Gully Dirt, by Jewell Ellen Smith                     2357C
+
+Tommy and Co., by Jerome K. Jerome                                        2356
+
+The Formation of Vegetable Mould, by Charles Darwin                       2355
+ [Subtitle: through the action of worms
+  with observations on their habits]
+
+Note on the Resemblances and Differences in the Structure                 2354
+ and the Development of Brain in Man and the Apes,
+ by Thomas Henry Huxley
+
+Tea-Table Talk, by Jerome K. Jerome                                       2353
+ [Illustrator: Fred Pegram]
+
+Eurasia, by Christopher Evans                                             2352
+
+John Halifax, Gentleman, by Dinah Maria Mulock Craik                      2351
+
+His Last Bow, by Arthur Conan Doyle                                       2350
+ [Subtitle: An Epilogue of Sherlock Holmes]
+
+The Adventure of the Devil's Foot, by Arthur Conan Doyle                  2349
+
+The Disappearance of Lady Frances Carfax, by Arthur Conan Doyle           2348
+
+The Adventure of the Dying Detective, by Arthur Conan Doyle               2347
+
+The Adventure of the Bruce-Partington Plans, by Arthur Conan Doyle        2346
+
+The Adventure of the Red Circle, by Arthur Conan Doyle                    2345
+
+The Adventure of the Cardboard Box, by Arthur Conan Doyle                 2344
+
+The Adventure of Wisteria Lodge, by Arthur Conan Doyle                    2343
+
+Wilhelm Meisters Lehrjahre, Band 8, durch Johann Wolfgang von Goethe      2342
+ [Language: German]
+
+Wilhelm Meisters Lehrjahre, Band 7, durch Johann Wolfgang von Goethe      2341
+ [Language: German]
+
+Wilhelm Meisters Lehrjahre, Band 6, durch Johann Wolfgang von Goethe      2340
+ [Language: German]
+
+Wilhelm Meisters Lehrjahre, Band 5, durch Johann Wolfgang von Goethe      2339
+ [Language: German]
+
+Wilhelm Meisters Lehrjahre, Band 4, durch Johann Wolfgang von Goethe      2338
+ [Language: German]
+
+Wilhelm Meisters Lehrjahre, Band 3, durch Johann Wolfgang von Goethe      2337
+ [Language: German]
+
+Wilhelm Meisters Lehrjahre, Band 2, durch Johann Wolfgang von Goethe      2336
+ [Language: German]
+
+Wilhelm Meisters Lehrjahre, Band 1, durch Johann Wolfgang von Goethe      2335
+ [Language: German]
+
+The Works of Rudyard Kipling, One Volume Edition, by Rudyard Kipling      2334
+
+Critical and Historical Essays, Vol. 2, by Thomas Babington Macaulay      2333
+
+Critical and Historical Essays, Vol. 1, by Thomas Babington Macaulay      2332
+
+History of Phoenicia, by George Rawlinson                                 2331
+
+Religions of Ancient China, by Herbert A. Giles                           2330
+
+Autobiography of a Pocket-Handkerchief by J. F. Cooper                    2329
+
+The Lake Gun, by James Fenimore Cooper                                    2328
+
+Some Short Stories, by Henry James                                        2327
+
+His Own People, by Booth Tarkington                                       2326
+
+The Iceberg Express, by David Magie Cory                                  2325
+
+A House to Let, by Charles Dickens, Wilkie Collins,                       2324
+ Elizabeth Gaskell and Adelaide Anne Procter
+
+Recollections and Letters of General Robert E. Lee,                       2323
+ by Captain Robert E. Lee
+ [Note: The author is the son of the General]
+
+Hans Huckebein, by Wilhelm Busch                                          2322
+
+Goetz von Berlichingen, durch Johann W. Goethe                            2321
+ [Language: German]
+
+Novelle, durch Johann Wolfgang Goethe                                     2320
+ [Language: German]
+
+West-oestlicher Divan, durch Johann W. Goethe                             2319
+ [Language: German]
+
+Droll Stories, Vol. 2, by Honore de Balzac                                2318
+
+The Story of My Heart, by Richard Jefferies                               2317
+
+The Choir Invisible, by James Lane Allen                                  2316
+
+The Flag-raising, by Kate Douglas Wiggin                                  2315
+
+Geschichte des Agathon, Teil 2, durch C. M. Wieland                       2314
+ [Language: German]
+
+Geschichte des Agathon, Teil 1, durch C. M. Wieland                       2313
+ [Language: German]
+
+Hermann und Dorothea, durch Goethe                                        2312
+ [Language: German]
+
+Travels through France & Italy, by Tobias Smollett                        2311
+
+In the Carquinez Woods, by Bret Harte                                     2310
+
+The Freelands, by John Galsworthy                                         2309
+
+Bunyan Characters, Third Series, by Alexander Whyte                       2308
+ [Subtitle: The Holy War]
+
+The Depot Master, by Joseph C. Lincoln                                    2307
+
+Uncle Remus: His Songs and His Sayings, Joel Chandler Harris              2306
+
+A Set of Six, by Joseph Conrad                                            2305
+
+Legends and Lyrics: Second Series, by Adelaide Anne Procter               2304
+
+Legends and Lyrics: First Series, by Adelaide Anne Procter                2303
+ [Preface by: Charles Dickens]
+
+Poor Folk, by Fyodor Dostoyevsky                                          2302
+
+A Simpleton, by Charles Reade                                             2301
+
+The Descent of Man, by Charles Darwin                                     2300
+
+Pandora, by Henry James                                                   2299
+
+Great Astronomers, by R. S. Ball                                          2298
+
+Snow-Bound at Eagle's, by Bret Harte                                      2297
+
+Pillars of Society, by Henrik Ibsen                                       2296
+
+Waifs and Strays, by O. Henry                                             2295
+ [Subtitle: Part 1]
+
+Anthology of Massachusetts Poets, by Various                              2294
+
+A New England Girlhood, by Lucy Larcom                                    2293
+
+Yet Again, by Max Beerbohm                                                2292
+
+David Elginbrod, by George MacDonald                                      2291
+
+Twenty-Two Goblins, Translated from the Sanskrit                          2290
+
+Rosmersholm, by Henrik Ibsen                                              2289
+
+Through Russia, by Maxim Gorky                                            2288
+
+Havoc, by E. Philips Oppenheim                                            2287
+
+Devil's Ford, by Bret Harte                                               2286
+
+Ridgway of Montana, by William MacLeod Raine                              2285
+
+Animal Heroes, by Ernest Thompson Seton                                   2284
+
+The Lost Road, by Richard Harding Davis                                   2283
+
+Tales for Fifteen, by Jane Morgan                                         2282
+ [Subtitle: Imagination and Heart]
+ [Author a.k.a. James Fenimore Cooper]
+
+The Heritage of Dedlow Marsh and Other Tales, by Bret Harte               2281
+
+A Millionaire of Rough-and-Ready, by Bret Harte                           2280
+
+A Waif of the Plains, by Bret Harte                                       2279
+
+New Burlesques, by Bret Harte                                             2278
+
+Condensed Novels, by Bret Harte                                           2277
+
+The Private Memoirs and Confessions of A Justified Sinner,                2276
+ by James Hogg
+
+The Pioneers, by James Fenimore Cooper                                    2275
+ [Subtitle: Or, The Sources of the Susquehanna]
+
+How to Live on 24 Hours a Day, by Arnold Bennett                          2274
+
+Tom Swift and his Motor-boat, by Victor Appleton                          2273
+ [Subtitle: or, The Rivals of Lake Carlopa]
+
+The Discovery of Guiana, by Sir Walter Raleigh                            2272
+
+He Fell In Love With His Wife, by Edward P. Roe                           2271
+
+The Complete Shakespeare's First Folio [35 Plays],                        2270
+ by William Shakespeare
+
+Cymbeline, by William Shakespeare                                         2269
+ [Note: An improved edition of this title may be viewed at ebook #1538]
+
+The Tragedie of Anthony and Cleopatra, by William Shakespeare             2268
+ [Title a.k.a. Antony and Cleopatra]
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Othello, by William Shakespeare                                           2267
+ [Note: An improved edition of this title may be viewed at ebook #1531]
+
+King Lear, by William Shakespeare                                         2266
+
+Hamlet, by William Shakespeare                                            2265
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Macbeth, by William Shakespeare                                           2264
+ [Note: An improved edition of this title may be viewed at ebook #1533]
+
+Julius Caesar, by William Shakespeare                                     2263
+ [Note: An improved edition of this title may be viewed at ebook #1522]
+
+Timon of Athens, by William Shakespeare                                   2262
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Romeo and Juliet, by William Shakespeare                                  2261
+ [Note: An improved edition of this title may be viewed at ebook #1513]
+
+Titus Andronicus, by William Shakespeare                                  2260
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Coriolanus, by William Shakespeare                                        2259
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Henry VIII, by William Shakespeare                                        2258
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Richard III, by William Shakespeare                                       2257
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Henry VI Part 3, by William Shakespeare                                   2256
+
+Henry VI Part 2, by William Shakespeare                                   2255
+
+Henry VI Part 1, by William Shakespeare                                   2254
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Henry V, by William Shakespeare                                           2253
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Henry IV Part 2, by William Shakespeare                                   2252
+ [Note: An improved edition of this title may be viewed at ebook #1519]
+
+Henry IV Part 1, by William Shakespeare                                   2251
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Richard II, by William Shakespeare                                        2250
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+King John, by William Shakespeare                                         2249
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+The Winters Tale, by William Shakespeare                                  2248
+ [Note: An improved edition of this title may be viewed at ebook #1539]
+
+Twelfe-Night, by William Shakespeare                                      2247
+ [Note: An improved edition of this title may be viewed at ebook #38901]
+
+All's well that Ends well, by William Shakespeare                         2246
+ [Note: An improved edition of this title may be viewed at ebook #1529]
+
+The Taming of the Shrew, by William Shakespeare                           2245
+ [Note: An improved edition of this title may be viewed at ebook #1508]
+
+As you Like it, by William Shakespeare                                    2244
+ [Note: An improved edition of this title may be viewed at ebook #1523]
+
+The Merchant of Venice, by William Shakespeare                            2243
+ [Note: An improved edition of this title may be viewed at ebook #1515]
+
+A Midsummer Night,s Dream, by William Shakespeare                         2242
+ [Note: An improved edition of this title may be viewed at ebook #1514]
+
+Loves Labour Lost, by William Shakespeare                                 2241
+ [Note: An improved edition of this title may be viewed at ebook #100]
+
+Much ado about Nothing, by William Shakespeare                            2240
+ [Note: An improved edition of this title may be viewed at ebook #1519]
+
+The Comedy of Errors, by William Shakespeare                              2239
+ [Note: An improved edition of this title may be viewed at ebook #23046]
+
+Measure for Measure, by William Shakespeare                               2238
+ [Note: An improved edition of this title may be viewed at ebook #23045]
+
+The Merry Wives of Windsor, by William Shakespeare                        2237
+ [Note: An improved edition of this title may be viewed at ebook #1517]
+
+The Two Gentlemen of Verona, by William Shakespeare                       2236
+ [Note: An improved edition of this title may be viewed at ebook #23043]
+
+The Tempest, by William Shakespeare                                       2235
+ [Note: An improved edition of this title may be viewed at ebook #1540]
+
+Sketches in Lavender, Blue and Green, by Jerome K. Jerome                 2234
+
+A Damsel in Distress, by P. G. Wodehouse                                  2233
+
+The Duchess of Malfi, by John Webster                                     2232
+
+All Roads Lead to Calvary, by Jerome K. Jerome                            2231
+
+Faust: Der Tragoedie, Part 2, durch Johann Wolfgang von Goethe            2230
+ [Language: German]
+
+Faust: Der Tragoedie, Part 1, durch Johann Wolfgang von Goethe            2229
+ [Language: German]
+
+Reineke Fuchs, durch Johann Wolfgang von Goethe                           2228
+ [Language: German]
+
+Soldiers Three, Part 2, by Rudyard Kipling                                2227
+
+Kim, by Rudyard Kipling                                                   2226
+
+Captains Courageous, by Rudyard Kipling                                   2225
+
+Human Genome Project, rough draft, Chromosome Y Number 24,                2224
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome X Number 23,                2223
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 22,                  2222
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 21,                  2221
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 20,                  2220
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 19,                  2219
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 18,                  2218
+ by Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 17,                  2217
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 16,                  2216
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 15,                  2215
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 14,                  2214
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 13,                  2213
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 12,                  2212
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 11,                  2211
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 10,                  2210
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 09,                  2209
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 08,                  2208
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 07,                  2207
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 06,                  2206
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 05,                  2205
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 04,                  2204
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 03,                  2203
+ the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 02,                  2202
+ by the Human Genome Project
+
+Human Genome Project, rough draft, Chromosome Number 01,                  2201
+ by the Human Genome Project
+
+Reserved For Information about the Human Genome Project                   2200
+
+The Iliad, by Homer                                                       2199
+
+Stories from Pentamerone, by Giambattista Basile                          2198
+
+The Gambler, by Fyodor Dostoyevsky                                        2197
+
+An Iceland Fisherman, by Pierre Loti                                      2196
+
+The Master of Mrs. Chilvers, by Jerome K. Jerome                          2195
+ [Subtitle: An Improbable Comedy]
+
+Mauprat, by George Sand                                                   2194
+
+A Ward of the Golden Gate, by Bret Harte                                  2193
+
+The Dark Flower, by John Galsworthy                                       2192
+
+Boy Scouts in Mexico, by G. Harvey Ralphson                               2191
+
+Isabella von Aegypten, durch Ludwig Achim von Arnim                       2190
+ [Language: German]
+
+Der Gwissenswurm, durch Ludwig Anzengruber                                2189
+ [Language: German]
+
+Aufzeichnungen des Malte Laurids Brigge, durch Rainer Maria Rilke         2188
+ [Language: German]
+
+Oberon, durch Christoph Martin Wieland                                    2187
+ [Language: German]
+
+Captains Courageous, by Rudyard Kipling                                   2186
+
+Maruja, by Bret Harte                                                     2185
+
+Unbeaten Tracks in Japan, by Isabella L. Bird                             2184
+
+Three Men on the Bummel, by Jerome K. Jerome                              2183
+
+The Marble Faun, Vol. 2, by Nathaniel Hawthorne                           2182
+ [Subtitle: The Romance of Monte Beni]
+
+The Marble Faun, Vol. 1, by Nathaniel Hawthorne                           2181
+ [Subtitle: The Romance of Monte Beni]
+
+In a Hollow of the Hills, by Bret Harte                                   2180
+
+Drift from Two Shores, by Bret Harte                                      2179
+
+By Shore and Sedge, by Bret Harte                                         2178
+
+Thankful Blossom, by Bret Harte                                           2177
+
+Seven Discourses on Art, by Joshua Reynolds                               2176
+
+You Never Can Tell, by George Bernard Shaw                                2175
+
+Frau und Kindern auf der Spur, durch Gerold K. Rohner                     2174C
+ [Language: German]
+
+Thoughts on the Present Discontents, and Speeches, by Edmund Burke        2173
+
+That Mainwaring Affair, by Maynard Barbour                                2172
+
+Brother Jacob, by George Eliot                                            2171
+
+The Miscellaneous Writings and Speeches of Lord Macaulay,                 2170
+ Vol. 4 of 4, by Thomas Babington Macaulay 
+ [Subtitle: Lord Macaulay's Speeches]
+
+The Miscellaneous Writings and Speeches of Lord Macaulay,                 2169
+ Vol. 3 of 4, by Thomas Babington Macaulay
+ [Subtitle: Contributions To The Encyclopaedia Britannica And
+  Miscellaneous Poems, Inscriptions, Etc.]
+
+The Miscellaneous Writings and Speeches of Lord Macaulay,                 2168
+ Vol. 2 of 4, by Thomas Babington Macaulay
+ [Subtitle: Contributions To The Edinburgh Review]
+
+The Miscellaneous Writings and Speeches of Lord Macaulay,                 2167
+ Vol. 1 of 4, by Thomas Babington Macaulay
+ [Subtitle: Contributions To Knight's Quarterly Magazine]
+
+King Solomon's Mines, by H. Rider Haggard                                 2166
+
+The Lifted Veil, by George Eliot                                          2165
+
+The Lumley Autograph, by Susan Fenimore Cooper                            2164
+
+The Bridge-Builders, by Rudyard Kipling                                   2163
+
+Anarchism and Other Essays, by Emma Goldman                               2162
+
+Song Book of Quong Lee of Limehouse, by Thomas Burke                      2161
+
+The Expedition of Humphry Clinker, by Tobias Smollett                     2160
+
+A Little Tour In France, by Henry James                                   2159
+
+The Prime Minister, by Anthony Trollope                                   2158
+
+Female Suffrage, by Susan Fenimore Cooper                                 2157
+
+China and the Manchus, by Herbert A. Giles                                2156
+
+Phyllis of Philistia, by Frank Frankfort Moore                            2155
+
+Around the World in 80 Days, by Jules Verne                               2154
+
+Mary Barton, by Elizabeth Cleghorn Gaskell                                2153
+ [Subtitle: A Tale of Manchester Life]
+
+On the Makaloa Mat & Island Tales, by Jack London                         2152
+
+The Works of Edgar Allan Poe                                              2151
+ [Subtitle: Volume 5 of 5 of the Raven Edition]
+
+The Works of Edgar Allan Poe                                              2150
+ [Subtitle: Volume 4 of 5 of the Raven Edition]
+
+The Works of Edgar Allan Poe                                              2149
+ [Subtitle: Volume 3 of 5 of the Raven Edition]
+
+The Works of Edgar Allan Poe                                              2148
+ [Subtitle: Volume 2 of 5 of the Raven Edition]
+
+The Works of Edgar Allan Poe                                              2147
+ [Subtitle: Volume 1 of 5 of the Raven Edition]
+
+Egmont, durch Johann Wolfgang von Goethe                                  2146
+ [Language: German]
+
+Ben-Hur: A Tale of the Christ, by Lew Wallace                             2145
+
+The Old Testament of 1931, by Anonymous                                   2144C
+ [Language: Danish]
+
+The Bible, New Testament, by Anonymous                                    2143
+ [Language: Danish]
+
+Childhood, by Leo Tolstoy                                                 2142
+
+Strictly Business, by O. Henry                                            2141
+
+Diary of William Bray, Esq., by William Bray                              2140
+ [Subtitle: 1756-1800, and his Subsequent Memoranda]
+
+Alvira, Heroine of Vesuvius, by A. J. O'Reilly                            2139
+
+The Day's Work, Part I, by Rudyard Kipling                                2138
+
+Rosamund, by Algernon Charles Swinburne                                   2137
+ [Subtitle: Queen of the Lombards: A Tragedy]
+
+The Tale of Balen, by Algernon Charles Swinburne                          2136
+
+Stories By English Authors: London, by Various                            2135
+
+Utopia of Usurers and other Essays, by Gilbert Keith Chesterton           2134
+
+Chinese Sketches, by Herbert A. Giles                                     2133
+
+The Daughter of an Empress, by Louise Muhlbach                            2132
+
+An Account of Egypt, by Herodotus                                         2131
+
+Utopia, by Thomas More                                                    2130
+
+Murad the Unlucky and Other Tales, by Maria Edgeworth                     2129
+
+Narratives of New Netherland, 1609-1664, by Various                       2128
+
+Paul and Virginia, by Bernardin de Saint Pierre                           2127
+
+The Quest of the Sacred Slipper, by Sax Rohmer                            2126
+
+The Nile Tributaries of Abyssinia, by Samuel W. Baker                     2125
+
+Record of Buddhistic Kingdoms, by Fa-Hien                                 2124
+
+The Crime of Sylvestre Bonnard, by Anatole France                         2123
+
+History of Friedrich II of Prussia, Appendix, A Day with Friedrich,       2122
+ (July 23 1779), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 21 of 21, Afternoon and          2121
+ Evening of Friedrich's Life (1763-1786), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 20 of 21, Friedrich is not       2120
+ to be Overwhelmed: The Seven-Years War Gradually Ends (April 25,
+ 1760-February 15, 1763), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 19 of 21, Friedrich Like
+ to be Overwhelmed in The Seven-Years War (1759-1760), by Thomas Carlyle  2119
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 18 of 21, Seven-Years War        2118
+ Rises to a Height (1757-1759), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 17 of 21, The Seven-Years        2117
+ War: First Campaign (1756-1757), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 16 of 22, The Ten Years          2116
+ of Peace (1746-1756), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 15 of 21, Second Silesian        2115
+ War, Important Episode In The General European One (August 15,
+ 1744-December 25, 1745), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 14 of 21, The Surrounding        2114
+ European War Does Not End (August, 1742-July, 1744), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 13 of 21, First Silesian         2113
+ War, Leaving the General European One Ablaze All Round, Gets
+ Ended (May, 1741-July, 1742), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 12 of 21, First Silesian         2112
+ War, Awakening a General European One, Begins (December, 1740-
+ May, 1741), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 11 of 21, Friedrich Takes        2111
+ the Reins in Hand (June-December, 1740), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 10 of 21, At Reinsberg           2110
+ (1736-1740), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 9 of 21, Last Stage of           2109
+ Friedrich's Apprenticeship: Life in Ruppin (1732-1736),
+ by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 8 of 21, Crown-Prince            2108
+ Reprieved: Life At Custrin (November 1730-February 1732),
+ by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 7 of 21, Fearful Shipwreck of    2107
+ the Double-Marriage Project (February-November 1730), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 6 of 21, Double-Marriage         2106
+ Project, and Crown-Prince, Going Adrift under the Storm-Winds
+ (1727-1730), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 5 of 21, Double-Marriage         2105
+ Project And What Element it Fell into (1723-1726), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 4 of 21, Friedrich's             2104
+ Apprenticeship, First Stage (1713-1728), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 3 of 21, The Hohenzollerns       2103
+ in Brandenburg (1412-1718), by Thomas Carlyle
+  [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 2 of 21, Brandenburg             2102
+ And The Hohenzollerns (928-1417), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+History of Friedrich II of Prussia, Vol. 1 of 21, Birth                   2101
+ And Parentage (1712), by Thomas Carlyle
+ [Subtitle: Frederick The Great]
+
+Bibeln, Gamla och Nya Testamentet                                         2100
+ [Language: Swedish]
+
+History of the Moravian Church, by J. E. Hutton                           2099
+
+A Thief in the Night, by E. W. Hornung                                    2098
+
+The Sign of the Four, by Arthur Conan Doyle                               2097
+
+A Smaller History of Greece, by William Smith                             2096
+
+Clotelle: a Tale of the Southern States, by William Wells Brown           2095
+
+The Original Writings of Samuel Adams, Vol. 4                             2094
+
+The Original Writings of Samuel Adams, Vol. 3                             2093
+
+The Original Writings of Samuel Adams, Vol. 2                             2092
+
+Reserved: The Original Writings of Samuel Adams, Volume 1                 2091
+
+Peach Blossom Shangri-la: Tao Hua Yuan Ji, by Tao Yuan Ming               2090
+
+The Reception of the 'Origin of Species', by Thomas Henry Huxley          2089
+
+Life and Letters of Charles Darwin, Vol. 2 of 2, by Charles Darwin        2088
+ [Subtitle: Edited by His Son]
+
+Life and Letters of Charles Darwin, Vol. 1 of 2, by Charles Darwin        2087
+ [Subtitle: Edited by His Son]
+
+The Slowcoach, by E. V. Lucas                                             2086
+
+Cyropaedia, by Xenophon                                                   2085
+
+The Way of All Flesh, by Samuel Butler                                    2084
+
+In Search of the Castaways, by Jules Verne                                2083
+ [Subtitle: or, The Children of Captain Grant]
+
+Memoirs of the Comtesse du Barry, by Etienne Leon Lamothe-Langon          2082
+ [Subtitle: With Minute Details of Her Entire Career
+  as Favorite of Louis XV "Written by Herself"]
+
+The Blithedale Romance, by Nathaniel Hawthorne                            2081
+
+The Flower of the Mind, by Alice Meynell                                  2080
+
+From the Memoirs of a Minister of France, by Stanley Weyman               2079
+
+Thais, by Anatole France                                                  2078
+
+The Nabob, by Alphonse Daudet                                             2077
+
+The Civilization Of China, by Herbert A. Giles                            2076
+
+Crotchet Castle, by Thomas Love Peacock                                   2075
+
+Civilization of Renaissance in Italy, by Jacob Burckhardt                 2074
+
+The Valet's Tragedy and Other Stories, by Andrew Lang                     2073
+
+Michael, by E. F. Benson                                                  2072
+
+Stories By English Authors: Germany, by Various                           2071
+
+To the Last Man, by Zane Grey                                             2070
+
+The Religion of Babylonia and Assyria, by Theophilus G. Pinches           2069
+
+Keziah Coffin, by Joseph C. Lincoln                                       2068
+
+Beasts, Men and Gods, by Ferdinand Ossendowski                            2067
+
+Wildfire, by Zane Grey                                                    2066
+
+Dick Hamilton's Airship, by Howard R. Garis                               2065
+ [Subtitle: or, A Young Millionaire in the Clouds]
+
+A Journey to the Western Isles of Scotland, by Samuel Johnson             2064
+
+The Trail of the White Mule, by B. M. Bower                               2063
+
+All For Love, by John Dryden                                              2062
+
+Shorter Prose Pieces by Oscar Wilde                                       2061
+
+The History of the Caliph Vathek, by William Beckford                     2060
+
+The Little Shepherd of Kingdom Come, by John Fox                          2059
+
+Messer Marco Polo, by Brian Oswald Donn-Byrne                             2058
+
+The Last of the Plainsmen, by Zane Grey                                   2057
+
+Life of William Carey, by George Smith                                    2056
+
+Two Years Before the Mast, by Richard Henry Dana                          2055
+
+Iphigenie auf Tauris, durch Johann von Goethe                             2054
+ [Language: German]
+
+The American Republic, by O. A. Brownson                                  2053
+
+Everybody's Business is Nobody's Business, by Daniel Defoe                2052
+
+Dickory Cronke, by Daniel Defoe                                           2051
+ [Subtitle: The Dumb Philosopher, or, Great Britain's Wonder]
+
+Old John Brown, by Walter Hawkins                                         2050
+ [Subtitle: The Man Whose Soul is Marching on]
+
+Liber Amoris, or, The New Pygmalion, by William Hazlitt                   2049
+
+The Sketch Book of Geoffrey Crayon, Gent., by Washington Irving           2048
+
+The Lock and Key Library, Stories of Modern French Novels                 2047
+
+Clotel; or, The President's Daughter, by William Brown                    2046
+
+My Memories of Eighty Years, by Chauncey M. Depew                         2045
+
+The Education of Henry Adams, by Henry Adams                              2044
+
+The Lock and Key Library, Stories by Modern American Authors              2043
+
+Something New, by P. G. Wodehouse                                         2042
+
+The House of the Wolf, by Stanley Weyman                                  2041
+ [Subtitle: A Romance]
+
+Confessions of an English Opium-Eater, by Thomas De Quincey               2040
+
+Evangeline, by Henry Wadsworth Longfellow                                 2039
+ [Subtitle: A Tale of Acadie]
+
+The Lock and Key Library, Classic Mystery and Detective Stories           2038
+
+Novel Notes, by Jerome K. Jerome                                          2037
+
+Eight Years' Wandering in Ceylon, by Samuel White Baker                   2036
+
+Stories by English Authors: Orient, by Various                            2035
+
+Waverley, or 'Tis Sixty Years Since, by Sir Walter Scott                  2034
+
+The Unknown Guest, by Maurice Maeterlinck                                 2033
+
+Martin Pippin in the Apple Orchard, by Eleanor Farjeon                    2032
+
+Lock and Key Library, Magic & Real Detectives, by Various                 2031
+
+Legends Of Babylon And Egypt, by Leonard W. King                          2030
+ [Subtitle: In Relation To Hebrew Tradition]
+
+Lahoma, by John Breckinridge Ellis                                        2029
+
+The Yellow Claw, by Sax Rohmer                                            2028
+
+Tartuffe, by Jean-Baptiste Poquelin Molière                               2027
+
+The Coming Conquest of England, by August Niemann                         2026
+
+My Lady Caprice, by Jeffrey Farnol                                        2025
+
+Diary of a Pilgrimage, by Jerome K. Jerome                                2024
+
+Malvina of Brittany, by Jerome K. Jerome                                  2023
+
+Angling Sketches, by Andrew Lang                                          2022
+
+Nostromo: A Tale of the Seaboard, by Joseph Conrad                        2021
+
+Tarzan the Terrible, by Edgar Rice Burroughs                              2020
+
+The Bat, by Avery Hopwood and Mary Roberts Rinehart                       2019
+
+The Library, by Andrew Lang                                               2018
+ [Author a.k.a. Austin Dobson]
+
+The Dhammapada, by Unknown                                                2017
+
+The 1998 CIA World Factbook                                               2016
+
+A Miscellany of Men, by G. K. Chesterton                                  2015
+
+The Lodger, by Marie Belloc Lowndes                                       2014
+
+The Pit Prop Syndicate, by Freeman Wills Croft                            2013
+
+The Children, by Alice Meynell                                            2012
+
+Rudder Grange, by Frank R. Stockton                                       2011
+
+The Autobiography of Charles Darwin,                                      2010
+ [Subtitle: From The Life and Letters of Charles Darwin]
+
+Origin of Species, 6th Edition, by Charles Darwin                         2009
+
+Mazelli, and Other Poems, by George W. Sands                              2008
+
+We Two, by Edna Lyall                                                     2007
+
+A Fair Penitent, by Wilkie Collins                                        2006
+
+Piccadilly Jim, by P. G. Wodehouse                                        2005
+
+"Pigs is Pigs", by Ellis Parker Butler                                    2004
+
+Spirits in Bondage, by Clive Hamilton                                     2003
+ [Author a.k.a. C. S. Lewis]
+
+Sonnets from the Portuguese, by Elizabeth Barrett Browning                2002
+
+Reserved: 2001, by Arthur C. Clarke                                       2001
+
+Don Quijote, por Miguel de Cervantes Saavedra                             2000
+ [Language: Spanish]
+
+Crome Yellow, by Aldous Huxley                                            1999
+
+Thus Spake Zarathustra, by Friedrich Nietzsche                            1998
+ [Subtitle: A Book for All and None]
+
+The Divine Comedy, Vol. 3, Paradise, by Dante Alighieri                   1997
+
+The Divine Comedy, Vol. 2, Purgatory, by Dante Alighieri                  1996
+
+The Divine Comedy, Vol. 1, Hell, by Dante Alighieri                       1995
+
+Adventures among Books, by Andrew Lang                                    1994
+
+Told After Supper, by Jerome K. Jerome                                    1993
+
+Travels in England during the reign of Queen Elizabeth, by Paul           1992
+ Hentzner, with Fragmenta Regalia by Sir Robert Naunton
+
+Old Friends, by Andrew Lang                                               1991
+ [Subtitle: Essays in Epistolary Parody]
+
+The Bedford-Row Conspiracy, by William Makepeace Thackeray                1990
+
+The Foolish Dictionary, by Gideon Wurdz                                   1989
+ [Illustrator: Wallace Goldsmith]
+
+The History of Tom Thumb, and Others, by Anonymous                        1988
+
+The Outlet, by Andy Adams                                                 1987
+
+The Life and Death of Mr. Badman, by John Bunyan                          1986
+
+Men's Wives, by William Makepeace Thackeray                               1985
+
+Reserved: 1984, by George Orwell (Did it come true?)                      1984
+
+Monsieur Beaucaire, by Booth Tarkington                                   1983
+
+Rashomon, by Akutagawa Ryunosuke                                          1982
+ [Language: Japanese]
+
+The Right to Read, par Richard M. Stallman                                1981C
+ [Language: French]
+
+Stories by English Authors: Africa, by Various                            1980
+
+The Perdue Chicken Cookbook, by Mitzi Perdue                              1979C
+
+Buttercup Gold and Other Stories, by Ellen Robena Field                   1978
+
+Phaedra, by Jean Baptiste Racine                                          1977
+
+Peter Ruff and the Double Four, by E. Phillips Oppenheim                  1976
+
+The Legacy of Cain, by Wilkie Collins                                     1975
+
+Poetics, by Aristotle                                                     1974
+
+Tales of Troy: Ulysses the Sacker of Cities, by Andrew Lang               1973
+
+History Of The Britons (Historia Brittonum), by Nennius                   1972
+
+Erewhon Revisited, by Samuel Butler                                       1971
+ [Subtitle: Twenty Years Later. Both by the Original
+  Discoverer of the Country and by his Son]
+
+A Poor Wise Man, by Mary Roberts Rinehart                                 1970
+
+Catherine: A Story, by William Makepeace Thackeray                        1969
+
+The Human Comedy: Introductions & Appendix, by Honore de Balzac           1968
+
+The Brotherhood of Consolation, by Honore de Balzac                       1967
+
+The Path of the King, by John Buchan                                      1966
+
+Captain Blood, by Rafael Sabatini                                         1965
+
+Reserved for Pietro di Miceli, former PG Webmaster                        1964
+
+The Confession, by Mary Roberts Rinehart                                  1963
+
+A Defence of Poesie and Poems, by Philip Sidney                           1962
+
+Books and Bookmen, by Andrew Lang                                         1961
+
+Sight Unseen, by Mary Roberts Rinehart                                    1960
+
+The Crown of Thorns, by E. H. Chapin                                      1959
+ [Subtitle: A Token for the Sorrowing]
+
+Hermann and Dorothea, by Johann Wolfgang von Goethe                       1958
+
+Beatrix, by Honore de Balzac                                              1957
+
+And Even Now, by Max Beerbohm                                             1956
+
+The Darrow Enigma, by Melvin L. Severy                                    1955
+
+Colonel Chabert, by Honore de Balzac                                      1954        
+
+Book of Strife in the Form of The Diary of an Old Soul,                   1953
+ by George MacDonald
+
+The Yellow Wallpaper, by Charlotte Perkins Gilman                         1952
+
+The Coming Race, by Edward Bulwer Lytton                                  1951
+
+A Woman of Thirty, by Honore de Balzac                                    1950
+
+On the Ruin of Britain, by Gildas                                         1949
+
+The Story of a Bad Boy, by Thomas Bailey Aldrich                          1948
+
+Scaramouche, by Rafael Sabatini                                           1947
+ [Subtitle: A Romance of the French Revolution]
+
+On War, Vol. 1, by Carl von Clausewitz                                    1946
+
+Egmont, by Johann Wolfgang Von Goethe                                     1945
+ [Subtitle: A Tragedy In Five Acts]
+
+The Witch and Other Stories, by Anton Chekhov                             1944
+
+Louis Lambert, by Honore de Balzac                                        1943
+
+Rise and Fall of Cesar Birotteau, by Honore de Balzac                     1942
+
+Letters of Two Brides, by Honore de Balzac                                1941
+
+Christ in Flanders, by Honore de Balzac                                   1940
+
+A Gentleman of France, by Stanley Weyman                                  1939
+
+Resurrection, by Leo Tolstoy                                              1938
+
+The Second Jungle Book, by Rudyard Kipling                                1937
+
+Letters from England, 1846-1849, by Elizabeth Davis Bancroft              1936
+
+Adventures of Major Gahagan, by William Makepeace Thackeray               1935
+
+Songs of Innocence and Songs of Experience, by William Blake              1934
+
+The History of Samuel Titmarsh, by William Makepeace Thackeray            1933
+ [Subtitle: and the Great Hoggarty Diamond]
+
+Early Kings of Norway, by Thomas Carlyle                                  1932
+
+The Zeppelin's Passenger, by E. Phillips Oppenheim                        1931
+
+Penguin Island, by Anatole France                                         1930
+
+The School For Scandal, by Richard Brinsley Sheridan                      1929
+
+Elinor Wyllys, Vol. 2, by Susan Fenimore Cooper                           1928
+ [Author a.k.a. Amabel Penfeather]
+
+Elinor Wyllys, Vol. 1, by Susan Fenimore Cooper                           1927
+ [Author a.k.a. Amabel Penfeather]
+
+Grandfather's Chair, by Nathaniel Hawthorne                               1926
+
+Droll Stories, Vol. 1, by Honore de Balzac                                1925
+
+Many Voices, by E. Nesbit                                                 1924
+ [Subtitle: Poems]
+
+The Poisoned Pen, by Arthur B. Reeve                                      1923
+
+Deirdre of the Sorrows, by J. M. Synge                                    1922
+
+The Chouans, by Honore de Balzac                                          1921
+
+Billy Baxter's Letters, By William J. Kountz, Jr.                         1920
+
+Ballads, by Horatio Alger, Jr                                             1919
+
+Long Odds, by H. Rider Haggard                                            1918
+
+The Queen of Hearts, by Wilkie Collins                                    1917
+
+The Great Stone Face, by Nathaniel Hawthorne                              1916
+ [Subtitle: And Other Tales Of The White Mountains]
+
+The Second Thoughts of An Idle Fellow, by Jerome K. Jerome                1915
+
+Reserved for World War I                                                  1914
+
+The Drums Of Jeopardy, by Harold MacGrath                                 1913
+
+The Muse of the Department, by Honore de Balzac                           1912
+
+Concerning Christian Liberty, by Martin Luther                            1911
+ [Subtitle: With Letter Of Martin Luther To Pope Leo X]
+
+La Tulipe Noire, par Alexandre Dumas, Pere                                1910
+ [Language: French]
+
+Darwin and Modern Science, by A. C. Seward                                1909
+
+Her Prairie Knight, by B. M. Sinclair                                     1908
+ [Author a.k.a. B. M. Bower]
+
+Rowdy of the Cross L, by B. M. Sinclair                                   1907
+ [Author a.k.a. B. M. Bower]
+
+Erewhon, by Samuel Butler                                                 1906
+ [Subtitle: or, Over the Range]
+
+The Governess, by Sarah Fielding                                          1905
+ [Subtitle: The Little Female Academy]
+
+The Life and Perambulations of a Mouse, by Dorothy Kilner                 1904
+
+Everybody's Guide to Money Matters, by William Cotton                     1903
+
+The Old Peabody Pew, by Kate Douglas Wiggin                               1902
+ [Subtitle: A Christmas Romance of a Country Church]
+
+Secret of the Woods, by William J. Long                                   1901
+
+Typee, by Herman Melville                                                 1900
+ [Subtitle: A Romance of the South Sea]
+
+The Village Rector, by Honore de Balzac                                   1899
+
+Albert Savarus, by Honore de Balzac                                       1898
+
+The Seventh Man, by Max Brand                                             1897
+
+Under the Red Robe, by Stanley Weyman                                     1896
+
+Armadale, by Wilkie Collins                                               1895
+
+Visit to Iceland, and the Scandinavian North, by Ida Pfeiffer             1894
+
+Song & Legend From the Middle Ages, by William D. McClintock              1893
+ and Porter Lander McClintock
+
+Extracts From Adam's Diary, by Mark Twain                                 1892
+ [Author a.k.a. Samuel Clemens]
+
+A Plea for Old Cap Collier, by Irvin S. Cobb                              1891
+
+"Speaking of Operations--", by Irvin S. Cobb                              1890
+
+Bird Neighbors, by Neltje Blanchan                                        1889
+
+The Bittermeads Mystery, by E. R. Punshon                                 1888
+
+The Life of the Spider, by J. Henri Fabre                                 1887
+
+Bunyan Characters, Second Series, by Alexander Whyte                      1886
+ [Subtitle: Lectures delivered in St. George's
+  Free Church Edinburgh]
+
+Bunyan Characters, First Series, by Alexander Whyte                       1885
+ [Subtitle: Lectures delivered in St. George's
+  Free Church Edinburgh]
+
+The Exiles, by Honore de Balzac                                           1884
+
+The Wife and Other Stories, by Anton Chekhov                              1883
+
+The Young Forester, by Zane Grey                                          1882
+
+The Call of the Canyon, by Zane Grey                                      1881
+
+The Pathfinder, by James Fenimore Cooper                                  1880
+ [Subtitle: The Inland Sea]
+
+Royalty Restored, or, London under Charles II, by J. Fitzgerald Molloy    1879
+
+A Millionaire of Yesterday, by E. Phillips Oppenheim                      1878
+
+A Mountain Woman, by Elia W. Peattie                                      1877
+ [Author a.k.a. Elia Wilkinson]
+
+The Shape of Fear, by Elia W. Peattie                                     1876
+
+Painted Windows, by Elia W. Peattie                                       1875
+
+The Railway Children, by E. Nesbit                                        1874
+
+Gambara, by Honore de Balzac                                              1873
+
+The Red House Mystery, by A. A. Milne                                     1872
+
+The Deputy of Arcis, by Honore de Balzac                                  1871
+
+Reginald in Russia, etc., by Saki                                         1870
+ [Author a.k.a. H. H. Munro]
+
+The Man in Lower Ten, by Mary Roberts Rinehart                            1869
+
+Penelope's Postscripts, by Kate Douglas Wiggin                            1868
+
+The Diary of a Goose Girl, by Kate Douglas Wiggin                         1867
+ [Illustrator: Claude A. Shepperson]
+
+North America, Vol. 2 of 2, by Anthony Trollope                           1866
+
+North America, Vol. 1 of 2, by Anthony Trollope                           1865
+
+Hero Tales From American History, by Henry Cabot Lodge                    1864
+ and Theodore Roosevelt
+
+Notes on a Journey from Cornhill to Grand Cairo,                          1863
+ by William Makepeace Thackeray
+
+Tartarin of Tarascon, by Alphonse Daudet                                  1862
+
+An Old Town By The Sea, by Thomas Bailey Aldrich                          1861
+

@@ -1,0 +1,16 @@
+{
+  "name": "book_catalog",
+  "version": "1.0.0",
+  "description": "This project is about book catalog and how to retrieve information from it",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vamsi Gamidi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5"
+  }
+}

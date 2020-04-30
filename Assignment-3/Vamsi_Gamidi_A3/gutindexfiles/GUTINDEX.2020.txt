@@ -1,0 +1,1877 @@
+﻿This is the file GUTINDEX.2020
+
+Updated to March 20, 2020
+
+See the file GUTINDEX.ALL for all Project Gutenberg eBooks.
+
+                           -=] INTRODUCTION [=-
+
+GUTINDEX.2020 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 2020 and December 31, 2020
+beginning with eBook number 61070.
+
+It is not a database, but it is useful for identifying eBooks so that they
+can be downloaded or read online.
+
+
+HOW TO GET EBOOKS FROM PROJECT GUTENBERG
+
+The easiest and quickest way to obtain one specific eBook is via our search
+page at
+
+       https://www.gutenberg.org/catalog/world/search
+
+where you can search by the eBook number for the particular book you want.
+
+Other search engines at Project Gutenberg will provide you with more
+information on more books by the same author using the same ebook
+number, such as:
+
+          https://www.gutenberg.org/ebooks/
+
+or by author's name:
+
+      https://www.gutenberg.org/browse/authors/a
+
+
+ONLINE DATABASE
+
+The online database can be accessed at
+
+ https://www.gutenberg.org/catalog/
+
+
+HOW TO DOWNLOAD AN EBOOK TO YOUR MOBILE DEVICE
+
+If your device is Internet-enabled, just visit the catalog page for a book
+and download one of the available formats that your device can display. If
+your device is not Internet-enabled, then download to a computer and transfer
+the book's file to your device using a USB cable or similar method. If your
+device utilizes a different format from those available at Project Gutenberg
+you will have to obtain an app to convert your ebook to your device's format.
+
+
+SITE MAP
+
+If you're interested, here is the Site Map to Project Gutenberg:
+
+          https://www.gutenberg.org/
+
+
+MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the
+world and you can select one nearer to your location from the link on the
+search results page. However, if you have access to the world wide web
+(www) the direct links above are much simplier.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  https://www.gutenberg.org/MIRRORS.ALL
+
+Copy the URL of your choice and paste it in a new tab in your browser and
+tap the Enter key on your keyboard.
+
+
+DIRECT ACCESS
+
+To directly access the file directories:
+
+  https://www.gutenberg.org/dirs/
+
+
+PLAIN TEXT
+
+Whenever possible, Project Gutenberg distributes a plain text version of an eBook
+(.txt) in addition to several other choices. We stress the inclusion of plain
+text because it is the lowest common denominator of formats and for its
+longevity. Since Project Gutenberg began, dozens of widely used file formats have
+come and gone, but the text format still remains. Text is accessible on all
+computers and is insurance against future obsolescence.
+
+The only times when Project Gutenberg distributes an eBook without a plain text
+version are when plain text is impossible or impractical -- for example, for our
+videos and MP3 audio files, and for some of our mathematical works.
+
+     (Please note that files ending in .tex are mainly technical writings
+      in TeX or LaTeX format, and should not be confused with text files.)
+
+
+ZIP FILES
+
+Files ending in .zip are compressed using the Zip method. This saves space
+and should result in faster downloads. Many include images or support files.
+Whenever practical, Project Gutenberg files are available as a zipped file.
+These files will be found under More Files..." on the ebook download page.
+
+
+CORRECTIONS
+
+To report an error in the listings, please email to help2019@pglaf.org and
+include the word CORRECTION in the subject line.
+
+
+SUBMITTING NEW EBOOKS
+
+If you are considering adding a new eBook to the Project Gutenberg
+collection, Please make sure that any books you want to work on are _not_
+already in the collection.  To see what is already online, refer to the
+listing below.  Also, please be sure to check David Price's In Progress
+list at:
+
+  https://pglaf.org/~ccx074/gutip.html
+
+to ensure no one is currently working on your selection.
+
+
+COPYRIGHT CLEARANCE
+
+It would also be helpful if you obtain copyright clearance prior to submitting
+books. More information on this can be found at:
+
+  https://www.gutenberg.org/
+
+
+APPENDIX
+
+Please see the Appendix at the end of each eBook catalog for some
+general comments and clarification.
+
+
+                               <==LISTINGS==>
+
+**** A C Following a Project Gutenberg eBook Number Indicates Copyright ****
+
+   **** The Language of the eBooks is English, unless otherwise noted ****
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Mar 2020 to 31 Mar 2020 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     EBOOK NO.
+
+Living Fountains or Broken Cisterns, by Edward Alexander Sutherland      61640
+ [Subtitle: An Educational Problem for Protestants]
+
+L'Art du brodeur, by Charles-Germain de Saint-Aubin                      61639
+ [Language: French]
+
+Szomoru napok, by Mór Jókai                                              61638
+ [Subtitle: Regény]
+ [Language: Hungarian]
+
+Debate on birth control, by Margaret H. Sanger and Winter Russell        61637
+ [Subtitle: Margaret Sanger and Winter Russell]
+
+Les partis politiques en Province, by Paul Scudo                         61636
+ [Language: French]
+
+Americans All, Immigrants All, by United States Dept of the Interior     61635
+ Office of Education
+
+Fors Clavigera (Volume 3 of 8), by John Ruskin                           61634
+ [Subtitle: Letters to the workmen and labourers of Great Britain]
+
+Letters from England, by Robert Southey                                  61632
+ [Subtitle: by Don Manuel Alvarez Espriella.
+  Translated from the Spanish]
+
+Flaming Youth, by Samuel Hopkins Adams                                   61631
+
+Lantern Marsh, by Beaumont Sandfield Cornell                             61630
+
+Etsijän tarina, by Larin-Kyösti                                          61629
+ [Language: Finnish]
+
+Courts, Criminals and the Camorra, by Arthur Cheney Train                61628
+
+Au pays de Sylvie, by Marcel Boulenger                                   61627
+ [Language: French]
+
+The Secret Doctrine, Vol. 4 of 4, by Helena Petrovna Blavatsky           61626
+ [Subtitle: The Synthesis of Science, Religion, and Philosophy]
+
+Fiction Writers on Fiction Writing, by Various                           61625
+ [Subtitle: Advice, opinions and a statement of their own
+  working methods by more than one hundred authors]
+
+The Fall of Ulysses, by Charles Dwight Willard                           61624
+ [Subtitle: An Elephant Story]
+
+Elämänpuu, by Uno Harva                                                  61623
+ [Subtitle: Uskontotieteellisiä tutkielmia]
+ [Language: Finnish]
+
+The Discovery of Radium, by Marie Sklodowska Curie                       61622
+ [Subtitle: Address by Madame M. Curie at Vassar College]
+
+A Treatise on the Crime of Onan, by M. Tissot                            61621
+ [Subtitle: Illustrated with a Variety of Cases,
+  Together with the Method of Cure]
+
+The Mark of Zorro, by Johnston McCulley                                  61620
+
+Six giants and a griffin and other stories, by Birdsall Otis Edey        61619
+ [Illustrator: Beatrice Baxter Ruyl]
+
+Kobiety, by Zofia Nalkowska                                              61618
+ [Subtitle: A Novel of Polish Life]
+ [Illustrator: W. T. Benda]
+
+Kuningas Suomessa, by Santeri Ivalo                                      61617
+ [Subtitle: Historiallinen romaani]
+ [Language: Finnish]
+
+Lichens, by Annie Lorrain Smith                                          61616
+
+Legenden, by Björnstjerne Björnson                                       61615
+ [Language: German]
+
+The Apostolic Tradition of Hippolytus, by Burton Scott Easton            61614
+ [Subtitle: Translated into English with Introduction and Notes]
+
+A Christmas Tale: in One Act, by Maurice Bouchor                         61613
+
+Temples and Ritual of Asklepios at Epidauros and Athens,                 61612
+ by Richard Caton
+ [Subtitle: Two Lectures Delivered at the Royal
+  Institution of Great Britain]
+
+The Western Cowboy and Arabians in the Rockies, by Anonymous             61611
+
+Ralph Osborn, Midshipman at Annapolis, by Edward Latimer Beach           61610
+ [Subtitle: A Story of Life at the U.S. Naval Academy]
+ [Illustrator: Frank Thayer Merrill]
+
+The Centaurians, by L. D. Biagi                                          61609
+ [Subtitle: a novel]
+
+Samantha on the Race Problem, by Marietta Holley                         61608
+
+"The Flu", by A. Mouritz                                                 61607
+ [Subtitle: a brief history of influenza in U.S. America, Europe, Hawaii]
+
+Mystery Play in Honour of the Nativity of our Lord,                      61606
+ by Robert Hugh Benson
+
+The Money Market, by F. Straker                                          61605
+
+Lotin avioliitto, by Pierre Loti                                         61604
+ [Language: Finnish]
+
+Canoe and camera: a two hundred mile tour through the Maine forests,     61603
+ by Thomas Sedgwick Steele
+
+Histoire du Consulat et de l'Empire (13/20), by Adolphe Thiers           61602
+ [Subtitle: faisant suite à l'Histoire de la Révolution Française]
+ [Language: French]
+
+Account of the Terrific and Fatal Riot at the New-York Astor Place       61601
+ Opera House on the Night of May 10th, 1849, by Anonymous
+ [Subtitle: With the Quarrels of Forrest and Macready Including
+  All the Causes which Led to that Awful Tragedy Wherein an
+  Infuriated Mob was Quelled by the Public Authorities and
+  Military, with its Mournful Termination in the Sudden Death
+  or Mutilation of more than Fifty Citizens, with Full and
+  Authentic Particulars]
+
+The Castaways of the Flag, by Jules Verne                                61600
+ [Subtitle: The Final Adventures of the Swiss Family Robinson]
+ [Illustrator: H. C. Murphy]
+
+The Gardens of the Sun, by Frederick William Burbidge                    61599
+ [Subtitle: A naturalist's journal on the mountains and in
+  the forests and swamps of Borneo and the Sulu Archipelago]
+
+London Sonnets, by Humbert Wolfe                                         61598
+
+Eleanor Ormerod, LL. D., Economic Entomologist;                          61597
+ Autobiography and Correspondence
+
+The Aeneid of Virgil                                                     61596
+
+Jack Straw, Lighthouse Builder, by Irving Crump                          61595
+ [Illustrator: Leslie Crump]
+
+Tratado de Ortografía Valenciana Clásica, by José Nebot Pérez            61594
+ [Language: Spanish]
+
+Arabic Thought and its Place in History, by De Lacy O'Leary              61593
+
+The Radio Girls at Forest Lodge, by Margaret Penrose                     61592
+ [Subtitle: or The Strange Hut in the Swamp]
+
+Fors Clavigera, Volume 2 of 8, by John Ruskin                            61591
+ [Subtitle: Letters to the workmen and labourers of Great Britain]
+
+This and That and the Other, by Hilaire Belloc                           61590 
+
+The Training of Wild Animals, by Frank Charles Bostock                   61589
+
+A Treatise of Taxes and Contributions, by William Petty                  61588
+
+The Old Church Clock, by Richard Parkinson                               61587
+
+The Poetical Works of Thomas Traherne                                    61586
+ [Subtitle: 1636?-1674 from the original manuscripts]
+
+Gli Uomini Rossi, by Antonio Beltramelli                                 61585
+ [Language: Italian]
+
+Das Leben der Bienen, by Maurice Maeterlinck                             61584
+ [Illustrator: Wilhelm Müller-Schoenfeld]
+ [Language: German]
+
+Daybreak in Turkey, by James Levi Barton                                 61583
+ [Subtitle: Second Edition]
+
+No Posting                                                               61582
+
+La kialo de la vivo, by Anonymous                                        61581
+ [Language: Esperanto]
+
+Politikai divatok, by Mór Jókai                                          61580
+ [Subtitle: Regény]
+ [Language: Hungarian]
+
+Al mia fratineto, by Felix Ortt                                          61579
+ [Subtitle: Letero pri la seksvivo]
+ [Language: Esperanto]
+
+Der Sohn, by Walter Hasenclever                                          61578
+ [Language: German]
+
+The Tahquitch Maiden: a Tale of the San Jacintos,                        61577
+ by Phebe Estelle Spalding
+
+Kaksi pakolaista, by Friedrich Gerstäcker                                61576
+ [Subtitle: Austraalialainen kertomus]
+ [Language: Finnish]
+
+Mahatma Gandhi; The Man who Became One with the Universal Being,         61575
+ by Romain Rolland
+
+Selenium Cells, by Thomas W. Benson                                      61574
+ [Subtitle: The Construction, Care and Use of Selenium Cells
+  with Special Reference to the Fritts Cell]
+
+La perfecta casada, by Fray Luis de León                                 61573
+ [Language: Spanish]
+
+General History Of Civilisation In Europe, From The Fall Of The          61572
+ Roman Empire Till The French Revolution, by François Guizot
+
+L'anti-moine, by Anonymous                                               61571
+ [Language: French]
+
+Wulffie ja Kumpp, by Jonas Lie                                           61570
+ [Subtitle: Näytelmä kolmessa näytöksessä]
+ [Language: Finnish]
+
+The Archives of Dentistry, Vol. 7, No. 4, April 1890, by Various         61569
+
+When They Were Girls, by Rebecca Deming Moore                            61568
+ [Illustrator: Mabel Betsy Hill]
+
+Stonehenge, a Temple Restor'd to the British Druids, by William Stukeley 61567
+
+Het Leven der Dieren, Deel 3, Hoofdstuk 6, by A. E. Brehm                61566
+ [Subtitle: De Wormen]
+ [Language: Dutch]
+
+L'Oeuvre Poètique de Charles Baudelaire, by Charles Baudelaire           61565
+ [Subtitle: Les Fleurs du Mal]
+ [Language: French]
+
+Attitude, by Hal Clement                                                 61564
+
+Vita mondana, by Ines Castellani Fantoni Benaglio                        61563
+ [Language: Italian]
+
+The Complete Collection of Pictures and Songs, by Randolph Caldecott     61562
+ [Illustrator: Randolph Caldecott]
+
+The Wanderings of Persiles and Sigismunda, by Miguel Cervantes Saavedra  61561
+ [Subtitle: A Northern Story]
+
+Notes on Diseases of the Horse, by Charles J. Korinek                    61560
+ [Subtitle: Cause, Symptoms and Treatment]
+
+Ollin oppivuodet, by Anni Swan                                           61559
+ [Language: Finnish]
+
+Frank Merriwell's Strong Arm, by Burt L. Standish                        61558
+ [Author a.k.a. Gilbert Patten]
+ [Subtitle: Saving an Enemy, The Merriwell Series No. 71]
+
+The Red Reign, by Kellogg Durland                                        61557
+ [Subtitle: The True Story of an Adventurous Year in Russian]
+
+Guide Book to Williamsburg Old and New, by William Clinton Ewing         61556
+
+Montezuma National Forest, Colorado, 1939, by Anonymous                  61555
+
+Tres capitaes, by José Augusto Corrêa                                    61554
+ [Language: Portuguese]
+
+Rootabaga pigeons, by Carl Sandburg                                      61553
+ [Illustrators: Maud Petersham and Miska Petersham]
+
+Italian tytär, by A. de Lamartine                                        61552
+ [Language: Finnish]
+
+The Push of a Finger, by Alfred Bester                                   61551
+
+On Anything, by Hilaire Belloc                                           61550 
+
+Knock at a Venture, by Eden Phillpotts                                   61549
+
+Le seduzioni - Le vergini folli, by Amalia Guglielminetti                61548
+ [Language: Italian]
+
+The Undying Fire, by H. G. Wells                                         61547
+ [Subtitle: A contemporary novel]
+
+Suuteita, by Juho Reijonen                                               61546
+ [Language: Finnish]
+
+The Totall Discourse of The Rare Adventures & Painefull                  61545
+ Peregrinations, by William Lithgow
+ [Subtitle: of long Nineteene Yeares Travayles from Scotland
+  to the most famous Kingdomes in Europe, Asia and Affrica]
+
+De avonturen van Jan Kodde, by Daniël Adrianus Poldermans                61544
+ [Illustrators: Willem Hardenberg and Jan Rinke]
+ [Language: Dutch]
+
+Psychologische Typen, by Carl Gustav Jung                                61543
+ [Language: German]
+
+Roma nella memoria e nelle immaginazioni del Medio Evo, Vol. 2,          61542
+ by Arturo Graf
+ [Language: Italian]
+
+Roma nella memoria e nelle immaginazioni del Medio Evo, Vol. 1,          61541
+ by Arturo Graf
+ [Language: Italian]
+
+Robinc, by H. H. Holmes                                                  61540
+
+Wilhelm Hauffs sämtliche Werke in sechs Bänden. Fünfter Band             61539
+ [Language: German]
+
+Le Troupeau d'Aristée, by Laurent Tailhade                               61538
+ [Language: French]
+
+The Charitable Pestmaster, by Thomas Sherwood                            61537
+  [Subtitle: Or, The cure of the Plague]
+
+
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Feb 2020 to 29 Feb 2020 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     EBOOK NO.
+
+The Dark Ages, Period 1, 476-918, by Charles Oman                        61536
+
+Frank Merriwell in Maine, by Burt L. Standish                            61535
+ [Author a.k.a. Gilbert Patten]
+ [Subtitle: The Lure of 'Way Down East; The Merriwell Series No. 28]
+
+The Racer Boys, by Clarence Young                                        61534
+ [Subtitle: The Mystery of the Wreck]
+
+The American Electro Magnetic Telegraph, by Alfred Vail                  61533
+ [Subtitle: With the Reports of Congress, and a Description of
+  all Telegraphs Known, Employing Electricity or Galvanism]
+
+Jumaluskon alkuperä, by Uno Harva                                        61532
+ [Author a.k.a. Uno Holmberg]
+ [Language: Finnish]
+
+Muutamia mietteitä kasvatuksesta, by John Locke                          61531
+ [Language: Finnish]
+
+Outland, by Mary Austin                                                  61530
+
+Why Colored People in Philadelphia Are Excluded from                     61529
+ the Street Cars, by Benjamin Peter Hunt
+
+Propos de peintre, première série: de David à Degas,                     61528
+ by Jacques-Émile Blanche
+ [Subtitle: Ingres, David, Manet, Degas, Renoir,
+  Cézanne, Whistler, Fantin-Latour, Ricard, Conder,
+  Beardsley, etc. Préface par Marcel Proust]
+ [Language: French]
+
+La colline inspirée, by Maurice Barrès                                   61527
+ [Language: French]
+
+A Dictionary of Islam, by Thomas Patrick Hughes                          61526
+ [Subtitle: Being a cyclopedia of the doctrines, rites, ceremonies,
+  and customs, together with the technical and theological
+  terms, of the Muhammadan religion]
+
+Iets oor die Boesmankultuur, by Reenen J. van Reenen                     61525
+ [Subtitle: 'n Lesing gehou voor die Suid-Afrikaanse Akademie op
+  Stellenbosch, Januarie 1920, en gedruk op las van die Akademie]
+ [Language: Afrikaans]
+
+Dieudonat, by Edmond Haraucourt                                          61524
+ [Language: French]
+
+The Moth Decides, by Edward Alden Jewell                                 61523
+ [Subtitle: A Novel]
+
+The £1,000,000 bank-note, by Mark Twain                                  61522
+ [Subtitle: and other new stories]
+
+The Modern Traveller, by Hilaire Belloc                                  61521
+ [Illustrator: Basil Temple Blackwood]
+
+The Tropical World, by Georg Hartwig                                     61520
+ [Subtitle: Aspects of man and nature in the equatorial
+  regions of the globe]
+
+Trench Warfare, by Joseph Shuter Smith                                   61519
+ [Subtitle: A Manual for Officers and Men]
+
+Lafayette in America in 1824 and 1825, Vol. 1 of 2, by August Levasseur  61518
+ [Subtitle: Or, Journal of a Voyage to the United States]
+
+Bread and Circuses, by Helen Parry Eden                                  61517
+
+Kun valkenee--, by Hilja Haahti                                          61516
+ [Language: Finnish]
+
+The Missouri Archaeologist, Volume 24: December 1962, by Various         61515
+ [Subtitle: The Lawhorn Site]
+
+Captain Sparkle, Pirate, by Nicholas Carter                              61514
+ [Subtitle: A Hard Man to Catch]
+
+The Phantom Death etc., by William Clark Russell                         61513
+
+The One-Eyed Fairies, by Georgia Eldridge Hanley                         61512
+ [Illustrator: Julia Greene]
+
+The Political Songs of England, by Thomas Wright                         61511
+ [Subtitle: From the Reign of John to that of Edward II]
+
+History of English Literature, Vol. 3 of 3, by Hippolyte Taine           61510
+
+The Green World, by Hal Clement                                          61509
+
+Eneida; v.1 de 2, by Publio Virgilio Marón                               61508
+ [Language: Spanish]
+
+Ukridge, by P. G. Wodehouse                                              61507
+
+Letters from England by Don Manuel Alvarez Espriella, Vol. 2 of 3,       61506
+ by Robert Southey
+ [Subtitle: Translated from the Spanish]
+
+Sappho and her influence, by David Moore Robinson                        61505
+
+Forever is Not So Long, by F. Anton Reeds                                61504
+
+Majurin holhokit, by Vasilii Ivanovich Nemirovich-Danchenko              61503
+ [Language: Finnish]
+
+Cassell's History of England,  Vol. 6, by Anonymous                      61502
+ [Subtitle: From the Death of Sir Robert Peel
+  to the Illness of the Prince of Wales]
+
+Botticelli, by Emil Schaeffer                                            61501
+ [Language: German]
+
+Les Bains de Bade, by René Boylesve                                      61500
+ [Subtitle: Petit Roman d'aventures Galantes et Norales]
+ [Illustrator: George Barbier]
+ [Language: French]
+
+Monopoly, by Vic Phillips and Scott Roberts                              61499
+
+If You're Smart..., by Colin Keith                                       61498
+
+The Eagles Gather, by Joseph E. Kelleam                                  61497
+
+Stanley's Story, by A. G. Feather                                        61496
+ [Subtitle: Through the Wilds of Africa: a Thrilling Narrative
+  of His Remarkable Adventures, Terrible Experiences, Wonderful
+  Discoveries and Amazing Achievements in the Dark Continent]
+
+Dutch Methods of Birth Control, by Margaret H. Sanger                    61495
+
+The Modern Clock, by Ward L. Goodrich                                    61494
+ [Subtitle: A Study of Time Keeping Mechanism,
+  Its Construction, Regulation and Repair]
+
+Philoktetes, by Sophocles                                                61493
+ [Language: Hungarian]
+
+The Three Voyages of Captain Cook Round the World, Vol. 4, Being the     61492
+ Second of the Second Voyage, by James Cook and George Forster
+
+Suomen suvun pakanallinen jumalanpalvelus, by Julius Krohn               61491
+ [Subtitle: Neljä lukua Suomen suvun pakanallista jumaluus-oppia]
+ [Language: Finnish]
+
+Kovalle ottaa, by Edvin Calamnius                                        61490
+ [Author a.k.a. Esko Virtala]
+ [Language: Finnish]
+
+Les naufragés, by Edmond Haraucourt                                      61489
+ [Language: French]
+
+Népvilág, by Mór Jókai                                                   61488
+ [Subtitle: Elbeszélések]
+ [Language: Hungarian]
+
+133 Quicker Ways to Homemade with Bisquick, by Anonymous                 61487
+
+The Steel Horse, by Harry Castlemon                                      61486
+ [Subtitle: The Rambles of a Bicycle]
+
+J. Ogier de Gombauld, 1570-1666, by René Kerviler                        61485
+ [Subtitle: étude biographique et littéraire
+  sur sa vie et ses ouvrages]
+ [Language: French]
+
+Nicolette, by Baroness Orczy                                             61484
+ [Subtitle: a tale of old Provence]
+
+Definitions in Political Economy, by T. R. Malthus                       61483
+ [Subtitle: Preceded by an Inquiry Into the Rules
+  which Ought to Guide Political Economists in the
+  Definition and Use of Their Terms; with Remarks
+  on the Deviation from These Rules in Their Writings]
+
+The Mystery of Mrs. Blencarrow, by Margaret Oliphant                     61482
+
+Silence is...Deadly, by Bertrand L. Shurtleff                            61481
+
+Pastor Hallin, by Gustaf af Geijerstam                                   61480
+ [Language: German]
+
+Das Lyzeum in Birkholz, by Felicitas Rose                                61479
+ [Language: German]
+
+The Court of the King, by Margaret Benson                                61478
+ [Subtitle: And Other Studies]
+
+Seneca myths and folk tales, by Arthur C. Parker                         61477
+
+Obstetrics for Nurses, by Charles B. Reed                                61476
+
+Byzantine Constantinople: the walls of the city and adjoining            61475
+ historical sites, by Alexander Van Millingen
+
+Strain, by L. Ron Hubbard                                                61474
+
+Is a Ship Canal Practicable?, by Sylvanus Thayer Abert                   61473
+ [Subtitle: Notes, Historical and Statistical, upon the Projected
+  Routes for an Interoceanic Ship Canal between the Atlantic
+  and Pacific Oceans, in which is Included a Short Account
+  of the Character and Influence of the Canal of Suez, and
+  the Probable Effects upon the Commerce of the World of the
+  Two Canals, Regarded either as Rivals, or as Parts of One
+  System of Interoceanic Navigation]
+
+Autels privilégiés, by Robert de Montesquiou                             61472
+  [Language: French]
+
+Ivories Ancient and Mediaeval, by William Maskell                        61471
+
+Life of Edwin Forrest, the American Tragedian, Vol. 2 of 2,              61470
+  by William Rounseville Alger
+
+History of Greece, Vol. 11 of 12, by George Grote                        61469
+
+Memoirs of Doctor Burney, Vol. 1 of 3, by Fanny Burney                   61468
+ [Subtitle: Arranged from his own manuscripts, from family papers,
+  and from personal recollections by his daughter, Madame d'Arblay]
+
+Muck Man, by Fremont Dodge                                               61467
+
+The Queen's Quair, by Maurice Hewlett                                    61466
+ [Subtitle: or, The Six Years' Tragedy]
+
+Apuntes para una Gramática Valenciana Popular, by José Nebot y Pérez     61465
+ [Language: Spanish]
+
+Erasmus, by Jebb Richard Claverhouse                                     61464
+
+Kaarinan kesäloma, by Anni Swan                                          61463
+ [Language: Finnish]
+
+Standard methods for the examination of water and sewage,                61462
+ by American Public Health Association
+
+Josua, by Georg Ebers                                                    61461
+ [Language: Finnish]
+
+Contes espagnols d'amour et de mort, by Vicente Blasco Ibáñez            61460
+ [Language: French]
+
+The Governor of Glave, by Keith Laumer                                   61459
+
+Jehan de Paris, by Jules Renouvier                                       61458
+ [Subtitle: varlet de chambre et peintre ordinaire
+  des rois Charles VIII et Louis XII]
+ [Language: French]
+
+Charley's Log, by Emma Leslie                                            61457
+ [Subtitle: A Story of Schoolboy Life]
+
+The Black Troopers and other stories, by Anonymous                       61456
+
+Alone in London, by Sarah Smith                                          61455
+
+Sketches of Gotham, by Ike Swift                                         61454
+
+Sixty Years a Bookman, by Joseph Shaylor                                 61453
+ [Subtitle: With Other Recollections and Reflections]
+
+Junior Ranger Program: Cumberland Island, by Anonymous                   61452
+
+A Friend in the Kitchen, by Anna L. Colcord                              61451
+ [Subtitle: Or What to Cook and How to Cook It]
+
+Dido, the Dancing Bear, by Richard Barnum                                61450
+ [Subtitle: His Many Adventures]
+ [Illustrator: C. P. Bluemlein]
+
+Persephone of Eleusis, by Clare Winger Harris                            61449
+ [Subtitle: A Romance of Ancient Greece]
+
+De Scheepsjongen van 'De Gouden Leeuw', by Johannes Hendrik Been         61448
+ [Illustrator: Johannes Petrus Antonius Wiegman]
+ [Language: Dutch]
+
+Wrecked in Port, by Edmund Yates                                         61447
+ [Subtitle: A Novel]
+
+Szegény gazdagok, by Mór Jókai                                           61446
+ [Subtitle: Regény]
+ [Language: Hungarian]
+
+A House Divided Against Itself, Complete, by Margaret Oliphant           61445
+
+A House Divided Against Itself, Vol. 3 of 3, by Margaret Oliphant        61444
+
+A House Divided Against Itself, Vol. 2 of 3, by Margaret Oliphant        61443
+
+A House Divided Against Itself, Vol. 1 of 3, by Margaret Oliphant        61442
+
+The Little Green Goblin, by James Ball Naylor                            61441
+ [Illustrator: Harry L. Miller]
+
+Shylock reasons with Mr. Chesterton, by Humbert Wolfe                    61440
+ [Subtitle: And other poems]
+
+The Time of Cold, by Mary Carlson                                        61439
+
+Sónnica la cortesana, by Vicente Blasco Ibáñez                           61438
+ [Subtitle: Novela]
+ [Language: Spanish]
+
+Set Down in Malice, by Gerald Cumberland                                 61437
+  [Subtitle: A Book of Reminiscences]
+
+Ancient legends, Mystic Charms & Superstitions of Ireland,               61436
+ by Jane Francesca Agnes Wilde
+ [Subtitle: With sketches of the Irish past]
+
+Captain Billy's Whiz Bang, Vol. 3, No. 25, October, 1921, by Various     61435
+ [Subtitle: America's Magazine of Wit, Humor and Filosophy]
+
+Mightiest Qorn, by Keith Laumer                                          61434
+
+Mammals of Mount McKinley National Park, by Adolph Murie                 61433
+ [Illustrator: Olaus Murie]
+
+Forest Pictures in the Adirondacks,by John A. Hows and Alfred B. Street  61432
+
+Das erste Wort der kleinen Elinontis, by Gustav Harders                  61431
+ [Subtitle: und andere Indianergeschichten]
+ [Language: German]
+
+Manners and Customs of the Thrid, by Murray Leinster                     61430
+
+The Heart of a Dog, by Albert Payson Terhune                             61429
+ [Illustrator: Marguerite Kirmse]
+
+With Lawrence in Arabia, by Lowell Thomas                                61428
+
+Marooned in the Forest, by A. Hyatt Verrill                              61427
+ [Subtitle: The Story of a Primitive Fight for Life]
+
+Joan and Peter, by H. G. Wells                                           61426
+ [Subtitle: The story of an education]
+
+Navalta navalle II, by Sven Hedin                                        61425
+ [Language: Finnish]
+
+The Customs Lounge, by E.A. Proulx                                       61424
+
+Cesare Lombroso, by Hans Kurella                                         61423
+ [Subtitle: A modern man of science]
+
+Stories of Romance, by Oliver Wendell Holmes, Dinah Maria Mulock Craik,  61422
+ Harriet Prescott Spofford, John Wilson and Allan Cunningham
+ [Subtitle: Little Classics]
+
+Some Account of the Oxford University Press, 1468-1921, by Anonymous     61421
+
+'And So Ad Infinitum' (The Life of the Insects), by Karel Capek          61420
+ and Josef Capek
+ [Subtitle: An Entomological Review, in Three Acts,
+  a Prologue and an Epilogue]
+
+The Empire and the Papacy 918-1273, by T. F. Tout                        61419
+
+La glèbe, by Paul Adam                                                   61418
+ [Language: French]
+
+The Colored Man in the Methodist Episcopal Church, by H. M. Hagood       61417
+
+Orkney and Shetland, by John George Flett Moodie Heddle and T. Mainland  61416
+
+Místicas; poesías, by Raquel Adler                                       61415
+ [Language: Spanish]
+
+Threlkeld's Daughter, by James Bell                                      61414
+
+Navalta navalle I, by Sven Hedin                                         61413
+ [Language: Finnish]
+
+The Course of Logic, by Lester del Rey                                   61412
+
+Le beau Laurence, by George Sand                                         61411
+ [Language: French]
+
+An Attempt to Analyse the Automaton Chess Player of Mr. De Kempelen,     61410
+ by Robert Willis
+ [Subtitle: To Which is Added, a Copious Collection
+  of the Knight's Moves over the Chess Board]
+
+A Kont-eset, by György Szemere                                           61409
+ [Subtitle: Fantasztikus regény a XXI. századból]
+ [Language: Hungarian]
+
+Aline et Valcour, Tome 4, by Donatien-Alphonse-Francois de Sade          61408
+ [Subtitle: Le Roman Philosophique]
+ [Language: French]
+
+The Escorial, by Albert F. Calvert                                       61407
+
+Hannibal Crosses the Alps, by Cecil Torr                                 61406
+
+Down to the Worlds of Men, by Alexei Panshin                             61405
+
+Trois Stations de psychothérapie, by Maurice Barrès                      61404
+ [Language: French]
+
+Spiro Mounds: Prehistoric Gateway ... Present-Day Enigma,                61403
+ by Don G. Wyckoff and Dennis Peterson
+
+Sand Dunes Story, by Donna P. Bessken                                    61402
+ [Illustrator: Sylvia Stosser]
+
+Don, a Runaway Dog, by Richard Barnum                                    61401
+ [Subtitle: His Many Adventures]
+ [Illustrator: Harriet H. Tooker]
+
+The Geology of Calvin Coolidge State Forest, by Harry W. Dodge, Jr.      61400
+
+Chain of Colonial Houses, by Anonymous                                   61399
+
+The Polar World, by G. Hartwig                                           61398
+ [Subtitle: A popular description of man and nature
+  in the Arctic and Antarctic regions of the globe]
+
+The Faces Outside, by Bruce McAllister                                   61397
+
+Memoirs of the Late War, by John Cooke and George Fitzclarence           61396
+ [Subtitle: Comprising the Personal Narrative of Captain Cooke,
+  of the 43rd Regiment Light Infantry; the History of the Campaign
+  of 1809 in Portugal, by the Earl of Munster; and a Narrative
+  of the Campaign of 1814 in Holland, by Lieut. T. W. D. Moodie,
+  H. P. 21st Fusileers, Volume 1 of 2]
+
+The Religious Thought of the Greeks, by Clifford Herschel Moore          61395
+
+Life Incidents, in Connection with the Great Advent Movement,            61394
+ as Illustrated by the Three Angels of Revelation 14, Volume
+ 1, by James White
+
+
+The Singing Church, by Edmund S. Lorenz                                  61393
+ [Subtitle: The Hymns It Wrote and Sang]
+
+De nuttige handwerken, by A. Teunisse and A. M. van der Velden           61392
+ [Subtitle: handboekje ten dienste der lagere school]
+ [Language: Dutch]
+
+The Iowa Ornithologist, Vol. 2, No. 2, January 1896, by Various          61391
+ [Subtitle: For the Student of Birds]
+
+Mémoires de Aimée de Coigny                                              61390
+ [Language: French]
+
+Die, Shadow!, by Algis Budrys                                            61389
+
+Sebastopol, by Leo Tolstsoi                                              61388
+
+Rundown, by Robert Lory                                                  61387
+
+Post-Biblical Hebrew Literature, by Various                              61386
+ [Subtitle: An Anthology]
+
+The Last Chance, by Rolf Boldrewood                                      61385
+ [Subtitle: A tale of the Golden West]
+
+Anglo-Saxon Solidarity, by Herbert Adams Gibbons                         61384
+
+L'Ystoire de Eurialus et Lucresse, vrays amoureux, selon pape Pie,       61383
+ by Pope Pius II
+ [Full title: 
+ [Language: French]
+
+History of English Literature, Volume 2 of 3, by Hippolyte Taine         61382
+
+De Bonte Wei, by Jacobus Pieter Thijsse                                  61381
+ [Illustrator: Jan Voerman, Jr. and Johan Michiel (Jan) van Oort]
+ [Language: Dutch]
+
+The Five Hells of Orion, by Frederik Pohl                                61380
+
+Kirjoja ja kirjaiijoita I, by V. A. Koskenniemi                          61379
+ [Language: Finnish]
+
+Joyce, by Margaret Oliphant                                              61378
+
+Iris rukka, by Anni Swan                                                 61377
+ [Language: Finnish]
+
+The Historical Geography of Europe., by Edward A. Freeman                61376
+ [Subtitle: Vol. 2, Maps]
+
+The Historical Geography of Europe, by Edward A. Freeman                 61375
+ [Subtitle: Vol. 1, Text]
+
+Countdown, by Julian F. Grow                                             61374
+
+Les Bourgeois de Witzheim, by André Maurois                              61373
+ [Illustrator: Paul Welsch]
+ [Language: French]
+
+The Cruise of the Catalpa, by John J. Breslin                            61372
+ [Subtitle: A Poem]
+
+Captain of the Kali, by Gary Wright                                      61371
+
+A Fortnight at the Front, by Henry Russell Wakefield                     61370
+
+Out of the Flame, by Osbert Sitwell                                      61369
+
+Argonaut and Juggernaut, by Osbert Sitwell                               61368
+
+Another Earth, by David Evans and Al Landau                              61367
+
+Medical Thoughts of Shakespeare, by Benjamin Rush Field                  61366
+
+The Armies of Europe, by Fedor von Köppen                                61365
+ [Illustrator: Richard Knötel]
+
+Crystallizing Public Opinion, by Edward L. Bernays                       61364
+
+The Universal Kinship, by J. Howard Moore                                61363
+
+Drug Smuggling and Taking in India and Burma, by Roy K. Anderson         61362
+
+Juicio Razonado Sobre Los Acontecimientos De Europa, Situacion           61361
+ Del Sumo Pontífice, Antonio Villarragut y Aquiriano
+ [Subtitle: Y Tambien Sobre la ventajosa posicion en que se
+  encuentra la España, respecto del resto de Europa; con una
+  esplicacion de las bases en que descansa el Principio
+  Parlamentario, la necesidad de su rigorosa observancia por
+  los partidos legales, para que el tránsito del poder, de
+  un partido á tro, sea el gran vínculo que consolide
+  nuestras Instituciones; la perfeccion posible y práctica
+  del Gobierno representativo]
+ [Language: Spanish]
+
+Witch of the Glens, by Sally Watson                                      61360
+ [Illustrator: Barbara Werner]
+
+France from Behind the Veil, by Catherine Radziwill                      61359
+ [Subtitle: Fifty Years of Social and Political Life]
+
+A History of England, by J. Franck Bright                                61358
+ [Subtitle: Period I, Mediaeval Monarchy]
+
+Coins de Paris, by Georges Cain                                          61357
+ [Language: French]
+
+Juhannustulilla, by Larin-Kyösti                                         61356
+ [Author a.k.a. Karl Gustaf Larson]
+ [Subtitle: Laulunsekainen kansanpila]
+ [Language: Finnish]
+
+The Abandoned of Yan, by Donald F. Daley                                 61355
+
+Die fünf Waldstädte, by Paul Keller                                      61354
+ [Subtitle: Ein Buch für Menschen, die jung sind]
+ [Illustrators: G. Holstein and Reinhold Pfahler von Othegraven]
+ [Language: German]
+
+Saline Solution, by Keith Laumer                                         61353
+
+The Case Against Spirit Photographs, by C. Vincent Patrick               61352
+ and W. Whately Smith
+
+La leçon d'amour dans un parc, by René Boylesve                          61351
+ [Language: French]
+
+The Girl's Own Paper, Vol. 20, No. 1009, April 29, 1899, by Various      61350
+
+Frank Merriwell, Jr., in Arizona, by Burt L. Standish                    61349
+ [Subtitle: or Clearing a Rival's Record]
+
+The Life of Edwin Forrest, Vol. 1 of 2, by William Rounseville Alger     61348
+ [Subtitle: The American Tragedian]
+
+Socialism and the family, by H. G. Wells                                 61347
+
+The Boy Travellers in Mexico, by Thomas W. Knox                          61346
+ [Subtitle: Adventures of Two Youths in a Journey to Northern
+  and Central Mexico, Campeachey, and Yucatan]
+
+Companionable Books, by Henry van Dyke                                   61345
+
+The Happy Isles, by Basil King                                           61344
+
+Pohjanmaan helmi, by Johan Olof Åberg                                    61343
+ [Subtitle: Romantillinen kertomus 1808 vuoden sodasta]
+ [Language: Finnish]
+
+A White King in East Africa, by John Boyes                               61342
+ [Subtitle: The Remarkable Adventures of John Boyes, Trader and
+  Soldier of Fortune, who became King of the Savage Wa-Kikuyu]
+
+Measure Your Mind, by Marion Rex Trabue and Frank Parker Stockbridge     61341
+ [Subtitle: The Mentimeter and How to Use It]
+
+The Art of Story-Telling, by Marie L. Shedlock                           61340
+
+Claros varones de Castilla, y Letras, by Fernando del Pulgar             61339
+ [Language: Spanish]
+
+Moments with Mark Twain, by Mark Twain                                   61338
+
+Hétköznapok, by Mór Jókai                                                61337
+ [Subtitle: Regény]
+ [Language: Hungarian]
+
+Irish Memories, by Edith Somerville and Martin Ross                      61336
+
+I, Executioner, by Ted White and Terry Carr                              61335
+
+When Whirlybirds Call, by Frank Banta                                    61334
+
+The Shipshape Miracle, by Clifford D. Simak                              61333
+
+This Way To the Egress, by Andrew Fetler                                 61332
+
+The Saxons in England, Vol. 2 of 2, by John Mitchell Kemble              61331
+ [Subtitle: A History of the English Commonwealth
+  till the Period of the Norman conquest]
+
+Elements of Trench Warfare, by William Waldron                           61330
+
+Timber-Wolf, by Jackson Gregory                                          61329 
+
+Indtryk og Minder fra Dybbøl, by Carl Vilhelm Behagen Castenschiold      61328
+ [Language: Danish]
+
+Ein Diwan, by Jehuda Halevi                                              61327
+ [Language: German]
+
+De drie steden: Rome, by Emile Zola                                      61326
+ [Language: Dutch]
+
+The Shakespeare Garden, by Esther Singleton                              61325
+
+Instituut Sparrenheide, by Chr. van Abkoude                              61324
+ [Illustrator: Jan Rinke]
+ [Language: Dutch]
+
+Un segreto, Vol. 2 of 2, by Salvatore Farina                             61323
+ [Language: Italian]
+
+Un segreto, Vol. 1 of 2, by Salvatore Farina                             61322
+ [Language: Italian]
+
+New Year's Day, by Edith Wharton and E. C. Caswell                       61321
+ [Subtitle: The 'Seventies]
+
+The Campaign of Marengo, by Herbert H. Sargent                           61320
+ [Subtitle: With Comments]
+
+Introduction to Our Bird Friends, Volume 1, by Lenwood Ballard Carson    61319
+ [Illustrator: Orville O. Rice]
+
+Les amours du temps passé, by Charles Monselet                           61318
+ [Language: French]
+
+Reflections on the painting and sculpture of the Greeks,                 61317
+ by Johann Joachim Winckelmann
+ [Subtitle: with instructions for the connoisseur, and
+  an essay on grace in works of art]
+
+The Chemically Pure Warriors, by Allen Kim Lang                          61316
+ [Illustrator: Mack]
+
+Mohlon Acrylic Fiber #B22: Easy-to-make Fashions, by Anonymous           61315
+ [Subtitle: Knit/Crochet]
+
+Traditions of Edinburgh, by Robert Chambers                              61314
+ [Illustrator: James Riddel]
+
+Questions at Issue, by Edmund Gosse                                      61313 
+
+The "Twenty-Seventh", by Winthrop D. Sheldon                             61312
+ [Subtitle: A Regimental History]
+
+Le diable peint par lui-même, by Jacques-Albin-Simon Collin de Plancy    61311
+ [Language: French]
+
+The Awakening of the East, by Pierre Leroy-Beaulieu                      61310
+ [Subtitle: Siberia - Japan - China]
+
+Road Stop, by David Mason                                                61309
+
+History of English Literature Vol. 1 of 3, by Hippolyte Taine            61308
+
+Captain Billy's Whiz Bang, Vol. 2, No. 24, September, 1921, by Various   61307
+ [Subtitle: America's Magazine of Wit, Humor and Filosophy]
+
+The Girl's Own Paper, Vol. 20, No. 1017, June 24, 1899, by Various       61306
+
+Cronaca di Fra Salimbene parmigiano, Vol. 2 of 2, by Salimbene de Adam   61305
+ [Language: Italian]
+
+Cronaca di Fra Salimbene parmigiano, Vol. 1 of 2, by Salimbene de Adam   61304
+ [Language: Italian]
+
+Magnetation Methods of Birth Control, by Margaret H. Sanger              61303
+
+Elämäni ja työni, by Henry Ford                                          61302
+ [Language: Finnish]
+
+The Works of Thomas Hood, Vol. 2 of 11                                   61301
+ [Subtitle: Comic and Serious, in Prose and Verse,
+  With All the Original Illustrations]
+
+Christmas Stories, by Jacob A. Riis                                      61300
+
+Rabeh und das Tschadseegebiet, by Max von Oppenheim                      61299
+ [Language: German]
+
+The Spark, by Edith Wharton and E. C. Caswell                            61298
+ [Subtitle: The 'Sixties]
+
+False Dawn, by Edith Wharton and E. C. Caswell                           61297
+ [Subtitle: The 'Forties]
+
+Véres könyv, by Mór Jókai                                                61296
+ [Subtitle: Csataképek a keleti háboruból]
+ [Language: Hungarian]
+
+Little Wanderers, by Margaret Warner Morley                              61295
+
+The Cruise of the Little Dipper, by Susanne Langer                       61294
+ [Subtitle: and Other Fairy Tales]
+ [Illustrator: Helen Sewell]
+
+Gimp Braiding Projects, by Charles E. White, Jr.                         61293
+
+Leven der Dieren, Deel 3, Hoofdstuk 5, by A. E. Brehm                    61292
+ [Subtitle: De Spinachtigen]
+ [Language: Dutch]
+
+A Narrative of the Captivity and Adventures of John Tanner,              61291
+ U. S. Interpreter at the Saut de Ste. Marie, by John Tanner
+ [Subtitle: During Thirty Years Residence among the Indians
+  in the Interior of North America]
+
+The Old Maid, by Edith Wharton                                           61290
+ [Subtitle: The Fifties]
+
+Wijsheid en Schoonheid uit China, by Henri Borel                         61289
+ [Language: Dutch]
+
+The Real Thing, by Albert Teichner                                       61288
+
+Los von Rom, by Anton Ohorn                                              61287
+ [Subtitle: Eine Geschichte aus dem Leben]
+ [Illustrator: Fritz Bergen]
+ [Language: German]
+
+Selected Poems, by John Masefield                                        61286
+
+The Desert and the Stars, by Keith Laumer                                61285
+
+Bashan and I, by Thomas Mann                                             61284
+
+The Dragon Slayers, by Frank Banta                                       61283
+
+Lappalaisten uskonto, by Uno Harva                                       61282
+ [Author a.k.a. Uno Holmberg]
+ [Language: Finnish]
+
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Jan 2020 to 31 Jan 2020 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     EBOOK NO.
+
+Heliogabalus, by Henry Louis Mencken and George Jean Nathan              61281
+ [Subtitle: A Buffoonery in Three Acts]
+
+The Young Pilgrim, by A. L. O. E                                         61280
+ [Subtitle: A Tale Illustrative of "The Pilgrim's Progress"]
+
+London and its Environs Described, Vol. 6 of 6, by Anonymous             61279
+ [Subtitle: Containing an Account of Whatever is Most
+  Remarkable for Grandeur, Elegance, Curiosity or Use,
+  in the City and in the Country Twenty Miles Round it]
+
+Too Many Eggs, by Kris Neville                                           61278
+
+History of the Reformation in Europe in the Time of Calvin,              61277
+ Vol. 5 of 8, by J. H. Merle D'Aubigné
+
+Horse Secrets, by A. S. Alexander                                        61276
+
+Het Leven der Dieren, Deel 3, Hoofdstuk 4, by A. E. Brehm                61275
+ [Subtitle: De Insecten]
+ [Language: Dutch]
+
+La Guerre du Feu, by J.-H. Rosny aîné                                    61274
+ [Subtitle: Roman des âges farouches]
+ [Language: French]
+
+An Introduction to Nature-study, by Ernest Stenhouse                     61273
+
+The Woman in the Bazaar, by Alice Perrin                                 61272
+ [Illustrator: J. Dewar Mills]
+
+The Man Who Flew, by Charles D. Cunningham                               61271
+
+Poussières de Paris, by Jean Lorrain                                     61270
+ [Language: French]
+
+The Sea Road to the East, by A. J. Sargent                               61269
+ [Subtitle: Gibraltar to Wei-hai-wei: Six Lectures Prepared for
+  the Visual Instruction Committee of the Colonial Office]
+
+Australasia, by Arthur John Sargent                                      61268
+
+The Surgery of the Skull and Brain, by L. Bathe Rawling                  61267
+
+Gertrud, by Hermann Hesse                                                61266
+ [Language: German]
+
+The Outlaws of Cave-in-Rock, by Otto A. Rothert                          61265
+ [Subtitle: Historical Accounts of the Famous
+  Highwaymen and River Pirates]
+
+The King's Mirror, by Anonymous                                          61264
+ [Subtitle: Speculum regale-Konungs skuggsjá]
+
+Cultural Exchange, by Keith Laumer                                       61263
+
+Poirot Investigates, by Agatha Christie                                  61262
+
+It's Fun to Sew a Cotton School Dress, by Anonymous                      61261
+
+It's Fun to Sew Aprons and Skirts, by Anonymous                          61260
+
+The Telephone in America, Bell Telephone System, by Anonymous            61259
+
+Avis au peuple sur sa santé, by Samuel Auguste Tissot                    61258
+ [Subtitle: ou traité des maladies les plus fréquentes]
+ [Language: French]
+
+World in a Mirror, by Albert Teichner                                    61257
+
+Tiikerien pyydystäjä, by Mayne Reid                                      61256
+ [Language: Finnish]
+
+Lectures on the Rise and Development of Mediaeval Architecture,          61255
+ Vol. 1, by Gilbert Scott
+
+Transient, by William Harris                                             61254
+
+Journeys to the Planet Mars or Our Mission to Ento, by Sara Weiss        61253
+
+Csataképek a magyar szabadságharczból, by Mór Jókai                      61252
+ [Language: Hungarian]
+
+The Life of Abraham Lincoln, by Harriet Putnam                           61251
+ [Subtitle: For Young People Told in Words of One Syllable]
+
+History Of The Origin Of Representative Government In Europe,            61250
+ by François Guizot
+
+Dæmonologia Sacra, or, A Treatise of Satan's Temptations,                61249
+ by Richard Gilpin
+ [Subtitle: In Three Parts]
+
+La terre du passé, by Anatole Le Braz                                    61248
+ [Language: French]
+
+Attila and His Conquerors, by Elizabeth Rundle Charles                   61247
+ [Subtitle: A Story of the Days of St. Patrick and St. Leo the Great]
+
+The Prisoners of Hartling, by John Davys Beresford                       61246 
+
+Sir Walter Scott, by Andrew Lang                                         61245
+
+Cosas que fueron, by Pedro Antonio de Alarcón                            61244
+ [Subtitle: Cuadros de costumbres]
+ [Language: Spanish]
+
+The Snowbank Orbit, by Fritz Leiber                                      61243
+
+The Winning of the Moon, by Kris Neville                                 61242
+
+Pentateuch, in Its Progressive Revelations of God to Men,                61241
+ by Henry Cowles
+
+History of Botany, 1530-1860, by Julius von Sachs                        61240
+
+Contes pour les bibliophiles, by Octave Uzanne                           61239
+ [Illustrator: Albert Robida]
+ [Language: French]
+
+The Diary of Delia, by Winnifred Eaton                                   61238
+ [Subtitle: Being a Veracious Chronicle,
+  with Some Side-Lights on the Parlour]
+ [Illustrator: May Wilson Preston]
+
+Varastettu sotilassalaisuus, by Arthur Conan Doyle                       61237
+ [Subtitle: Bruce-Partington piirustukset]
+ [Language: Finnish]
+
+Emily of New Moon, by Lucy Maud Montgomery                               61236
+
+Peter and Alexis, by Dmitri Merejkowski                                  61235
+ [Subtitle: The Romance of Peter the Great]
+
+Common-Sense Country, by L. S. Bevington                                 61234
+
+The Microscope. Its History, Construction, and Application, 15th ed.,    61233
+ by Jabez Hogg]
+ [Subtitle: Being a familiar introduction to the use of the
+  instrument, and the study of microscopical science]
+
+Pipestone National Monument, Junior Ranger Activity Booklet,             61232
+ by Anonymous
+ [Subtitle: Ages 8 and Up]
+
+George Washington Carver National Monument Junior Ranger                 61231
+ Activity Book (Plant Doctor), by Anonymous
+
+The Geology of Button Bay State Park, by Harry W. Dodge, Jr.             61230
+
+Holiday Frolics, Or, Endless Amusement For the Christmas Fireside,       61229
+ by Anonymous
+ [Subtitle: Containing, the Most Astonishing Feats of Legerdemain,
+  and Astounding Conjurings, Entertaining Experiments in Various
+  Branches of Science, Tricks With Cards & Dice, Art of Making
+  Fireworks, Together With an Excellent Collection of Puzzles,
+  Conundrums, Riddles, Charades, &C. &C., the Whole Admirably
+  Calculated to Beguile the Leisure Hours of Our Holiday Friends,
+  Embellished With a Copper-plate Engraving]
+
+The Big Headache, by Jim Harmon                                          61228
+
+Jacquou le Croquant, by Eugène Le Roy                                    61227
+ [Language: French]
+
+The Ark of 1803, by Charles Asbury Stephens                              61226
+ [Subtitle: A Story of Louisiana Purchase Times]
+ [Illustrator: H. Burgess]
+
+Two American Boys with the Dardanelles Battle Fleet, by Sherman Crockett 61225
+ [Illustrator: Charles L. Wrenn]
+
+Spanish John, by William McLennan                                        61224
+ [Illustrator: F. de Myrbach]
+
+The Man Farthest Down, by Booker T. Washington and Robert E. Page        61223
+ [Subtitle: A Record of Observation and Study in Europe]
+
+Mdlle. Riego's Crochet Book, by Eleònore Riego de la Branchardiere       61222
+ [Subtitle: Fourth Series]
+
+A Passage to India, by E. M. Forster                                     61221
+
+Religions of Primitive Peoples, by Daniel G. Brinton                     61220
+
+Central-Station Electric Lighting, by Killingworth Hedges                61219
+ [Subtitle: With Notes on the Methods Used
+  for the Distribution of Electricity]
+
+Capitaines Courageux, by Rudyard Kipling                                 61218
+ [Subtitle: Une histoire du banc de Terre-Neuve]
+ [Illustrator: Auguste François-Marie Gorguet]
+ [Language: French]
+
+1,492,633 Marlon Brandos, by Vance Aandahl                               61217
+
+Grenadier Guards in the Great War of 1914 - 1918, Vol. 2,                61216
+ by Frederick Ponsonby
+
+Trotwood's Monthly, Vol. 1, No. 6, March, 1906, by Various               61215
+
+Vuorisaarna, by Max Kretzer                                              61214
+ [Subtitle: Romaani nykyajalta]
+ [Language: Finnish]
+
+The 64-Square Madhouse, by Fritz Leiber                                  61213
+
+English as She is Taught, by Caroline B. Le Row                          61212
+ [Subtitle: Being Genuine Answers to Examination
+  Questions in our Public Schools]
+
+Boys of the Old Sea Bed, by Charles Allen McConnell                      61211
+ [Subtitle: Tales of Nature and Adventure]
+
+This Way to Christmas, by Ruth Sawyer                                    61210
+
+I Robinson italiani, by Emilio Salgari                                   61209
+ [Illustrator: G. Gamba]
+ [Language: Italian]
+
+Sydney Lisle, by Dorothea Moore                                          61208
+ [Subtitle: The Heiress of St. Quentin]
+ [Illustrator: Wal Paget]
+
+A Book for the Hammock, by William Clark Russell                         61207
+
+Kaukainen kevät, by L. Onerva                                            61206
+ [Subtitle: Runoja]
+ [Language: Finnish]
+
+The Principal Speeches and Addresses of His Royal Highness,              61205
+ Albert, the Prince Consort
+
+The Recruit, by Bryce Walton                                             61204
+
+Baum's Complete Stamp Dealers Directory, by L. Frank Baum                61203
+ [Subtitle: Containing a Complete List of All Dealers
+  in the United States, Together with the Principal Ones
+  of Europe, and a List of Philatelic Publications]
+
+Novelas ejemplares, by Miguel de Cervantes Saavedra                      61202
+ [Language: Spanish]
+
+Weeds, by Edith Summers Kelley                                           61201
+
+Thomas Berthelet, by Cyril Davenport                                     61200
+ [Subtitle: Royal Printer and Bookbinder to Henry VIII, King of England]
+
+A Bad Town for Spacemen, by Robert Scott                                 61199
+
+Aide Memoire, by Keith Laumer                                            61198
+	
+Sigismund Forster, by Ida Hahn-Hahn                                      61197
+ [Language: German]
+
+The Dawn of Modern Medicine, by Albert Henry Buck                        61196
+ [Subtitle: An Account of the Revival of the Science and Art
+  of Medicine Which Took Place in Western Europe During the
+  Latter Half of the Eighteenth Century and the First Part
+  of the Nineteenth]
+
+Diversions of a Naturalist, by Edwin Ray Lankester                       61195
+
+Maid Marian and Other Stories, by Molly Elliot Seawell                   61194
+
+Mr. Pickwick's Christmas, by Charles Dickens                             61193
+ [Subtitle: being an Account of the Pickwickians' Christmas at the
+  Manor Farm, of the Adventures There; the Tale of the Goblin
+  Who Stole a Sexton, and of the Famous Sports on the Ice]
+ [Illustrator: George Alfred Williams]
+
+A janicsárok végnapjai; A fehér rózsa, by Mór Jókai                      61192
+ [Language: Hungarian]
+
+Anaski, by Kauppis-Heikki                                                61191
+ [Language: Finnish]
+
+La Puto kaj la Pendolo, by Edgar Allan Poe                               61190
+ [Subtitle: Rakonto el la Hispana Inkvizicio]
+ [Language: Esperanto]
+
+El amor, el dandysmo y la intriga, by Pío Baroja                         61189
+ [Language: Spanish]
+
+Kansas University Quarterly, Vol. 1, No. 2, October 1892, by Various     61188
+
+All That Earthly Remains, by C. C. MacApp                                61187
+
+Gramp, by Charles V. De Vet                                              61186
+
+Common-Sense Papers on Cookery, by Arthur Gay Payne                      61185
+
+Proceedings of the California Academy of Sciences,                       61184
+ Volume 3, 1863-1867, by Various
+
+Weeds, by Pío Baroja                                                     61183
+
+The History of the Seven Wise Masters of Rome, by Various                61182
+ [Subtitle: Chap-Books and Folk-Lore Tracts, Vol. 2]
+
+Vers le pôle, by Fridtjof Nansen                                         61181
+ [Language: French]
+
+The Yellow Flag, Volume 3 of 3, by Edmund Yates                          61180
+ [Subtitle: A Novel]
+
+Viaggi di Gulliver nelle lontane regioni, by Jonathan Swift              61179
+ [Language: Italian]
+
+History of Indian and Eastern Architecture, by James Fergusson           61178
+
+The Red Glutton, by Irvin S. Cobb                                        61177
+ [Subtitle: With the German Army at the Front]
+
+An Historical Sketch of Sacerdotal Celibacy in the Christian Church,     61176
+ by Henry C. Lea
+
+Erik Autio, by John Stenius                                              61175
+ [Language: Finnish]
+
+Dick Merriwell's Day, by Burt L. Standish                                61174
+ [Subtitle: Iron Nerve]
+
+Misrule, by Robert Scott                                                 61173
+
+The Steel Flea, by Nikolai Semyonovitch Lyeskoff                         61172
+
+The Expendables, by Jim Harmon                                           61171
+
+The Pastor, by Hezekiah Harvey                                           61170
+ [Subtitle: His Qualifications and Duties]
+
+Essays on the Microscope, by George Adams                                61169
+ [Subtitle: Containing a Practical Description of the Most Improved
+  Microscopes, a General History of Insects, etc., etc.]
+
+The Man in the Brown Suit, by Agatha Christie                            61168
+
+It's Fun to Sew with a Sewing Machine, by Anonymous                      61167
+
+The Story of a Peninsular Veteran, by Anonymous                          61166
+ [Subtitle: Sergeant in the Forty-Third Light
+  Infantry, during the Peninsular War]
+
+The Roman Index of Forbidden Books, by Francis S. Betten                 61165
+
+Permalaisten uskonto, by Uno Harva                                       61164
+ [Author a.k.a. Uno Holmberg]
+ [Language: Finnish]
+
+The Wallypug of Why, by G. E. Farrow                                     61163
+ [Illustrators: Harry Furniss and Dorothy Furniss]
+
+Vénus dans le cloître, ou la religieuse en chemise, by Abbé Du Prat      61162
+ [Subtitle: Nouvelle édition enrichie de figures
+  gravées en taille douce]
+ [Language: French]
+
+The Saxons in England, Volume 1 of 2, by John Mitchell Kemble            61161
+ [Subtitle: A history of the English commonwealth
+  till the period of the Norman conquest]
+
+Par la faute de M. de Balzac, by André Maurois                           61160
+ [Language: French]
+
+Life of Octavia Hill as Told in Her Letters                              61159
+
+Death and Taxes, by H. A. Hartzell                                       61158
+
+The Hoplite, by Richard Sheridan                                         61157
+
+A Report Concerning the Colored Women of the South,                      61156
+ by E. C. Hobson and C. E. Hopkins
+ [Subtitle: Occasional Papers, No. 9]
+
+The Three Voyages of Captain Cook Round the World, Vol. 3 of 7,          61155
+ by James Cook and George Forster
+ [Subtitle: Being the First of the Second Voyage]
+
+Harper's Round Table, March 23, 1897, by Various                         61154
+
+Footprints of Famous Men, by John G. Edgar                               61153
+ [Subtitle: Designed as Incitements to Intellectual Industry]
+
+Four Minute Essays, Volume 10, by Frank Crane                            61152
+
+Good Form and Christian Etiquette, by S. M. I. Henry                     61151
+
+Stair-Building and the Steel Square, by Fred T. Hodgson                  61150
+ and Morris Williams
+ [Subtitle: A Manual of Practical Instruction in the Art of
+  Stair-Building and Hand-Railing, and the Manifold Uses of
+  the Steel Square]
+
+Further E. K. Means, by E. K. Means                                      61149
+ [Subtitle: Is This a Title? It Is Not. It Is the Name of a Writer
+  of Negro Stories, Who Has Made Himself So Completely the Writer
+  of Negro Stories That This Third Book, Like the First and
+  Second, Needs No Title]
+
+Hiwa: A Tale of Ancient Hawaii, by Edmund P. Dole                        61148
+
+The Day of Glory, by Dorothy Canfield Fisher                             61147
+
+Retief of the Red-Tape Mountain, by Keith Laumer                         61146
+
+Aucassin ja Nicolette, by Anonymous                                      61145
+ [Subtitle: Laulutarina]
+ [Language: Finnish]
+
+From the Black Mountain to Waziristan, by Harold Carmichael Wylly        61144
+ [Subtitle: Being an Account of the Border Countries
+  and the More Turbulent of the Tribes Controlled by
+  the North-west Frontier Province, and of Our
+  Military Relations With Them in the Past]
+
+Some Reflections Upon Marriage, by Mary Astell                           61143
+ [Subtitle: With additions]
+
+The Electric Man, by Charles Hannan                                      61142
+ [Subtitle: Being the One Act Version of the Three Act
+  Farcical Comedy of the Same Name]
+
+The Weird Picture, by John R. Carling                                    61141
+ [Illustrator: Cyrus Cuneo]
+
+Valkoiset sisaret, by Florence L. Barclay                                61140
+ [Subtitle: Tarina kahdenneltatoista vuosisadalta]
+ [Language: Finnish]
+
+The Madman From Earth, by Keith Laumer                                   61139
+
+Contact and Other Stories, by Frances Noyes Hart                         61138
+
+The Yellow Flag, Vol. 2 of 3, by Edmund Yates                            61137
+ [Subtitle: A Novel]
+
+E Being, by James Stamers                                                61136
+
+Out of Death's Shadow, by Nicholas Carter                                61135
+ [Subtitle: A Case Without a Precedent]
+
+Histoire du Consulat et de l'Empire, Vol. 12 of 20, by Adolphe Thiers    61134
+ [Subtitle: faisant suite à l''Histoire de la Révolution Française']
+ [Language: French]
+
+The Happy Homicide, by Frank Banta                                       61133
+
+The Archives of Dentistry, Vol. 7, No. 12, December 1890, by Various     61132
+
+Charles Dwight, or, the missionary's son, by Unknown                     61131
+
+Ritual of the Order of the Eastern Star, by Various                      61130
+
+Het Boschvolkje, by William J. Long                                      61129
+ [Illustrator: Charles Copeland]
+ [Language: Dutch]
+
+Seven-Day Terror, by R. A. Lafferty                                      61128
+
+London and Its Environs Described, Vol. 4 of 6, by Anonymous             61127
+ [Subtitle: Containing an Account of whatever is most remarkable
+  for Grandeur, Elegance, Curiosity or Use]
+
+Japan and the Pacific, by Manjiro Inagaki                                61126
+ [Subtitle: And a Japanese View of the Eastern Question]
+
+Historical Record of the Nineteenth or The First Yorkshire               61125
+ North Riding Regiment of Foot, by Richard Cannon
+ [Subtitle: Containing an account of the formation of the regiment
+  in 1688, and of its subsequent services to 1848]
+
+Psychoanalysis and Love, by André Tridon                                 61124
+
+Shafting, Pulleys, Belting and Rope Transmission, by Hubert E. Collins   61123
+ [Subtitle: The Power Handbooks Library]
+
+Letters from England, Vol. 1 of 3, by Don Manuel Alvarez Espriella       61122
+
+The Lay of the Sheriff, by Philip Lybbe Powys Lybbe                      61121
+
+The Legend of Monte della Sibilla, by Clive Bell                         61120
+ [Subtitle: or, Le paradis de la reine Sibille]
+
+Dangerous Quarry, by Jim Harmon                                          60119
+
+Westy Martin, by Percy Keese Fitzhugh                                    61118
+ [Illustrator: Richard A. Holberg]
+
+Mansikoita ja Mustikoita I, by Various                                   61117
+ [Language: Finnish]
+
+Pharos and Pharillon, by Edward Morgan Forster                           61116
+
+Captain Billy's Whiz Bang, Vol. 2, No. 23, August, 1921, by Various      61115
+ [Subtitle: America's Magazine of Wit, Humor and Filosophy]
+
+Westy Martin in the Yellowstone, by Percy Keese Fitzhugh                 61114
+ [Illustrator: Richard A. Holberg]
+
+The Natural History of Pliny, Vol. 4 of 6, by Pliny the Elder            61113
+
+A New Light of Alchymie, by Micheel Sandivogius and Paracelsus           61112
+ [Subtitle: Taken out of the Fountaine of Nature,
+  and Manuall Experience, Etc.]
+
+The Complete English Wing Shot, by G. T. Teasdale-Buckell                61111
+
+Tybalt, by Stephen Barr                                                  61110
+
+The Desire of Life, by Matilde Serao                                     61109
+
+Amori et dolori sacrum, by Maurice Barrès                                61108
+ [Subtitle: La Mort de Venise]
+ [Language: French]
+
+Tom Slade Picks a Winner, by Percy Keese Fitzhugh                        61107
+ [Illustrator: Howard L. Hastings]
+
+Mount Rushmore National Memorial, by Anonymous                           61106
+ [Subtitle: A monument commemorating the conception, preservation,
+  and growth of the great American republic]
+
+Begin to Knit, by Anonymous                                              61105
+ [Subtitle: American Thread Co. Star Book No. 201]
+
+George Washington Carver National Monument Junior Ranger                 61104
+ Activity Book, by Anonymous
+
+Kiel placas al vi, by William Shakespeare                                61103
+ [Subtitle: komedio en kvin aktoj]
+ [Language: Esperanto]
+
+The Valley of Squinting Windows, by Brinsley MacNamara                   61102
+
+Mensch und Erde, by Alfred Kirchhoff                                     61101
+ [Subtitle: Skizzen von den Wechselbeziehungen zwischen beiden]
+ [Language: German]
+
+Charles W. Quantrell, by Harrison Trow                                   61100
+ [Subtitle: A True Report of his Guerrilla Warfare
+  on the Missouri and Kansas Border During
+  the Civil Was of 1861 to 1865]
+
+Lumottu maa, by Ilmari Tulimaa                                           61099
+ [Subtitle: Kertomus nuorisolle]
+ [Language: Finnish]
+
+Wilhelm Hauffs sämtliche Werke in sechs Bänden, Vierter Band,            61098
+ by Wilhelm Hauff
+ [Language: German]
+
+The Frozen Planet, by Keith Laumer                                       61097
+
+Diamonds, by William Crookes                                             61096
+
+Ruotsalainen uhkapurjehtija, by Henrik af Trolle                         61095
+ [Subtitle: Historiallinen kertomus 1854 vuoden sota-ajan
+  muutamista tapahtumista Suomen vesillä ja rannoilla]
+ [Language: Finnish]
+
+Pee-wee Harris: Fixer, by Percy Keese Fitzhugh                           61094
+ [Illustrator: H. S. Barbour]
+
+The Yellow Flag, Vol. 1 of 3, by Edmund Yates                            61093
+ [Subtitle: A Novel]
+
+Nat the Navigator, by Henry Ingersoll Bowditch                           61092
+ [Subtitle: A Life of Nathaniel Bowditch. For Young Persons]
+
+L'oeuvre de John Cleland: Mémoires de Fanny Hill, femme de plaisir       61091
+ [Subtitle: Introduction, essai bibliographique
+  par Guillaume Apollinaire]
+ [Illustrator: William Hogarth]
+ [Language: French]
+
+Call Him Nemesis, by Donald E. Westlake                                  61090
+
+Roy Blakeley's Tangled Trail, by Percy Keese Fitzhugh                    61089
+ [Illustrator: H. S. Barbour]
+
+Œuvres complètes de Marmontel, tome 8, by Jean-François Marmontel        61088
+ [Subtitle: Les Incas, ou la destruction de l'empire du Pérou]
+ [Language: French]
+
+The Norwich Road, by Charles G. Harper                                   61087
+ [Subtitle: An East Anglian Highway]
+
+Matthew on Money, by Lawrence Keister                                    61086
+
+In Our Time, by Ernest Hemingway                                         61085
+
+The Standard Manual for Baptist Churches, by Edward Thurston Hiscox      61084
+
+The Assault on Mount Everest, 1922, by Charles Granville Bruce           61083
+
+Neddie and Beckie Stubtail (Two Nice Bears), by Howard R. Garis          61082
+ [Subtitle: Bedtime Stories]
+ [Illustrator: Louis Wisa]
+
+Cinderella Story, by Allen Kim Lang                                      61081
+
+Cherry & Violet, by Anne Manning                                         61080
+ [Subtitle: A Tale of the Great Plague]
+ [Illustrators: John Jellicoe and Herbert Railton]
+
+Snythergen, by Hal Garrott                                               61079
+ [Illustrator: Dugald Walker]
+
+The Inner Life, by Rufus M. Jones                                        61078
+
+The King of Elfland's Daughter, by Lord Dunsany                          61077
+
+On Everything, by Hilaire Belloc                                         61076
+
+Pelléas et Mélisande, by Maurice Maeterlinck                             61075
+ [Subtitle: Drame lyrique en cinq actes tiré du théâtre
+  de Maurice Maeterlinck Musique de Claude Debussy]
+ [Language: French]
+
+Chains and Freedom, by Charles Edwards Lester                            61074
+ [Subtitle: or, The Life and Adventures
+  of Peter Wheeler, a Colored Man Yet Living]
+
+Südamerika, by Colin Ross                                                61073
+ [Subtitle: die aufsteigende Welt]
+ [Language: German]
+
+Our Street, by M. A. Titmarsh                                            61072
+
+The Constitutional Amendment: or, The Sunday, the Sabbath,               61071
+ the Change, and Restitution, by Wolcott H. Littlejohn
+ [Subtitle: A discussion between W. H. Littlejohn, Seventh-day
+  Adventist, and the editor of the Christian Statesman]
+
+Poems of Adoration, by Michael Field, Katherine Bradley, and Emma Cooper 61070
+
+
+

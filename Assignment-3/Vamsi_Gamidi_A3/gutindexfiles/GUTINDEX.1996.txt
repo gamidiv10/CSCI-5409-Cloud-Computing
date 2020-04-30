@@ -1,0 +1,1872 @@
+﻿This is the file GUTINDEX.1996
+
+Last Updated on April 5, 2018
+
+See the file GUTINDEX.ALL for all Project Gutenberg eBooks.
+
+
+                         -=] INTRODUCTION [=-
+
+GUTINDEX.1996 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between January 1, 1971 and December 31, 1996
+beginning with eBook number 1 and ending with eBook number 768.
+
+It is not a database, but it is useful for identifying eBooks so that they
+can be downloaded or read online.
+
+
+HOW TO GET EBOOKS FROM PROJECT GUTENBERG
+
+The easiest and quickest way to obtain one specific eBook is via our search
+page at
+
+       http://www.gutenberg.org/catalog/world/search
+
+where you can search by the eBook number for the particular book you want.
+
+Other search engines at Project Gutenberg will provide you with more
+information on more books by the same author using the same ebook
+number, such as:
+
+          http://www.gutenberg.org/ebooks/
+
+or by author's name:
+
+      http://www.gutenberg.org/browse/authors/a
+
+
+ONLINE DATABASE
+
+The online database can be accessed at
+
+ http://www.gutenberg.org/catalog/
+
+
+HOW TO DOWNLOAD AN EBOOK TO YOUR MOBILE DEVICE
+
+If your device is Internet-enabled, just visit the catalog page for a book
+and download one of the available formats that your device can display. If
+your device is not Internet-enabled, then download to a computer and transfer
+the book's file to your device using a USB cable or similar method. If your
+device utilizes a different format from those available at Project Gutenberg
+you will have to obtain an app to convert your ebook to your device's format.
+
+
+SITE MAP
+
+If you're interested, here is the Site Map to Project Gutenberg:
+
+          http://www.gutenberg.org/
+
+
+MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the
+world and you can select one nearer to your location from the link on the
+search results page. However, if you have access to the world wide web
+(www) the direct links above are much simplier.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://www.gutenberg.org/MIRRORS.ALL
+
+Copy the URL of your choice and paste it in a new tab in your browser and
+tap the "Enter" key on your keyboard.
+
+
+DIRECT ACCESS
+
+To directly access the file directories:
+
+  http://www.gutenberg.org/dirs/
+    - or -
+  ftp://www.gutenberg.org/pub/docs/books/gutenberg/
+
+
+PLAIN TEXT
+
+Whenever possible, Project Gutenberg distributes a plain text version of an eBook
+(.txt) in addition to several other choices. We stress the inclusion of plain
+text because it is the "lowest common denominator" of formats and for its
+longevity. Since Project Gutenberg began, dozens of widely used file formats have
+come and gone, but the text format still remains. Text is accessible on all
+computers and is insurance against future obsolescence.
+
+The only times when Project Gutenberg distributes an eBook without a plain text
+version are when plain text is impossible or impractical -- for example, for our
+videos and MP3 audio files, and for some of our mathematical works.
+
+     (Please note that files ending in .tex are mainly technical writings
+      in TeX or LaTeX format, and should not be confused with text files.)
+
+
+ZIP FILES
+
+Files ending in .zip are compressed using the Zip method. This saves space
+and should result in faster downloads. Many include images or support files.
+Whenever practical, Project Gutenberg files are available as a zipped file.
+These files will be found under "More Files..." on the ebook download page.
+
+
+CORRECTIONS
+
+To report an error in the listings, please email to help2018@pglaf.org and
+include the word CORRECTION in the subject line.
+
+
+SUBMITTING NEW EBOOKS
+
+If you are considering adding a new eBook to the Project Gutenberg
+collection, Please make sure that any books you want to work on are _not_
+already in the collection.  To see what is already online, refer to the
+listing below.  Also, please be sure to check David Price's "In Progress"
+list at:
+
+  http://pglaf.org/~ccx074/gutip.html
+
+to ensure no one is currently working on your selection.
+
+
+COPYRIGHT CLEARANCE
+
+It would also be helpful if you obtain copyright clearance prior to submitting
+books. More information on this can be found at:
+
+  http://www.gutenberg.org/
+
+
+APPENDIX
+
+Please see the Appendix at the end of each eBook catalog for some
+general comments and clarification.
+
+
+                               <==LISTINGS==>
+
+**** A "C" Following a Project Gutenberg eBook Number Indicates Copyright ****
+
+   **** The Language of the eBooks is English, unless otherwise noted ****
+
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Jan 1971 to 31 Dec 1996 ~ ~ ~ ~
+
+TITLE and AUTHOR                                                     ETEXT NO.
+
+Wuthering Heights, by Emily Brontë                                         768
+
+Agnes Grey, by Anne Brontë                                                 767
+
+David Copperfield, by Charles Dickens                                      766
+
+The Moon Pool, by A. Merritt                                               765
+
+Hans Brinker; or, the Silver Skates by Mary Mapes Dodge                    764
+
+The Round-up, by John Murray and Marion Mills Miller                       763
+ [Subtitle: A Romance of Arizona novelized
+  from Edmund Day's melodrama]
+
+British Airships, Past, Present, and Future, by George Whale               762
+
+A. V. Laider, by Max Beerbohm                                              761
+
+Enoch Soames, by Max Beerbohm                                              760
+ [Subtitle: A Memory of the Eighteen-nineties]
+
+James Pethel, by Max Beerbohm                                              759
+
+LandSat Picture of Washington, D.C., by the United States                  758
+ National Aeronautics and Space Administration
+
+50 Bab Ballads, by William. S. Gilbert                                     757
+
+Arizona Sketches, by Joseph A. Munk                                        756
+
+A Lady's Life in the Rocky Mountains, by Isabella L. Bird                  755
+
+The Story of Mankind, by Hendrik van Loon                                  754
+
+Arizona Nights, by Stewart Edward White                                    753
+
+A Young Girl's Diary, by An Anonymous Young Girl                           752
+ [Note: Prefaced by a letter from Sigmund Freud]
+
+Autocrat of Breakfast Table, Oliver Wendell Holmes                         751
+
+High History of the Holy Graal, by Unknown                                 750
+
+Barlaam and Ioasaph, by St. John of Damascus                               749
+
+The Brother of Daphne, by Dornford Yates                                   748
+
+Anomalies and Curiosities of Medicine, by George M. Gould                  747
+ and Walter Lytle Pyle
+
+Burning Daylight, by Jack London                                           746
+
+One divided by Pi (to 1 million digits), by Yasumasa Kanada                745
+
+The Golden Mean, by Jerry Bonnell and Robert Nemiroff                      744
+
+Thoughts on Man, His Nature, etc, by William Godwin                        743
+
+Editorials from the Hearst Newspapers, by Arthur Brisbane                  742
+
+Thomas Hart Benton's Remarks to the Senate on the                          741
+ Expunging Resolution, by Thomas Hart Benton
+
+Remarks of Mr. Calhoun of South Carolina on the bill to                    740
+ prevent the interference of certain federal officers in
+ elections: delivered in the Senate of the United States
+ February 22, 1839, by John C. Calhoun
+
+Henry Clay's Remarks in House and Senate                                   739
+
+The Puzzle of Dickens's Last Plot, by Andrew Lang                          738
+
+The Bobbsey Twins at School, by Laura Lee Hope                             737
+
+The History of The Decline and Fall of the Roman Empire, Vol. 6,           736
+ by Edward Gibbon
+
+The History of The Decline and Fall of the Roman Empire, Vol. 5,           735
+ by Edward Gibbon
+
+The History of The Decline and Fall of the Roman Empire, Vol. 4,           734
+ by Edward Gibbon
+
+The History of The Decline and Fall of the Roman Empire, Vol. 3,           733
+ by Edward Gibbon
+
+The History of The Decline and Fall of the Roman Empire, Vol. 2,           732
+ by Edward Gibbon
+
+The History of The Decline and Fall of the Roman Empire, Vol. 1,           731
+ by Edward Gibbon
+
+Oliver Twist, by Charles Dickens                                           730
+
+Hackers, Heroes of the Computer Revolution, by Stephen Levy                729C
+ [Note: Chapters 1 and 2 only]
+
+Emile Zola, by William Dean Howells                                        728
+
+The Star-Spangled Banner, by John A. Carpenter                             727
+
+Psychological Counter-current in Recent Fiction,by William Dean Howells    726
+
+Men of Invention and Industry, by Samuel Smiles                            725
+
+The Man of Letters as a Man of Business, by William Dean Howells           724
+
+Henry James, Jr., by William Dean Howells                                  723
+
+James Otis The Pre-Revolutionist, by J. C. Ridpath                         722
+
+The Birds' Christmas Carol, by Kate Douglas Wiggin                         721
+
+Almayer's Folly, by Joseph Conrad                                          720
+ [Subtitle: A Story of an Eastern River]
+
+The Plays of W. E. Henley and Robert Louis Stevenson                       719
+
+Tono Bungay, by H. G. Wells                                                718
+
+Chita: A Memory of Last Island, by Lafcadio Hearn                          717
+
+The Cruise of the Jasper B., by Don Marquis                                716
+
+The Moon Endureth--Tales and Fancies, by John Buchan                       715
+
+The Bobbsey Twins in the Country, by Laura Lee Hope                        714
+
+Memoirs of Extraordinary Popular Delusions, Vol. 2, by Charles Mackay      713
+
+Thomas Jefferson, by Edward S. Ellis                                       712
+
+Allan Quatermain, by H. Rider Haggard                                      711
+
+Love of Life, by Jack London                                               710
+ [Subtitle: and Other Stories]
+ [Illustrator: Charles Livingston Bull]
+
+The Princess and the Curdie, by George MacDonald                           709
+
+The Princess and the Goblin, by George MacDonald                           708
+
+Raffles, by E. W. Hornung                                                  707
+ [Subtitle: Further Adventures of the Amateur Cracksman]
+
+The Amateur Cracksman, by E. W. Hornung                                    706
+
+The Roadmender, by Michael Fairless                                        705
+
+The Mansion, by Henry Van Dyke                                             704
+
+Lucasta, by Richard Lovelace                                               703
+
+Somebody's Little Girl, by Martha Young                                    702
+
+The King of the Golden River, by John Ruskin                               701
+ [Subtitle: A Short Fairy Tale]
+
+The Old Curiosity Shop, by Charles Dickens                                 700
+
+A Child's History of England, by Charles Dickens                           699
+ [Illustrator: F. H. Townsend]
+
+Memoir of Fleeming Jenkin, by Robert Louis Stevenson                       698
+
+The Light Princess, by George MacDonald                                    697
+
+The Castle of Otranto, by Horace Walpole                                   696
+
+Glaucus, by Charles Kingsley                                               695
+ [Subtitle: The Wonders of the Shore]
+
+Stories From the 1910 issues of Everybody's Magazine, by Various           694
+
+Autobiography of a Quack And The Case of George Dedlow, by S. W. Mitchell  693
+
+Complete Works of James Whitcomb Riley, Vol. 10                            692
+
+Complete Works of James Whitcomb Riley, Vol. 1                             691
+
+Proposed Roads to Freedom, by Bertrand Russell                             690
+
+The Kreutzer Sonata and Other Stories, by Leo Tolstoi                      689
+
+The Goodness of St. Rocque and Other Stories, by Alice Dunbar              688
+
+A Personal Record, by Joseph Conrad                                        687
+
+The Treaty of the European Union                                           686
+ [Subtitle: Signed at Maastricht on the seventh day of February 1992]
+
+The Atomic Bombings of Hiroshima and Nagasaki,                             685
+ by The Manhattan Engineer District of the United States Army
+
+Worldwide Effects of Nuclear War: Some Perspectives,                       684
+ by the United States Arms Control and Disarmament Agency
+
+The Compleat Angler, by Izaak Walton                                       683
+
+Catalan's Constant, by Greg Fee                                            682
+ [a.k.a. Ramanujan's Formula]
+
+Creatures that once were Men, by Maxim Gorky                               681
+
+The Golden Threshold, by Sarojini Naidu                                    680
+
+Poems, by Frances E. W. Harper                                             679
+
+The Cricket on the Hearth, by Charles Dickens                              678
+ [Subtitle: A Fairy Tale of Home]
+
+Heroes, or Greek Fairy Tales, by Charles Kingsley                          677
+ [Subtitle: For My Children]
+
+The Battle of Life, by Charles Dickens                                     676
+
+American Notes for General Circulation, by Charles Dickens                 675
+ [Illustrator: Marcus Stone]
+
+Lives of the noble Grecians and Romans, by Plutarch                        674
+
+The Gutenberg Webster's Unabridged Dictionary by Project Gutenberg         673C
+
+The Secret Guide to Computers, by Russ Walter                              672C
+
+Phil the Fiddler, by Horatio Alger, Jr.                                    671
+
+The Gutenberg Webster's Unabridged Dictionary [X-Z]                        670C
+
+The Gutenberg Webster's Unabridged Dictionary [T-W]                        669C
+
+The Gutenberg Webster's Unabridged Dictionary [S]                          668C
+
+The Gutenberg Webster's Unabridged Dictionary [R]                          667C
+
+The Gutenberg Webster's Unabridged Dictionary [P-Q]                        666C
+
+The Gutenberg Webster's Unabridged Dictionary [M-O]                        665C
+
+The Gutenberg Webster's Unabridged Dictionary [I-L]                        664C
+
+The Gutenberg Webster's Unabridged Dictionary [F-H]                        663C
+
+The Gutenberg Webster's Unabridged Dictionary [D-E]                        662C
+
+The Gutenberg Webster's Unabridged Dictionary [C]                          661C
+
+The Gutenberg Webster's Unabridged Dictionary [A-B]                        660C
+
+Paul the Peddler, by Horatio Alger, Jr                                     659
+ [Subtitle: The Fortunes of a Young Street Merchant]
+
+The Fall of Troy, by Smyrnaeus Quintus                                     658
+
+The Anglo-Saxon Chronicle, by Unknown                                      657
+
+Life of Robert Browning, by William Sharp                                  656
+
+Life and Letters of Robert Browning, by Mrs. Sutherland Orr                655
+
+Grace Abounding to the Chief of Sinners, by John Bunyan                    654
+ [Illustrator: Harold Copping]
+
+The Chimes, by Charles Dickens                                             653
+
+Rasselas, by Samuel Johnson                                                652
+ [Subtitle: Prince of Abyssinia]
+
+Phantasmagoria, by Lewis Carroll                                           651
+ [Subtitle: and Other Poems]
+ [Illustrator: Arthur B. Frost]
+
+Pictures from Italy, by Charles Dickens                                    650
+ [Illustrator: Marcus Stone]
+
+Ancient Poems, Ballads and Songs of the Peasantry of England,              649
+ by Anonomous
+
+Wild Wales, by George Borrow                                               648
+
+The Dynamiter, by Robert Louis Stevenson                                   647
+ and Fanny van de Grift Stevenson
+
+The Coral Island, a Tale of the Pacific Ocean, by R. M. Ballantyne         646
+ [Illustrator: Dalziel]
+
+The Figure in the Carpet, by Henry James                                   645
+
+The Haunted Man and the Ghost's Bargain, by Charles Dickens                644
+
+The Death of the Lion, by Henry James                                      643
+
+The Altar of the Dead, by Henry James                                      642
+
+The Violet Fairy Book, by Various                                          641
+
+The Yellow Fairy Book, by Various                                          640
+
+God-Idea of the Ancients, by Eliza Burt Gamble                             639
+
+An Outcast of the Islands, by Joseph Conrad                                638
+
+The Letters of Robert Louis Stevenson, Vol. 2 of 2                         637
+
+Memoirs of Extraordinary Popular Delusions, by Charles Mackay              636
+
+The Square Root of 10, by Robert Nemiroff and Jerry Bonnell                635
+
+Miscellaneous Mathematical Constants, by Various                           634
+
+The Golden Mean or Ratio [(1 + sqrt 5/2)], by Anonymous                    633
+ [Subtitle: to 20,000 places]
+
+The Square Root of 8, by Robert Nemiroff and Jerry Bonnell                 632
+
+The Square Root of 7, by Robert Nemiroff and Jerry Bonnell                 631
+
+The Square Root of 6, by Robert Nemiroff and Jerry Bonnell                 630
+
+The Square Root of 5, by Robert Nemiroff and Jerry Bonnell                 629
+
+The Square Root of 3, by Robert Nemiroff and Jerry Bonnell                 628
+
+Essays of Travel, by Robert Louis Stevenson                                627
+
+The Philobiblon of Richard de Bury, by Richard de Bury                     626
+
+Ponkapog Papers, by Thomas Bailey Aldrich                                  625
+
+Looking Backwards from 2000 to 1887, by Edward Bellamy                     624
+
+The Battle of the Books, and Other Short Pieces, by Jonathan Swift         623
+
+Letters of Robert Louis Stevenson, Volume 1                                622
+
+The Varieties of Religious Experiance, by William James                    621
+ [Subtitle: A Study in Human Nature]
+
+Sylvie and Bruno, by Lewis Carroll                                         620
+
+The Warden, by Anthony Trollope                                            619
+
+Codex Junius 11, by Unknown                                                618
+
+Poems, by Alan Seeger                                                      617
+
+Prayers Written At Vailima, and A Lowden Sabbath Morn,                     616
+ by Robert Louis Stevenson
+
+Orlando Furioso, by Lodovico Ariosto                                       615
+
+Across the Plains, by Robert Louis Stevenson                               614
+ [Subtitle: with other memories and essays]
+
+The Constitution of the Empire of Japan, 1889                              613
+
+The Constitution of Japan, 1946                                            612
+
+Prester John, by John Buchan                                               611
+
+Idylls of the King, by Alfred, Lord Tennyson                               610
+
+America Through the Spectacles of an Oriental Diplomat, by Wu Tingfang     609
+
+Areopagitica, by John Milton                                               608
+ [Subtitle: A Speech For The Liberty Of Unlicensed
+  Printing To The Parliament Of England]
+
+The Augsberg Confession, by Philip Melancthon                              607
+ [Languages: Latin and German]
+
+Indian Why Stories, by Frank Bird Linderman                                606
+
+Pellucidar, by Edgar Rice Burroughs                                        605
+
+Gulliver of Mars, by Edwin L. Arnold                                       604
+
+Letters of George Borrow, by George Borrow                                 603
+ [Subtitle: to the British and Foreign Bible Society]
+
+Pharsalia; Dramatic Episodes of the Civil Wars, by Lucan                   602
+ [Author a.k.a. Marcus Annaeus Lucanus]
+
+The Monk, a romance, by M. G. Lewis                                        601
+
+Notes from the Underground, by Feodor Dostoevsky                           600
+
+Vanity Fair, by William Makepeace Thackeray                                599
+
+Heimskringla, or the Chronicle of the Kings of Norway, by Snorri Sturluson 598
+
+Njal's Saga, by Unknown                                                    597
+
+Rivers to the Sea, by Sara Teasdale                                        596
+
+The Sisters' Tragedy, by Thomas Bailey Aldrich                             595
+
+Twilight Stories, by Various                                               594
+
+Selected Writings of Guy de Maupassant, Volume 1                           593
+
+The Chinese Nightingale and Other Poems, by Vachel Lindsay                 592
+
+Flame and Shadow, by Sara Teasdale                                         591
+
+Robert Louis Stevenson, by Alexander H. Japp                               590
+ [Subtitle: a Record, an Estimate, and a Memorial]
+
+Catriona, by Robert Louis Stevenson                                        589
+
+Master Humphrey's Clock, by Charles Dickens                                588
+
+Danny's Own Story, by Don Marquis                                          587
+
+Religio Medici, Hydriotaphia, et al, by Thomas Browne                      586
+
+Running a Thousand Miles for Freedom, by William and Ellen Craft           585
+
+Our Nig, by Harriet E. Wilson                                              584
+
+The Woman in White, by Wilkie Collins                                      583
+
+A Collection of Beatrix Potter Stories,                                    582
+
+Ginx's Baby, A Satire, by Edward Jenkins                                   581
+
+The Pickwick Papers, by Charles Dickens                                    580
+
+The Poems of Sidney Lanier                                                 579
+
+Down with the Cities, by Tadashi Nakashima                                 578C
+
+The Works of Samuel Johnson, Vol. 4 of 16,                                 577
+
+The Project Gutenberg Web Pages                                            576
+
+Essays of Francis Bacon                                                    575
+
+Poems of William Blake                                                     574
+
+Tales from Shakespeare, by Charles and Mary Lamb                           573
+
+The Great Big Treasury of Beatrix Potter                                   572
+
+1995 CIA World Factbook, by United States Central Intelligence Agency      571
+
+The Moravians in Georgia, by Adelaide L. Fries                             570
+
+The Complete Works of Brann, the Iconoclast, Vol. 12,                      569
+ by William Cowper Brann
+
+The Complete Works of Brann, the Iconoclast, Vol. 10,                      568
+ by William Cowper Brann
+
+The Complete Works of Brann, the Iconoclast, Vol. 1,                       567
+ by William Cowper Brann
+
+The History of the Thirty Years' War, by Friedrich Schiller                566
+
+Zincali, Gypsies of Spain by George Borrow                                 565
+
+The Mystery of Edwin Drood, by Charles Dickens                             564
+
+The Planet Mars and its Inhabitants, by Eros Urides and J. L. Kennon       563
+ [Subtitle: A Psychic Revelation]
+
+The Go Ahead Boys and the Racing Motorboat, by Ross Kay                    562
+
+The Further Adventures of Robinson Crusoe, by Daniel Defoe                 561
+
+Mr. Standfast, by John Buchan                                              560
+
+Greenmantle, by John Buchan                                                559
+
+The Thirty-nine Steps, by John Buchan                                      558
+
+Puck of Pook's Hill, by Rudyard Kipling                                    557
+
+Rewards and Fairies, by Rudyard Kipling                                    556
+
+The Unbearable Bassington, by Saki                                         555
+
+The Contrast, by Royall Tyler                                              554
+
+Out of Time's Abyss, by Edgar Rice Burroughs                               553
+
+The People That Time Forgot, by Edgar Rice Burroughs                       552
+
+The Land That Time Forgot, by Edgar Rice Burroughs                         551
+
+Silas Marner, by George Eliot                                              550
+ [Subtitle: The Weaver of Raveloe]
+ [Author a.k.a. Mary Anne Evans, Mary Ann Evans and Marian Evans]
+
+The Underdogs, by Mariano Azuela                                           549
+
+Project Trinity 1945-1946, by Carl Maag and Steve Rohrer                   548
+
+Baron Trigault's Vengeance, Vol. 2 of 2, by Emile Gaboriau                 547
+
+Under the Andes, by Rex Stout                                              546
+
+At the Earth's Core, by Edgar Rice Burroughs                               545
+
+Anne's House of Dreams, by Lucy Maud Montgomery                            544
+
+Main Street, by Sinclair Lewis                                             543
+
+The Life of Me, by Clarence Edgar Johnson                                  542C
+ [Subtitle: An Autobiography]
+
+The Age of Innocence, by Edith Wharton                                     541
+
+The Red Fairy Book, by Various                                             540
+
+Biographical Study of A. W. Kinglake, by Rev. W. Tuckwell                  539
+
+Jean of the Lazy A, by B. M. Bower                                         538
+
+Tales of Terror and Mystery, by Arthur Conan Doyle                         537
+
+A Footnote to History, by Robert Louis Stevenson                           536
+ [Subtitle: Eight Years of Trouble in Samoa]
+
+Travels with a Donkey in the Cevennes, by Robert Louis Stevenson           535
+ [Illustrator: Walter Crane]
+
+An Inland Voyage, by Robert Louis Stevenson                                534
+ [Illustrator: Walter Crane]
+
+The Song of the Cardinal, by Gene Stratton-Porter                          533
+
+At the Foot of the Rainbow, by Gene Stratton-Porter                        532
+
+The Gaming Table, Vol. 2, by Andrew Steinmetz                              531
+
+Driven From Home, by Horatio Alger                                         530
+ [Subtitle: Carl Crawford's Experience]
+
+Knights of Art, by Amy Steedman                                            529
+ [Subtitle: Stories of the Italian Painters]
+
+Joe The Hotel Boy, by Horatio Alger Jr                                     528
+
+End of the Tether, by Joseph Conrad                                        527
+
+Heart of Darkness, by Joseph Conrad                                        526
+
+Youth, by Joseph Conrad                                                    525
+
+Ann Veronica, by H. G. Wells                                               524
+
+Court Life in China, by Isaac Taylor Headland                              523
+
+The Chinese Boy and Girl, by Isaac Taylor Headland                         522
+
+Robinson Crusoe, by Daniel Defoe                                           521
+
+The Life and Adventures of Santa Claus, by L. Frank Baum                   520
+
+A Kidnapped Santa Claus, by L. Frank Baum                                  519
+
+The Enchanted Island of Yew, by L. Frank Baum                              518
+
+The Emerald City of Oz, by L. Frank Baum                                   517
+
+The Silverado Squatters, by Robert Louis Stevenson                         516
+ [Illustrator: Joseph D. Strong]
+
+Margret Howth, A Story of To-day, by Rebecca Harding Davis                 515
+
+Little Women, by Louisa May Alcott                                         514
+
+The Snow Image and Other Stories, by Nathaniel Hawthorne                   513
+
+Mosses from an Old Manse and Other Stories, by Nathaniel Hawthorne         512
+
+The Purcell Papers, Vol. 3 of 3, by Joseph Sheridan Le Fanu                511
+
+The Purcell Papers, Vol. 2 of 3, by Joseph Sheridan Le Fanu                510
+
+The Purcell Papers, Vol. 1 of 3, by Joseph Sheridan Le Fanu                509
+
+Twice-Told Tales, by Nathaniel Hawthorne                                   508
+
+Adam Bede, by George Eliot                                                 507
+
+The Shuttle, by Frances Hodgson Burnett                                    506
+
+History of the Warfare of Science with Theology in Christendom,            505
+ by Andrew Dickson White
+
+The Fifth String, The Conspirators, by John Philip Sousa                   504
+
+The Blue Fairy Book, by Andrew Lang                                        503
+
+Desert Gold, by Zane Grey                                                  502
+
+The Story of Doctor Dolittle, by Hugh Lofting                              501
+ [Subtitle: Being the History of His Peculiar
+  Life at Home and Astonishing Adventures in
+  Foreign Parts. Never before Printed.]
+
+Adventures of Pinocchio, by C. Collodi                                     500
+ [Author a.k.a. Carlo Lorenzini]
+
+Tom Swift in the Land of Wonders, by Victor Appleton                       499
+ [Subtitle: or, The Underground Search for the Idol of Gold]
+
+Rebecca of Sunnybrook Farm, by Kate Douglas Wiggin                         498
+
+Tracks of a Rolling Stone, by Henry J. Coke                                497
+
+The Little Lame Prince, by Miss Mulock (Pseud. of Maria Dinah Craik)       496
+
+Amy Foster, by Joseph Conrad                                               495
+
+To-morrow, by Joseph Conrad                                                494
+
+Falk, by Joseph Conrad                                                     493
+
+Essays in the Art of Writing, by Robert Louis Stevenson                    492
+
+Rezanov, by Gertrude Atherton                                              491
+
+Life and Adventures of Calamity Jane, by Calamity Jane                     490
+
+One Basket, by Edna Ferber                                                 489
+
+She Stands Accused, by Victor MacClure                                     488
+
+Songs of Travel by Robert Louis Stevenson                                  487
+
+Ozma of Oz, by L. Frank Baum                                               486
+
+The Road to Oz, by L. Frank Baum                                           485
+
+Poor and Proud, by Oliver Optic                                            484
+ [Subtitle: or The Fortunes of Katy Redburn]
+
+The Conquest of Canaan, by Booth Tarkington                                483
+
+The Woodlanders, by Thomas Hardy                                           482
+
+In the Bishop's Carriage, by Miriam Michelson                              481
+
+Undo, by Joe Hutsko                                                        480C
+
+Little Lord Fauntleroy, by Frances Hodgson Burnett                         479
+
+The Cost, by David Graham Phillips                                         478
+
+Criminal Sociology by Enrico Ferri                                         477
+
+James Nasmyth: Engineer, An Autobiography                                  476
+
+In Darkest England and The Way Out, by General Booth                       475
+
+How to Tell Stories to Children, by Sara Cone Bryant                       474
+ [Subtitle: And Some Stories to Tell]
+
+Stories to Tell to Children, by Sara Cone Bryant                           473
+
+The House Behind the Cedars, by Charles W. Chesnutt                        472
+
+Bride of Lammermoor, by Sir Walter Scott                                   471
+
+Heretics, by Gilbert K. Chesterton                                         470
+
+The Duchesse de Langeais, by Honore de Balzac                              469
+
+Manon Lescaut, by Abbe Prevost                                             468
+
+The Princess of Cleves, by Madame de Lafayette                             467
+
+The Gaming Table: Its Votaries and Victims, by Andrew Steinmetz            466
+
+The Mountains, by Stewart Edward White                                     465
+
+In the South Seas, by Robert Louis Stevenson                               464
+
+The Red Badge of Courage, by Stephen Crane                                 463
+ [Subtitle: An Episode of the American Civil War]
+
+The Errand Boy, by Horation Alger                                          462
+ [Subtitle: or, How Phil Brent Won Success]
+
+The Quest of the Golden Girl, by Richard le Gallienne                      461
+
+The Dawn of a To-morrow, by Frances Hodgson Burnett                        460
+ [Illustrator: F. C. Yohn]
+
+The White People, by Frances Hodgson Burnett                               459
+
+Dreams and Dust, by Don Marquis                                            458
+
+The Price She Paid, by David Graham Phillips                               457
+
+The Door in the Wall And Other Stories, by H. G. Wells                     456
+
+The University of Hard Knocks, by Ralph Parlette                           455
+
+The Breitmann Ballads, by Charles G. Leland                                454
+
+Emma McChesney & Co., by Edna Ferber                                       453
+
+Lavengro, by George Borrow                                                 452
+ [Subtitle: The Scholar, The Gypsy, The Priest]
+ [Illustrator: E. J. Sullivan]
+
+The Shadow Line, by Joseph Conrad                                          451
+ [Subtitle: A Confession]
+
+Susan Lenox: Her Fall and Rise, by David Graham Phillips                   450
+
+Pathology of Lying, Etc. by William and Mary Healy                         449
+
+The Psychology of Revolution, by Gustave le Bon                            448
+
+Maggie: A Girl of the Streets, by Stephen Crane                            447
+
+A Book of Remarkable Criminals, by H. B. Irving                            446
+
+The Crowd, Study of Popular Mind, by Gustave le Bon                        445
+
+The Philosophy of Misery, by P. J. Proudhon                                444
+
+The Love Affairs of a Bibliomaniac, by Eugene Field                        443
+
+Love Songs, by Sara Teasdale                                               442
+
+New Poems, by Robert Louis Stevenson                                       441
+ [Subtitle: and Variant Readings]
+
+Just David, by Eleanor H. Porter                                           440
+
+The Vital Message, by Arthur Conan Doyle                                   439
+
+Underwoods, by Robert Louis Stevenson                                      438
+
+Life of Lazarillo of Tormes, Parts 1 and 2, by Lazarillo of Tormes         437C
+ [Subtitle: His Fortunes and Misfortunes as told by himself]
+
+The Master Key, by L. Frank Baum                                           436
+ [Subtitle: An Electrical Fairy Tale]
+
+The Miracle Mongers, an Expose, by Harry Houdini                           435
+
+The Circular Staircase, by Mary Roberts Rinehart                           434
+
+The Conflict, by David Graham Phillips                                     433
+
+The Ambassadors, by Henry James                                            432
+
+The Fortune Hunter, by David Graham Phillips                               431
+
+The Grain Of Dust, by David Graham Phillips                                430
+ [Subtitle: A Novel]
+ [Illustrator: A. B. Wenzell]
+
+The Magic Egg and Other Stories, by Frank Stockton                         429
+
+Frivolous Cupid, by Anthony Hope                                           428
+
+The Great War Syndicate, by Frank Stockton                                 427
+
+Tales and Fantasies, by Robert Louis Stevenson                             426
+
+Familiar Studies of Men and Books, by Robert Louis Stevenson               425
+
+General William Booth Enters Into Heaven & Other Poems, by Vachel Lindsay  424
+
+Round the Red Lamp, by Arthur Conan Doyle                                  423
+ [Subtitle: Being Facts and Fancies of Medical Life]
+
+The Romany Rye, by George Borrow                                           422
+
+Kidnapped, by Robert Louis Stevenson                                       421
+
+Dorothy and the Wizard in Oz, by L. Frank Baum                             420
+
+The Magic of Oz, by L. Frank Baum                                          419
+
+A Treatise on Good Works, by Dr. Martin Luther                             418
+
+The Hymns and Small Cathechism of Martin Luther                            417
+
+Winesburg, Ohio, by Sherwood Anderson                                      416
+
+The Bible in Spain, by George Borrow                                       415
+
+The Pageant of Summer, by Richard Jefferies                                414
+
+Ballads, by Robert Louis Stevenson                                         413
+
+Little Journeys to the Homes of Great Business Men: John Jacob Astor       412
+ by Elbert Hubbard
+
+The King's Jackal, by Richard Harding Davis                                411
+
+'Hell fer Sartain' and Other Stories, by John Fox, Jr.                     410
+
+Religious and Moral Poems, by Phillis Wheatley                             409
+
+The Souls of Black Folk, by W. E. B. Du Bois                               408
+
+The Reporter Who Made Himself King, by Richard Harding Davis               407
+
+Appreciations of Richard Harding Davis, by Various                         406
+
+Adventures and Letters, by Richard Harding Davis                           405
+
+Industrial Biography, by Samuel Smiles                                     404
+ [Subtitle: Iron Workers and Tool Makers]
+
+Soldiers of Fortune, by Richard Harding Davis                              403
+
+Penrod, by Booth Tarkington                                                402
+
+Blix, by Frank Norris                                                      401
+
+Helen of Troy and Other Poems, by Sara Teasdale                            400
+
+Cast Upon the Breakers, by Horatio Alger                                   399
+
+First Book of Adam and Eve, by Rutherford Platt                            398
+
+L'Allegro, Il Penseroso, Comus, and Lycidas, by John Milton                397
+
+The Lady, or the Tiger?, by Frank R. Stockton                              396
+
+The Holy War made by Shaddai upon Diabolus, by John Bunyan                 395
+
+Cranford, by Elizabeth Cleghorn Gaskell                                    394
+ [Illustrator: C. E. Brocks]
+
+The Blue Lagoon, A Romance, by H. de Vere Stacpoole                        393
+
+Jerusalem Delivered, by Torquato Tasso                                     392
+
+The Song of Roland, by Anonymous                                           391
+
+A Lute of Jade, by L. Cranmer-Byng                                         390
+ [Subtitle: Being Selections from the Classical Poets of China]
+
+The Great God Pan, by Arthur Machen                                        389
+
+The Crossing, by Winston Churchill                                         388
+ [Note: this is the American Winston Churchill]
+
+Vailima Letters, by Robert Louis Stevenson                                 387
+ [Subtitle: being correspondence addressed by
+  Robert Louis Stevenson to Sidney Colvin]
+
+Virginibus Puerisque, by Robert Louis Stevenson                            386
+ [Subtitle: and Other Papers]
+
+The Redheaded Outfield and Other Baseball Stories, by Zane Grey            385
+
+The Lost Prince, by Frances Hodgson Burnett                                384
+ [Illustrator: Maurice L. Bower]
+
+She Stoops to Conquer, by Oliver Goldsmith                                 383
+ [Subtitle: or, The Mistakes of a Night, A Comedy]
+
+Edinburgh Picturesque Notes, by Robert Louis Stevenson                     382
+
+Memories and Portraits by Robert Louis Stevenson                           381
+
+Weir of Hermiston, by Robert Louis Stevenson                               380
+
+Worldly Ways and Byways, by Eliot Gregory                                  379
+
+White Knight: Tirant lo Blanc, by Joanot Martorell                         378C
+ and Marti Johan d'Galba
+
+Kansas Women in Literature, by Nettie Garmer Barker                        377
+
+A Journal of the Plague Year, by Daniel Defoe                              376
+
+An Occurrence at Owl Creek Bridge, by Ambrose Bierce                       375
+
+Fantastic Fables, by Ambrose Bierce                                        374
+
+Lay Morals, by Robert Louis Stevenson                                      373
+
+Prince Otto, by Robert Louis Stevenson                                     372
+
+Literary Blunders, by Henry Benjamin Wheatley                              371
+
+Fortunes and Misfortunes of the Famous Moll Flanders, by Daniel Defoe      370
+
+The Outlaw of Torn, by Edgar Rice Burroughs                                369
+
+Acres of Diamonds, by Russell H. Conwell                                   368
+
+The Country of the Pointed Firs, by Sarah Orne Jewett                      367
+
+Bab: A Sub-Deb, by Mary Roberts Rinehart                                   366
+
+The Land of Little Rain, by Mary Austin                                    365
+
+The Mad King, by Edgar Rice Burroughs                                      364
+
+The Oakdale Affair, by Edgar Rice Burroughs                                363
+
+Miss Billy's Decision, by Eleanor H. Porter                                362
+
+Miss Billy Married, by Eleanor H. Porter                                   361
+
+What is Property?, by P. J. Proudhon                                       360
+ [Subtitle: An Inquiry into the Principle
+  of Right and of Government]
+
+Good Stories For Great Holidays, by Frances Jenkins Olcott                 359
+ [Subtitle: Arranged for Story-Telling and Reading
+  Aloud and for the Children's Own Reading]
+
+The Scarlet Car, by Richard Harding Davis                                  358
+
+A Dream of John Ball, A King's Lesson, by William Morris                   357
+
+Beyond the City, by Arthur Conan Doyle                                     356
+
+The Parasite, by Arthur Conan Doyle                                        355
+
+The Story of a Pioneer, by Anna Howard Shaw                                354
+ [Subtitle: With The Collaboration Of Elizabeth Jordan]
+
+In Flanders Fields and Other Poems, by John McCrae                         353
+ [Subtitle: With an Essay in Character by Sir Andrew Macphail]
+
+Buttered Side Down, by Edna Ferber                                         352
+
+Of Human Bondage, by W. Somerset Maugham                                   351
+
+Fanny Herself, by Edna Ferber                                              350
+
+The Harvester, by Gene Stratton Porter                                     349
+
+Hesiod, The Homeric Hymns, and Homerica, by Homer and Hesiod               348
+
+Grettir The Strong, by Unknown                                             347
+ [Subtitle: Grettir's Saga]
+
+The Troll Garden, et al, by Willa Cather                                   346
+
+Dracula, by Bram Stoker                                                    345
+
+The Merry Men, and Other Tales and Fables, by Robert Louis Stevenson       344
+
+Fables, by Robert Louis Stevenson                                          343
+
+Margaret Ogilvy, by J. M. Barrie                                           342
+
+Myths and Legends of the Sioux, by Marie L. McLaughlin                     341
+
+The Soul of the Indian, by Charles A. Eastman                              340
+ [Subtitle: An Interpretation]
+ [Author a.k.a. Ohiyesa]
+
+Old Indian Days,  by Charles A. Eastman                                    339
+ [Author a.k.a. Ohiyesa]
+
+Old Indian Legends, by Zitkala-Sa                                          338
+
+Indian Boyhood, by Charles A. Eastman                                      337
+ [Author a.k.a. Ohiyesa]
+
+Indian Heroes and Great Chieftains, by Charles A. Eastman                  336
+ [Author a.k.a. Ohiyesa]
+
+Frances Waldeaux, by Rebecca Harding Davis                                 335
+
+Episodes in Van Bibber's Life, by Richard Harding Davis                    334
+
+Robert Louis Stevenson, by Walter Raleigh                                  333
+
+The Burial of the Guns, by Thomas Nelson Page                              332
+
+The Mucker, by Edgar Rice Burroughs                                        331
+
+Where There's A Will, by Mary Roberts Rinehart                             330
+
+Island Nights' Entertainments, by Robert Louis Stevenson                   329
+
+A Heap o' Livin', by Edgar A. Guest                                        328
+
+The Princess Aline, by Richard Harding Davis                               327
+
+Steep Trails, by John Muir                                                 326
+
+Phantastes, by George MacDonald                                            325
+ [Subtitle: A Faerie Romance for Men and Women]
+
+A Knight of the Cumberland, by John Fox Jr.                                324
+
+Verses 1889-1896, by Rudyard Kipling                                       323
+
+St. Ives, by Robert Louis Stevenson                                        322
+
+Moran of the Lady Letty, by Frank Norris                                   321
+
+La vida de Lazarillo de tormes y de sus fortunas y adversidades,           320
+ por Desconocido
+ [Language: Spanish]
+
+The Ways of Men, by Eliot Gregory                                          319
+
+John Barleycorn, by Jack London                                            318
+
+The Culprit Fay, and Other Poems, by Joseph Rodman Drake                   317
+
+The Golden Road, by Lucy Maud Montgomery                                   316
+
+Rhymes of a Red Cross Man, by Robert W. Service                            315
+
+Guide to Life and Literature of the Southwest                              314
+
+The Children of the Night, by Edwin Arlington Robinson                     313
+
+Young Adventure, by Stephen Vincent Benet                                  312
+ [Subtitle: A Book of Poems]
+
+Bunner Sisters, by Edith Wharton                                           311
+
+Before Adam, by Jack London                                                310
+
+Rhymes of a Rolling Stone, by Robert W. Service                            309
+
+Three Men in a Boat, by Jerome K. Jerome                                   308
+
+Three Elephant Power, by Andrew Barton 'Banjo' Paterson                    307
+
+Early Short Fiction of Edith Wharton, Part 2 of 10                         306
+
+The Count's Millions, Vol. 1, by Emile Gaboriau                            305
+
+Rio Grande's Last Race and Other Verses, Andrew Barton 'Banjo' Paterson    304
+
+HomeBrew HomePages Put YOU on the World Wide Web, by Anonymous             303C
+
+The Fibonacci Number Series, by Michael Husted                             302C
+
+The Ballad of Reading Gaol, by Oscar Wilde                                 301
+
+United States Declaration of Independence, by Thomas Jefferson             300
+
+Tales From Two Hemispheres, by Hjalmar Hjorth Boysen                       299
+
+The Market-Place, by Harold Frederic                                       298
+
+The Flirt, by Booth Tarkington                                             297
+
+The Cash Boy, by Horatio Alger Jr                                          296
+
+Early Short Fiction of Edith Wharton, Part 1 of 10, by Edith Wharton       295
+
+The Captain of the Pole-Star and Other Tales, by Arthur Conan Doyle        294
+
+Paul Prescott's Charge, by Horatio Alger                                   293
+
+Beauty and The Beast, and Tales From Home, by Bayard Taylor                292
+
+The Golden Age, by Kenneth Grahame                                         291
+
+The Stark Munro Letters                                                    290
+ [Subtitle: Being series of twelve letters written by J. Stark Munro,
+  M.B., to his friend and former fellow-student, Herbert Swanborough,
+  of Lowell, Massachusetts, during the years 1881-1884]
+
+The Wind in the Willows, by Kenneth Grahame                                289
+
+The Certain Hour, by James Branch Cabell                                   288
+
+Remember the Alamo, by Amelia E. Barr                                      287
+
+Laddie, by Gene Stratton Porter                                            286
+
+The Lost Continent, by C. J. Cutcliffe Hyne                                285
+
+House of Mirth, by Edith Wharton                                           284
+
+The Reef, by Edith Wharton                                                 283
+
+Eothen, by A. W. Kinglake                                                  282
+
+Father Damien, by Robert Louis Stevenson                                   281
+ [Subtitle: an Open Letter to the Reverend Dr. Hyde of Honolulu]
+
+Records of a Family of Engineers, Robert Louis Stevenson                   280
+
+Photos and Maps of the Trinity Atomic Test Site,                           279
+ by the United States Army
+
+The Trinity Atomic test Site, by the White Sands Missile Range             278
+ Public Affairs Office
+
+The Trinity Atomic Test Site, by The National Atomic Museum                277
+ [Subtitle: The 50th Anniversary of the Atomic Bomb]
+
+One Hundred Fourth Symphony, in D-major, by Franz Josef Haydn              276C
+ [Book and Music]
+
+The Confession of Faith, by Various                                        275
+ [Subtitle: Which Was Submitted to His Imperial Majesty
+  Charles the 5th At the Diet of Augsburg in the Year
+  1530 by Philip Melanchthon, 1497-1560]
+
+Martin Luther's 95 Theses, by Martin Luther                                274
+ [Language: Latin]
+
+The Smalcald Articles, by Martin Luther                                    273
+ [Subtitle: Articles of Christian Doctrine]
+
+An Open Letter on Translating, by Martin Luther                            272
+
+Black Beauty, by Anna Sewell                                               271
+
+Dream Days, by Kenneth Grahame                                             270
+
+Beasts and Super-Beasts, by Saki                                           269
+ (Author a.k.a. H. H. Munro)
+
+The Octopus, by Frank Norris                                               268
+
+The Touchstone, by Edith Wharton                                           267
+
+Confessio Amantis, by John Gower                                           266
+ [Subtitle: Tales of the Seven Deadly Sins, 1330-1408 A.D.]
+
+The Life and Death of Cormac the Skald, by Unknown                         265
+ [Subtitle: Anonymous Icelandic Epic, 1250-1300 A.D.,
+  Although Parts May Be Based on a Now Lost 12th
+  Century Saga]
+
+Main Street and Other Poems, by Alfred Joyce Kilmer                        264
+
+Trees and Other Poems, by Joyce Kilmer                                     263
+
+The Collected Poems of Rupert Brooke, by Rupert Brooke                     262
+
+A Dome of Many-Coloured Glass, by Amy Lowell                               261
+
+Introduction to Robert Browning, by Hiram Corson                           260
+
+Ballads of a Cheechako, by Robert W. Service                               259
+
+Poems, by Adam Lindsay Gordon                                              258
+
+Troilus and Criseyde, by Geoffrey Chaucer                                  257
+
+Motion Picture of Rotating Earth, by the U. S. Government                  256
+
+QREAD, an Etext Viewer for Windows, by Dan Scavelle                        255C
+
+The Second Story of Meno, by Unknown                                       254C
+ [Subtitle: A Continuation of Socrates' Dialogue with Meno
+  in Which the Boy Proves Toot 2 is Irrational]
+
+The Universal Copyright Convention of 1988,                                253
+ by The Coalition for Networked Information
+
+The United States Copyright Act of 1976, Title 17 U.S.C.                   252
+
+The United States Congressional Address Book of 1995,                      251
+ by The Government of the United States
+
+A Brief History of the Internet, by Michael Hart                           250C
+
+French Cave Paintings, by Jean Clottes                                     249C
+ [Language: French]
+
+Webster's Unabridged Dictionary, by Noah Webster                           248
+ [Subtitle: Second 100 Pages]
+
+Webster's Unabridged Dictionary, by Noah Webster                           247
+ [Subtitle: First 100 Pages]
+
+Rubaiyat of Omar Khayyam, by Omar Khayyam                                  246
+
+Life On The Mississippi, Complete, by Mark Twain                           245
+
+A Study In Scarlet, by Arthur Conan Doyle                                  244
+
+The Forged Coupon and Other Stories, by Leo Tolstoy                        243
+
+My Antonia, by Willa Cather                                                242
+
+Clotelle, by William Wells Brown                                           241
+ [Subtitle: The Colored Heroine]
+
+Stories From the Old Attic, by Robert Harris                               240C
+
+Radar Map of the United States, by the U. S. Government                    239
+
+Dear Enemy, by Jean Webster                                                238
+
+Sexti Properti Carmina, by Sextus Propertius                               237
+ [Language: Latin]
+
+The Jungle Book, by Rudyard Kipling                                        236
+
+William Gibson Interviewed, by Giuseppe Salza                              235C
+
+Child Christopher, by William Morris                                       234
+
+Sister Carrie, by Theodore Dreiser                                         233
+
+The Georgics, by Virgil                                                    232
+
+The Georgics, by Virgil                                                    231
+ [Language: Latin]
+
+The Bucolics and Eclogues, by Virgil                                       230
+
+The Bucolics and Eclogues, by Virgil                                       229
+ [Language: Latin]
+
+The Aeneid, by Virgil                                                      228
+
+The Aeneid, by Virgil                                                      227
+ [Language: Latin]
+
+Cicero's Orations, by Cicero                                               226
+ [Language: Latin]
+
+At the Back of the North Wind, by George MacDonald                         225
+
+A Pair of Blue Eyes, by Thomas Hardy                                       224
+
+The Wisdom of Father Brown, by G. K. Chesterton                            223
+
+The Moon and Sixpence, by W. Somerset Maugham                              222
+
+The Return of Sherlock Holmes, by Arthur Conan Doyle                       221B
+ [Subtitle: Magazine Edition]
+
+The Secret Sharer, by Joseph Conrad                                        220
+
+Heart of Darkness, by Joseph Conrad                                        219
+
+Caesar's Commentaries in Latin, Books 1-4, by Julius Caesar                218
+
+Sons and Lovers, by David Herbert Lawrence                                 217
+
+Tao Teh King, by Lao-Tze                                                   216
+ [Title a.k.a. Dao te ching]
+ [Subtitle: The Tao and Its Characteristics]
+ [Author a.k.a. Lao Tzu; a.k.a. Laozi]
+
+The Call of the Wild, by Jack London                                       215
+
+In the Days When the World Was Wide and Other Verses, by Henry Lawson      214
+
+The Man from Snowy River, by Andrew Barton 'Banjo' Paterson                213
+
+A List of Factorial Math Constants, by Unknown                             212
+
+The Aspern Papers, by Henry James                                          211
+
+An International Episode, by Henry James                                   210
+
+The Turn of the Screw, by Henry James                                      209
+
+Daisy Miller, by Henry James                                               208
+
+The Spell of the Yukon, by Robert Service                                  207
+
+The Martin Luther King, Jr. Day, 1995, Memorial Issue, by Various          206
+
+Walden, and On The Duty Of Civil Disobedience, by Henry David Thoreau      205
+
+The Innocence of Father Brown, by G. K. Chesterton                         204
+
+Uncle Tom's Cabin, by Harriet Beecher Stowe                                203
+
+My Bondage and My Freedom, by Frederick Douglass                           202
+
+Flatland: A Romance of Many Dimensions (Illustrated), by Edwin A. Abbot    201
+
+The Project Gutenberg Gutenberg Encyclopedia, Vol. 1,                      200
+ by Project Gutenberg
+
+Reserved for The Project Gutenberg Encyclopedia                            199
+
+Reserved for The Project Gutenberg Encyclopedia                            198
+
+Reserved for The Project Gutenberg Encyclopedia                            197
+
+Reserved for The Project Gutenberg Encyclopedia                            196
+
+Reserved for The Project Gutenberg Encyclopedia                            195
+
+Reserved for The Project Gutenberg Encyclopedia                            194
+
+Reserved for The Project Gutenberg Encyclopedia                            193
+
+Reserved for The Project Gutenberg Encyclopedia                            192
+
+Reserved for The Project Gutenberg Encyclopedia                            191
+
+Reserved for The Project Gutenberg Encyclopedia                            190
+
+Reserved for The Project Gutenberg Encyclopedia                            189
+
+Reserved for The Project Gutenberg Encyclopedia                            188
+
+Reserved for The Project Gutenberg Encyclopedia                            187
+
+Reserved for The Project Gutenberg Encyclopedia                            186
+
+Reserved for The Project Gutenberg Encyclopedia                            185
+
+Reserved for The Project Gutenberg Encyclopedia                            184
+
+Reserved for The Project Gutenberg Encyclopedia                            183
+
+Reserved for The Project Gutenberg Encyclopedia                            182
+
+The Project Gutenberg RST Manual, by Marcello Perathoner                   181
+
+1994 CIA World Factbook, by United States Central Intelligence Agency      180
+
+The Europeans, by Henry James                                              179
+
+Confidence, by Henry James                                                 178
+
+The American, by Henry James                                               177
+
+Roderick Hudson, by Henry James                                            176
+
+The Phantom of the Opera, by Gaston Leroux                                 175
+
+The Picture of Dorian Gray, by Oscar Wilde                                 174
+
+The Insidious Dr. Fu-Manchu, by Sax Rohmer                                 173
+
+The Haunted Bookshop, by Christopher Morley                                172
+
+Charlotte Temple, by Susanna Rowson                                        171
+
+The Haunted Hotel, by Wilkie Collins                                       170
+ [Subtitle: A Mystery of Modern Venice]
+
+The Well at the World's End, by William Morris                             169
+
+History and Practice of the Art of Photography, by Henry H. Snelling       168
+
+American Handbook of the Daguerrotype, by Samuel D. Humphrey               167
+
+Summer, by Edith Wharton                                                   166
+
+McTeague, by Frank Norris                                                  165
+
+Twenty Thousand Leagues under the Sea, by Jules Verne                      164
+
+Flower Fables, by Louisa May Alcott                                        163
+
+Take Me for a Ride, by Mark E. Laxer                                       162C
+ [Subtitle: Coming of Age in a Destructive Cult]
+
+Sense and Sensibility, by Jane Austen                                      161
+
+The Awakening and Selected Short Stories, by Kate Chopin                   160
+
+The Island of Doctor Moreau, by H. G. Wells                                159
+
+Emma, by Jane Austen                                                       158
+
+Daddy-Long-Legs, by Jean Webster                                           157
+
+Beethoven's Fifth Symphony, in C-minor, Opus #67,                          156C
+ by Ludwig van Beethoven
+
+The Moonstone, by Wilkie Collins                                           155
+
+The Rise of Silas Lapham, by William Dean Howells                          154
+
+Jude the Obscure, by Thomas Hardy                                          153
+
+Wild Justice, by Ruth M. Sprague                                           152C
+
+The Rime of the Ancient Mariner, by Samuel Taylor Coleridge                151
+
+Plato's Republic, by Plato                                                 150
+ [Note: An improved edition of this title may be viewed at ebook #55201]
+
+The Lost Continent, by Edgar Rice Burroughs                                149
+
+The Autobiography of Benjamin Franklin                                     148
+
+Common Sense, by Thomas Paine                                              147
+
+A Little Princess, by Frances Hodgson Burnett                              146
+
+Middlemarch, by George Eliot                                               145
+
+The Voyage Out, by Virginia Woolf                                          144
+
+The Mayor of Casterbridge, by Thomas Hardy                                 143
+
+The $30,000 Bequest and Other Stories, by Mark Twain                       142
+
+Mansfield Park, by Jane Austen                                             141
+
+The Jungle, by Upton Sinclair                                              140
+
+The Lost World, by Arthur Conan Doyle                                      139
+
+George Sand, Some Aspects of Her Life and Writings, by Rene Doumic         138
+
+Sara Crewe, by Frances Hodgson Burnett                                     137
+
+A Child's Garden of Verses, by Robert Louis Stevenson                      136
+ [Note: An improved edition of this title may be viewed at ebook #28722]
+
+Les Miserables, by Victor Hugo                                             135
+ [Subtitle: Complete in Five Volumes]
+
+Maria, by Mary Wollstonecraft                                              134
+ [Subtitle: The Wrongs of Woman]
+
+The Damnation of Theron Ware, by Harold Frederic                           133
+
+The Art of War, by Sun Tzu  [Tr. by Lionel Giles]                          132
+
+The Pilgrim's Progress, by John Bunyan                                     131
+
+Orthodoxy, by G. K. Chesterton                                             130
+
+The Square Root of Two to 5 Million Digits,                                129
+ by Robert Nemiroff and Jerry Bonnell
+
+The Arabian Nights Entertainments, by Andrew Lang                          128
+
+Number "e" (Natural Log) to Approximately 1 Million Places,                127
+ by Robert Nemiroff and Jerry Bonnell
+
+The Poison Belt, by Arthur Conan Doyle                                     126
+
+A Girl Of The Limberlost, by Gene Stratton-Porter                          125
+
+Deuteronomical Books of the Bible, by Anonymous                            124
+
+At the Earth's Core, by Edgar Rice Burroughs                               123
+
+Return of the Native, by Thomas Hardy                                      122
+
+Northanger Abbey, by Jane Austen                                           121
+
+Treasure Island, by Robert Louis Stevenson                                 120
+
+A Tramp Abroad, by Mark Twain                                              119
+
+Big Dummy's Guide to the Internet, by Electronic Frontier Foundation       118C
+
+Beethoven's Fifth Symphony, in C-minor, Opus #67,                          117C
+ by Ludwig van Beethoven
+
+Motion Pictures of the Apollo 11 Lunar Landing, by United States           116
+
+United States Census Figures back to 1630,                                 115
+ by the U. S. Bureau of the Census
+
+Tenniel Illustrations for Alice in Wonderland, by Sir John Tenniel         114
+
+The Secret Garden, by Frances Hodgson Burnett                              113
+
+Violists, by Richard McGowan                                               112C
+
+Freckles, by Gene Stratton-Porter                                          111
+
+Tess of the d'Urbervilles, by Thomas Hardy                                 110
+
+Renascence and Other Poems, by Edna St. Vincent Millay                     109
+
+The Return of Sherlock Holmes, by Arthur Conan Doyle                       108
+
+Far from the Madding Crowd, by Thomas Hardy                                107
+
+Jungle Tales of Tarzan, by Edgar Rice Burroughs                            106
+
+Persuasion, by Jane Austen                                                 105
+
+Franklin Delano Roosevelt's First Inaugural Address                        104
+
+Around the World in 80 Days, by Jules Verne                                103
+
+The Tragedy of Pudd'nhead Wilson, by Mark Twain                            102
+
+Hacker Crackdown, by Bruce Sterling                                        101C
+ [Subtitle: Law and Disorder on the Electronic Frontier]
+
+The Complete Works of William Shakespeare                                  100C
+
+Collected Articles of Frederick Douglass, by Frederick Douglass             99
+
+A Tale of Two Cities, by Charles Dickens                                    98
+
+Flatland, by Edwin A. Abbott                                                97
+
+The Monster Men, by Edgar Rice Burroughs                                    96
+
+The Prisoner of Zenda, by Anthony Hope                                      95
+
+Alexander's Bridge and The Barrel Organ, by Willa Cather and Alfred Noyes   94
+
+Tom Sawyer, Detective, by Mark Twain                                        93
+
+Tarzan and the Jewels of Opar, by Edgar Rice Burroughs                      92
+
+Tom Sawyer Abroad, by Mark Twain                                            91
+
+The Son of Tarzan, by Edgar Rice Burroughs                                  90
+
+North American Free Trade Agreement, Oct. 7, 1992, by Canada                89
+
+Price/Cost Indexes from 1875 to 1989, by The United States Government       88
+ [Subtitle: Estimated to 2010]
+
+The World Factbook, 1993 Edition, by the United States CIA                  87
+
+A Connecticut Yankee in King Arthur's Court, Complete, by Mark Twain        86
+
+The Beasts of Tarzan, by Edgar Rice Burroughs                               85
+
+Frankenstein, by Mary Wollstonecraft (Godwin) Shelley                       84
+ [Subtitle: or The Modern Prometheus]
+
+From the Earth to the Moon, by Jules Verne                                  83
+ [Note: An improved edition of this title may be viewed at ebook #44278]
+
+Ivanhoe, by Walter Scott                                                    82
+ [Subtitle: A Romance]
+
+The Return of Tarzan, by Edgar Rice Burroughs                               81
+
+The Online World, by Odd de Presno                                          80C
+
+Terminal Compromise, by Winn Schwartau                                      79C
+
+Tarzan of the Apes, by Edgar Rice Burroughs                                 78
+
+The House of the Seven Gables, by Nathaniel Hawthorne                       77
+
+Adventures of Huckleberry Finn, by Mark Twain                               76
+
+Email 101, by John E. Goodwin                                               75C
+
+The Adventures of Tom Sawyer, Complete, by Mark Twain                       74
+
+The Red Badge of Courage, by Stephen Carne                                  73
+ [Subtitle: An Episode of the American Civil War]
+
+Thuvia, Maid of Mars, by Edgar Rice Burroughs                               72
+
+On the Duty of Civil Disobedience, by Henry David Thoreau                   71
+
+What Is Man?, by Mark Twain                                                 70
+
+The 32nd Mersenne Prime, by David Slowinski                                 69
+
+Warlord of Mars, by Edgar Rice Burroughs                                    68
+
+The Black Experience in America, by Norman Coombs                           67C
+ [Subtitle: The Immigrant Heritage of America]
+
+The Dawn of Amateur Radio in the U.K. and Greece, by Norman F. Joly         66C
+ [Subtitle: A Personal View]
+
+The First 100,000 Prime Numbers, by Unknown                                 65
+
+The Gods of Mars, by Edgar Rice Burroughs                                   64
+
+The Number "e", by Unknown                                                  63
+ [Subtitle: Natural log]
+
+A Princess of Mars, by Edgar Rice Burroughs                                 62
+
+The Communist Manifesto, by Karl Marx and Friedrich Engels                  61
+
+The Scarlet Pimpernel, by Baroness Orczy                                    60
+
+A Discourse on Method, by René Descartes                                    59
+
+Paradise Regained, by John Milton                                           58
+
+Aladdin and the Magic Lamp, by Unknown                                      57
+
+NREN For All: Insurmountable Opportunity, by Jean Armour Polly              56C
+
+The Wonderful Wizard of Oz, by L. Frank Baum                                55
+ [An improved edition of this title may be viewed at ebook #43936]
+
+The Marvellous Land of Oz, by L. Frank Baum                                 54
+
+LOC Workshop on Electronic Texts, by The Library of Congress                53
+
+The Square Root of 2, by Stan Kerr                                          52
+
+Anne Of The Island, by Lucy Maud Montgomery                                 51
+
+Pi, by Scott Hemphill                                                       50
+
+Surfing the Internet, by Jean Armour Polly                                  49C
+
+The World Factbook, 1992 Edition, by the United States CIA,                 48
+
+Anne Of Avonlea, by Lucy Maud Montgomery                                    47
+
+A Christmas Carol, A Ghost Story of Christmas, by Charles Dickens           46
+ [Illustrations by John Leech from an 1843 First Edition]
+
+Anne Of Green Gables, by Lucy Maud Montgomery                               45
+
+Song of the Lark, by Willa Cather                                           44
+
+The Strange Case Of Dr. Jekyll And Mr. Hyde, by Robert Louis Stevenson      43
+
+The Strange Case Of Dr. Jekyll And Mr. Hyde, by Robert Louis Stevenson      42
+
+The Legend of Sleepy Hollow, by Washington Irving                           41
+
+Northwestnet NUSIRG Internet Guide, by Jonathan Kochmer                     40C
+
+Hitchhiker's Guide to the Internet, by Ed Krol                              39C
+
+The Jargon File, Version 2.9.10, July 1, 1992, by Various                   38
+
+Census of Population and Housing, 1990,                                     37
+ by The United States Bureau of the Census
+
+The War of the Worlds, by H. G. Wells                                       36
+
+The Time Machine, by H. G. Wells                                            35
+
+Zen and the Art of the Internet, by Brendan P. Kehoe                        34C
+
+The Scarlet Letter, by Nathaniel Hawthorne                                  33
+ [An improved edition of this title may be viewed at ebook #25344]
+
+Herland, by Charlotte Perkins Stetson Gilman                                32
+
+The Oedipus Trilogy, by Sophocles                                           31
+
+The Bible, King James Version, Complete, by Various                         30
+ [An improved edition of this title may be viewed at ebook #10900]
+
+Census of Population and Housing, 1990,                                     29
+ by The United States Bureau of the Census
+
+Aesop's Fables, by Aesop                                                    28
+ [An improved edition of this title may be viewed at ebook #18732]
+
+Far from the Madding Crowd, by Thomas Hardy                                 27
+
+Paradise Lost, by John Milton                                               26
+
+The 1991 CIA World Factbook                                                 25
+
+O Pioneers!, by Willa Cather                                                24
+
+The Narrative of the Life of Frederick Douglass, by Frederick Douglass      23
+ [Subtitle: An American Slave]
+
+Roget's Thesaurus by Peter Mark Roget                                       22
+
+Aesop's Fables, by Aesop                                                    21
+
+Paradise Lost, by John Milton                                               20
+
+The Song Of Hiawatha, by Henry W. Longfellow                                19
+
+Federalist Papers, by Alexander Hamilton, John Jay, and James Madison       18
+
+The Book Of Mormon, by Anonymous                                            17
+ [Subtitle: An Account Written By The Hand Of Mormon
+  Upon Plates Taken From The Plates Of Nephi]
+
+Peter Pan, by James M. Barrie                                               16C
+
+Moby Dick, by Herman Melville                                               15
+
+The 1990 CIA World Factbook                                                 14
+
+The Hunting of the Snark, by Lewis Carroll                                  13
+ [Subtitle: An Agony in Eight Fits]
+ [An improved edition of this title may be viewed at ebook #29888]
+
+Through the Looking-Glass, by Lewis Carroll                                 12
+
+Alice's Adventures in Wonderland, by Lewis Carroll                          11
+
+The Bible, Both Testaments, King James Version                              10
+
+Lincoln's First Inaugural Address, March 4, 1861, by Abraham Lincoln         9
+
+Lincoln's Second Inaugural Address, March 4, 1865, by Abraham Lincoln        8
+
+The Mayflower Compact                                                        7
+
+Give Me Liberty Or Give Me Death, by Patrick Henry                           6
+
+The United States' Constitution                                              5
+
+Lincoln's Gettysburg Address, given November 19, 1863, on the                4
+ battlefield near Gettysburg, Pennsylvania, USA
+
+John F. Kennedy's Inaugural Address, January 20, 1961                        3
+
+The Ten Original Amendments to the Constitution of the United States         2
+ Passed by Congress September 25, 1789
+ [Subtitle: a.k.a. The Bill of Rights]
+
+The Declaration of Independence of the United States of America,             1
+ by Thomas Jefferson

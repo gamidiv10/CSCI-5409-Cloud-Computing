@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular.min.js"></script>
+  <script src="controller.js"></script>
+</head>
+<body ng-app="gutenberg">
+  <div ng-controller="appController" align="center">
+    &nbsp;&nbsp;<label style="margin-top: 20px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color:royalblue;"><h1>Gutenberg.org</h1>&nbsp;</label>
+    <form class="form-inline" style="display:block ;">
+        <div class="form-group mx-sm-3 mb-2" >
+            <input type="text" class="form-control" id="keywordInput" placeholder="Enter keyword" ng-model="keyword" style="margin-left: 650px; border-color: royalblue; color: royalblue; ">
+        </div>
+
+        <button type="submit" class="btn btn-primary" ng-click="search();clear()" style="margin-top: 10px;">Search</button>&nbsp;<br>
+        <button type="submit" class="btn btn-primary" ng-click="retrieve()" style="margin-top: 10px;">retrieve notes</button>
+    </form>
+    <style>
+        table, th, td {
+          border: 1px solid black;
+          border-collapse: collapse
+        }
+        th, td {
+          padding: 15px
+        }
+        th, td {
+          text-align: left
+        }
+        table tr:nth-child(even) {
+          background-color: #eee
+        }
+        table tr:nth-child(odd) {
+         background-color: #fff
+        }
+        table th {
+          background-color: black;
+          color: white
+        }
+        </style>
+    <div style="padding: 10px; width: 75%; float:left; text-align: center; margin-top: 30px; " ng-show="rows.length && !hideVar">
+        <table class="table table-sm">
+        <thead>
+            <tr>
+            <th>Book Title</th>
+            <th>Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="row in rows">
+            <td>{{row.title}}</td>
+            <td>{{row.author}}</td>
+            </tr>
+        </tbody>
+        </table>
+    </div>
+    <div style="padding: 20px; width: 50%; float:left" ng-show="isInitialized && !rows.length && !hideVar">
+        <h5><bold>No results for the keyword</bold></h5>
+    </div>
+
+    <div style="padding: 10px; width: 50%; float:left" ng-show="rows.length && hideVar">
+        <table class="table table-sm">
+        <thead>
+            <tr>
+            <th>Keyword</th>
+            <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="row in rows">
+            <td>{{row.keyword}}</td>
+            <td>{{row.note}}</td>
+            </tr>
+        </tbody>
+        </table>
+    </div>
+    <div style="padding: 10px; width: 20%; float:left;"  ng-show="rows.length && !hideVar">
+        <div class="form-group">
+            <label for="textArea" style="font-weight: bold;">Notes</label>
+            <textarea class="form-control rounded-0" id="textArea" rows="10" ng-model="note" style="border: 2px solid black; border-collapse: collapse;"></textarea></br>
+            <button type="submit" class="btn btn-primary mb-2" ng-click="save();clear()">Save</button>
+        </div>
+    </div>
+    <div style="padding: 20px; width: 50%; float:left" ng-show="isInitialized && !rows.length && hideVar">
+        <h5><bold>No notes found</bold></h5>
+    </div>
+  </div>
+</body>
+</html>
